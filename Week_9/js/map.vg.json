@@ -14,7 +14,7 @@
       "lookup": "properties.NAME",
       "from": {
         "data": {
-          "url": "https://raw.githubusercontent.com/adrielkosasih/FIT3179/main/Week_9/data/Map%20Data.csv"
+          "url": "https://raw.githubusercontent.com/adrielkosasih/FIT3179/main/Week_9/data/Map%20Data%202.csv"
         },
         "key": "Country",
         "fields": ["avg_life_expectancy"]
