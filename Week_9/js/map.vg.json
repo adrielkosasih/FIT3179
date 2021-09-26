@@ -4,7 +4,7 @@
   "width": 800,
   "height": 600,
   "data": {
-    "url": "https://raw.githubusercontent.com/adrielkosasih/FIT3179/main/js/ne_110m_admin_0_countries.topojson",
+    "url": "https://raw.githubusercontent.com/adrielkosasih/FIT3179/main/Week_9/js/ne_110m_admin_0_countries.topojson",
     "format": {
           "type": "topojson",
           "feature": "ne_110m_admin_0_countries"
@@ -14,7 +14,7 @@
       "lookup": "properties.NAME",
       "from": {
         "data": {
-          "url": "https://raw.githubusercontent.com/adrielkosasih/FIT3179/main/data/Map%20Data.csv"
+          "url": "https://raw.githubusercontent.com/adrielkosasih/FIT3179/main/Week_9/data/Map%20Data.csv"
         },
         "key": "Country",
         "fields": ["avg_life_expectancy"]
