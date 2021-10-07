@@ -1,0 +1,2939 @@
+Year,Region,Country,Avg. Life expectancy,Avg. Alcohol
+2000,Africa,Uganda,46.6,10.47
+2000,Africa,Nigeria,47.1,9.23
+2000,Africa,Gabon,61,8.87
+2000,Africa,Seychelles,71.8,8.24
+2000,Africa,South Africa,57.3,7.3
+2000,Africa,Rwanda,48.3,7.13
+2000,Africa,Burundi,58,6.61
+2000,Africa,Namibia,57.4,5.73
+2000,Africa,Botswana,47.8,5.37
+2000,Africa,Sao Tome and Principe,62.6,5.07
+2000,Africa,Mauritius,71,4.6
+2000,Africa,Liberia,51.9,4.46
+2000,Africa,Equatorial Guinea,52.7,4.46
+2000,Africa,Sierra Leone,39,3.97
+2000,Africa,Cameroon,51.4,3.91
+2000,Africa,Burkina Faso,51,3.71
+2000,Africa,Cabo Verde,69.9,3.49
+2000,Africa,Côte d'Ivoire,47.9,3.45
+2000,Africa,Lesotho,49.3,3.1
+2000,Africa,Guinea-Bissau,52.1,2.84
+2000,Africa,Zambia,43.8,2.62
+2000,Africa,Congo,52.9,2.26
+2000,Africa,Gambia,55.9,2.18
+2000,Africa,Angola,45.3,1.85
+2000,Africa,Sudan,58.6,1.76
+2000,Africa,Zimbabwe,46,1.68
+2000,Africa,Ghana,57.2,1.6
+2000,Africa,Kenya,51.9,1.51
+2000,Africa,Central African Republic,46,1.51
+2000,Africa,Djibouti,57.4,1.34
+2000,Africa,Benin,55.4,1.34
+2000,Africa,Tunisia,72.9,1.21
+2000,Africa,Malawi,43.1,1.18
+2000,Africa,Madagascar,57.9,1.16
+2000,Africa,Mozambique,49,1.14
+2000,Africa,Togo,54.6,1.1
+2000,Africa,Ethiopia,51.2,0.88
+2000,Africa,Eritrea,45.3,0.83
+2000,Africa,Mali,49.8,0.47
+2000,Africa,Morocco,68.6,0.45
+2000,Africa,Senegal,57.5,0.29
+2000,Africa,Chad,47.6,0.25
+2000,Africa,Algeria,71.3,0.25
+2000,Africa,Guinea,52.5,0.17
+2000,Africa,Egypt,68.8,0.14
+2000,Africa,Niger,50,0.1
+2000,Africa,Comoros,59.5,0.09
+2000,Africa,Mauritania,60,0.03
+2000,Africa,Somalia,55,0.01
+2000,Africa,Libya,78,0.01
+2000,Americas,Bahamas,72.6,12.15
+2000,Americas,Saint Lucia,71.6,11.69
+2000,Americas,Grenada,74,9.4
+2000,Americas,United States of America,76.8,8.21
+2000,Americas,Venezuela (Bolivarian Republic of),72.5,8.01
+2000,Americas,Argentina,74.1,7.68
+2000,Americas,Canada,79.1,7.6
+2000,Americas,Barbados,73.3,7.43
+2000,Americas,Antigua and Barbuda,73.6,7.27
+2000,Americas,Brazil,75,7.26
+2000,Americas,Paraguay,79,6.78
+2000,Americas,Uruguay,75.1,6.65
+2000,Americas,Guyana,65.4,6.63
+2000,Americas,Dominican Republic,72,6.58
+2000,Americas,Chile,77.3,6.24
+2000,Americas,Panama,75.7,5.58
+2000,Americas,Mexico,74.8,4.99
+2000,Americas,Saint Vincent and the Grenadines,79,4.8
+2000,Americas,Haiti,58.6,4.79
+2000,Americas,Belize,68.3,4.79
+2000,Americas,Trinidad and Tobago,69.1,4.68
+2000,Americas,Colombia,71.4,4.66
+2000,Americas,Peru,71.4,4.59
+2000,Americas,Costa Rica,77.6,4.34
+2000,Americas,Suriname,67.4,4.29
+2000,Americas,Ecuador,72.8,3.99
+2000,Americas,Cuba,76.9,3.92
+2000,Americas,Nicaragua,73,3.61
+2000,Americas,Jamaica,72.6,3.46
+2000,Americas,El Salvador,69,2.79
+2000,Americas,Guatemala,67.7,2.63
+2000,Americas,Honduras,71,2.61
+2000,Americas,Bolivia (Plurinational State of),62.6,2.32
+2000,Asia,Cyprus,78.1,9.56
+2000,Asia,Japan,81.1,7.97
+2000,Asia,Kazakhstan,63.9,6
+2000,Asia,Thailand,71.1,5.88
+2000,Asia,Lao People's Democratic Republic,58.1,5.16
+2000,Asia,Philippines,66.8,4.73
+2000,Asia,Georgia,71.8,3.28
+2000,Asia,China,71.7,3.06
+2000,Asia,Turkmenistan,63.8,2.9
+2000,Asia,Armenia,72,2.9
+2000,Asia,Mongolia,62.8,2.79
+2000,Asia,Israel,78.9,2.53
+2000,Asia,Lebanon,72.7,2.26
+2000,Asia,Bahrain,74.5,2.15
+2000,Asia,Kyrgyzstan,66.6,2.13
+2000,Asia,Singapore,78.3,2.03
+2000,Asia,Maldives,69.6,1.83
+2000,Asia,United Arab Emirates,74.2,1.64
+2000,Asia,Viet Nam,73.4,1.6
+2000,Asia,Uzbekistan,67.1,1.6
+2000,Asia,Turkey,74,1.54
+2000,Asia,Cambodia,57.7,1.51
+2000,Asia,Sri Lanka,71.5,1.45
+2000,Asia,Syrian Arab Republic,72.6,1.41
+2000,Asia,India,62.5,0.93
+2000,Asia,Azerbaijan,66.6,0.65
+2000,Asia,Malaysia,72.4,0.54
+2000,Asia,Timor-Leste,58.7,0.5
+2000,Asia,Qatar,76.2,0.5
+2000,Asia,Jordan,71.7,0.49
+2000,Asia,Oman,72.6,0.38
+2000,Asia,Tajikistan,63.7,0.37
+2000,Asia,Brunei Darussalam,74.4,0.37
+2000,Asia,Myanmar,62.1,0.35
+2000,Asia,Iraq,70,0.2
+2000,Asia,Bhutan,62,0.17
+2000,Asia,Nepal,62.5,0.08
+2000,Asia,Yemen,68,0.07
+2000,Asia,Indonesia,66.3,0.06
+2000,Asia,Saudi Arabia,72.6,0.05
+2000,Asia,Pakistan,62.8,0.02
+2000,Asia,Kuwait,73.2,0.01
+2000,Asia,Iran (Islamic Republic of),73,0.01
+2000,Asia,Bangladesh,65.3,0.01
+2000,Asia,Afghanistan,54.8,0.01
+2000,Europe,Ireland,76.4,14.07
+2000,Europe,France,78.8,13.63
+2000,Europe,Czechia,74.7,13.22
+2000,Europe,Austria,78.1,13.2
+2000,Europe,Luxembourg,77.8,13.14
+2000,Europe,Belarus,68,12.98
+2000,Europe,Germany,78,12.91
+2000,Europe,Croatia,74.7,12.73
+2000,Europe,Hungary,71.7,12.22
+2000,Europe,Slovenia,76,11.9
+2000,Europe,Portugal,76.6,11.89
+2000,Europe,Denmark,76.9,11.69
+2000,Europe,Switzerland,79.7,11.26
+2000,Europe,Belgium,77.6,11.21
+2000,Europe,Spain,79.1,11.12
+2000,Europe,Slovakia,73,11.06
+2000,Europe,United Kingdom of Great Britain and Northern Ireland,77.8,10.59
+2000,Europe,Russian Federation,65,10.18
+2000,Europe,Romania,77,10.16
+2000,Europe,Netherlands,78.1,10.06
+2000,Europe,Lithuania,71.6,9.87
+2000,Europe,Italy,79.4,9.78
+2000,Europe,Bulgaria,71.1,9.69
+2000,Europe,Finland,77.5,8.59
+2000,Europe,Greece,78.2,8.48
+2000,Europe,Poland,73.7,8.4
+2000,Europe,Serbia,72.6,7.38
+2000,Europe,Latvia,71,7.13
+2000,Europe,Sweden,79.6,6.2
+2000,Europe,Iceland,79.7,6.17
+2000,Europe,Norway,78.5,5.67
+2000,Europe,Malta,77.5,5.59
+2000,Europe,Ukraine,67.5,4.49
+2000,Europe,Albania,72.6,3.66
+2000,Europe,Bosnia and Herzegovina,74.6,3.64
+2000,Europe,Montenegro,73,0.01
+2000,Europe,Estonia,78,0.01
+2000,Oceania,Australia,79.5,10.17
+2000,Oceania,New Zealand,78.6,8.91
+2000,Oceania,Samoa,72,3
+2000,Oceania,Micronesia (Federated States of),67,2.23
+2000,Oceania,Fiji,67.7,2.05
+2000,Oceania,Tonga,71.6,1.24
+2000,Oceania,Vanuatu,69,1.21
+2000,Oceania,Papua New Guinea,58.9,0.73
+2000,Oceania,Solomon Islands,65.8,0.71
+2000,Oceania,Kiribati,64.1,0.46
+2001,Africa,Uganda,47.7,10.57
+2001,Africa,Nigeria,47.4,9.58
+2001,Africa,Gabon,59.8,9.29
+2001,Africa,South Africa,56,7.38
+2001,Africa,Seychelles,72,6.72
+2001,Africa,Burundi,51.3,6.09
+2001,Africa,Rwanda,48.6,5.72
+2001,Africa,Botswana,46.7,5.48
+2001,Africa,Namibia,56.5,5.09
+2001,Africa,Equatorial Guinea,53.1,5.07
+2001,Africa,Sao Tome and Principe,62.8,5.02
+2001,Africa,Burkina Faso,56,4.56
+2001,Africa,Cameroon,51.5,4.43
+2001,Africa,Liberia,51.5,4.4
+2001,Africa,Mauritius,71.5,4.38
+2001,Africa,Sierra Leone,41,4.21
+2001,Africa,Cabo Verde,73,3.81
+2001,Africa,Côte d'Ivoire,47.8,3.15
+2001,Africa,Lesotho,47.8,2.86
+2001,Africa,Zambia,44.6,2.61
+2001,Africa,Angola,45.7,2.58
+2001,Africa,Guinea-Bissau,52.5,2.55
+2001,Africa,Congo,52.7,2.3
+2001,Africa,Gambia,56.3,2.25
+2001,Africa,Mozambique,49.5,2.09
+2001,Africa,Sudan,58.9,1.81
+2001,Africa,Zimbabwe,45.3,1.72
+2001,Africa,Kenya,51.9,1.63
+2001,Africa,Central African Republic,45.6,1.52
+2001,Africa,Ghana,57.4,1.49
+2001,Africa,Benin,55.5,1.29
+2001,Africa,Tunisia,73.2,1.19
+2001,Africa,Malawi,43.5,1.15
+2001,Africa,Madagascar,58.7,1.05
+2001,Africa,Togo,54.6,0.95
+2001,Africa,Djibouti,57.7,0.95
+2001,Africa,Ethiopia,52.5,0.85
+2001,Africa,Eritrea,58.1,0.61
+2001,Africa,Mali,55,0.51
+2001,Africa,Morocco,69,0.46
+2001,Africa,Senegal,57.9,0.34
+2001,Africa,Chad,48,0.3
+2001,Africa,Algeria,71.4,0.23
+2001,Africa,Guinea,52.5,0.17
+2001,Africa,Egypt,68.6,0.14
+2001,Africa,Niger,56,0.11
+2001,Africa,Comoros,59.5,0.08
+2001,Africa,Somalia,57,0.01
+2001,Africa,Mauritania,61,0.01
+2001,Africa,Libya,71,0.01
+2001,Americas,Saint Lucia,71.8,12.03
+2001,Americas,Bahamas,72.9,11.64
+2001,Americas,Grenada,77,9.61
+2001,Americas,United States of America,76.9,8.25
+2001,Americas,Venezuela (Bolivarian Republic of),72.5,8.05
+2001,Americas,Argentina,74,7.76
+2001,Americas,Canada,79.4,7.6
+2001,Americas,Antigua and Barbuda,73.8,7.51
+2001,Americas,Barbados,73.4,7.38
+2001,Americas,Brazil,71,7.13
+2001,Americas,Guyana,65.4,6.71
+2001,Americas,Paraguay,71.2,6.66
+2001,Americas,Uruguay,75.2,6.48
+2001,Americas,Haiti,58.9,6.22
+2001,Americas,Dominican Republic,71.2,6.13
+2001,Americas,Chile,77.3,6.1
+2001,Americas,Panama,75.5,5.43
+2001,Americas,Belize,68.2,4.9
+2001,Americas,Mexico,75,4.86
+2001,Americas,Saint Vincent and the Grenadines,79,4.73
+2001,Americas,Trinidad and Tobago,69.1,4.55
+2001,Americas,Colombia,71.5,4.43
+2001,Americas,Costa Rica,77.5,4.29
+2001,Americas,Suriname,67.7,4.23
+2001,Americas,Peru,72.4,4.22
+2001,Americas,Ecuador,73.4,4.13
+2001,Americas,Cuba,76.7,4.04
+2001,Americas,Jamaica,72.7,3.89
+2001,Americas,Nicaragua,73,3.51
+2001,Americas,El Salvador,68.9,2.88
+2001,Americas,Honduras,71.3,2.74
+2001,Americas,Guatemala,68.4,2.53
+2001,Americas,Bolivia (Plurinational State of),63.3,2.2
+2001,Asia,Cyprus,78.2,10.16
+2001,Asia,Japan,81.5,8.03
+2001,Asia,Thailand,71.2,5.92
+2001,Asia,Kazakhstan,64.4,5.75
+2001,Asia,Philippines,66.8,4.54
+2001,Asia,Lao People's Democratic Republic,58.7,3.13
+2001,Asia,Mongolia,63.2,2.87
+2001,Asia,Armenia,72.6,2.86
+2001,Asia,China,72.2,2.84
+2001,Asia,Georgia,73,2.76
+2001,Asia,Kyrgyzstan,67.2,2.62
+2001,Asia,Israel,79.3,2.53
+2001,Asia,Turkmenistan,64,2.35
+2001,Asia,Lebanon,73,2.19
+2001,Asia,Singapore,78.7,2.08
+2001,Asia,Maldives,78,1.98
+2001,Asia,Bahrain,74.7,1.95
+2001,Asia,Viet Nam,73.6,1.84
+2001,Asia,Cambodia,58.5,1.71
+2001,Asia,Sri Lanka,72.7,1.68
+2001,Asia,United Arab Emirates,74.5,1.67
+2001,Asia,Uzbekistan,67.4,1.53
+2001,Asia,Turkey,78,1.49
+2001,Asia,Syrian Arab Republic,72.7,1.29
+2001,Asia,India,62.9,1
+2001,Asia,Tajikistan,64,0.86
+2001,Asia,Qatar,76.3,0.76
+2001,Asia,Oman,72.9,0.55
+2001,Asia,Jordan,71.9,0.55
+2001,Asia,Malaysia,72.7,0.53
+2001,Asia,Azerbaijan,67.5,0.51
+2001,Asia,Timor-Leste,59.4,0.5
+2001,Asia,Brunei Darussalam,74.7,0.47
+2001,Asia,Myanmar,62.5,0.38
+2001,Asia,Iraq,72,0.17
+2001,Asia,Bhutan,61.7,0.14
+2001,Asia,Nepal,63.2,0.09
+2001,Asia,Yemen,61.1,0.08
+2001,Asia,Indonesia,66.5,0.06
+2001,Asia,Saudi Arabia,72.8,0.05
+2001,Asia,Pakistan,63,0.01
+2001,Asia,Kuwait,73.2,0.01
+2001,Asia,Iran (Islamic Republic of),78,0.01
+2001,Asia,Bangladesh,65.8,0.01
+2001,Asia,Afghanistan,55.3,0.01
+2001,Europe,Ireland,77,14.27
+2001,Europe,France,79,13.89
+2001,Europe,Czechia,75.1,13.36
+2001,Europe,Hungary,72.3,13.18
+2001,Europe,Croatia,74.9,13.15
+2001,Europe,Luxembourg,78,12.89
+2001,Europe,Germany,78.3,12.46
+2001,Europe,Austria,78.6,12.4
+2001,Europe,Portugal,76.9,12.22
+2001,Europe,Denmark,77,11.56
+2001,Europe,Switzerland,82,11.12
+2001,Europe,Belgium,78,11.01
+2001,Europe,United Kingdom of Great Britain and Northern Ireland,78,10.91
+2001,Europe,Slovenia,76.2,10.8
+2001,Europe,Belarus,67.7,10.74
+2001,Europe,Slovakia,73.3,10.73
+2001,Europe,Bulgaria,71.6,10.72
+2001,Europe,Russian Federation,65.1,10.47
+2001,Europe,Lithuania,71.2,10.2
+2001,Europe,Netherlands,78.3,9.95
+2001,Europe,Spain,79.4,9.86
+2001,Europe,Romania,78,9.78
+2001,Europe,Italy,79.8,9.69
+2001,Europe,Finland,78,8.94
+2001,Europe,Greece,78.7,8.62
+2001,Europe,Poland,74.2,7.74
+2001,Europe,Serbia,73.1,7.53
+2001,Europe,Latvia,69.9,6.68
+2001,Europe,Sweden,79.8,6.6
+2001,Europe,Iceland,80,6.37
+2001,Europe,Malta,77.8,5.62
+2001,Europe,Norway,78.8,5.49
+2001,Europe,Ukraine,67.7,4.31
+2001,Europe,Albania,73.6,4.25
+2001,Europe,Bosnia and Herzegovina,74.9,3.85
+2001,Europe,Montenegro,73.3,0.01
+2001,Europe,Estonia,78,0.01
+2001,Oceania,Australia,79.9,9.53
+2001,Oceania,New Zealand,78.5,8.75
+2001,Oceania,Samoa,75,3.43
+2001,Oceania,Micronesia (Federated States of),67.2,2.82
+2001,Oceania,Fiji,67.8,1.93
+2001,Oceania,Tonga,71.8,1.35
+2001,Oceania,Vanuatu,69.1,0.91
+2001,Oceania,Solomon Islands,66.2,0.7
+2001,Oceania,Papua New Guinea,59.1,0.68
+2001,Oceania,Kiribati,64.3,0.6
+2002,Africa,Seychelles,72.1,11.15
+2002,Africa,Uganda,48.8,10.42
+2002,Africa,Nigeria,47.7,9.61
+2002,Africa,Gabon,59.7,8.34
+2002,Africa,Rwanda,57,7.82
+2002,Africa,South Africa,54.9,7.04
+2002,Africa,Botswana,46,6.41
+2002,Africa,Equatorial Guinea,53.5,6.01
+2002,Africa,Burundi,51.5,5.98
+2002,Africa,Sao Tome and Principe,63.1,5.8
+2002,Africa,Namibia,55.7,5.09
+2002,Africa,Cameroon,51.6,4.58
+2002,Africa,Burkina Faso,51,4.53
+2002,Africa,Zimbabwe,44.8,4.43
+2002,Africa,Liberia,56,4.27
+2002,Africa,Mauritius,71.5,4.14
+2002,Africa,Sierra Leone,48,4.06
+2002,Africa,Cabo Verde,77,3.82
+2002,Africa,Côte d'Ivoire,47.7,3.13
+2002,Africa,Lesotho,46.4,2.95
+2002,Africa,Angola,46.5,2.82
+2002,Africa,Congo,52.6,2.55
+2002,Africa,Guinea-Bissau,52.8,2.47
+2002,Africa,Zambia,45.5,2.44
+2002,Africa,Mozambique,49.8,2.16
+2002,Africa,Gambia,56.6,2.08
+2002,Africa,Kenya,52.1,1.66
+2002,Africa,Ghana,57.6,1.6
+2002,Africa,Sudan,59.4,1.59
+2002,Africa,Central African Republic,45.6,1.47
+2002,Africa,Benin,55.6,1.23
+2002,Africa,Tunisia,73.5,1.17
+2002,Africa,Malawi,44,1.1
+2002,Africa,Djibouti,57.9,1.03
+2002,Africa,Togo,54.7,1
+2002,Africa,Madagascar,59.3,0.9
+2002,Africa,Eritrea,58.5,0.83
+2002,Africa,Ethiopia,53.2,0.8
+2002,Africa,Mali,51.2,0.53
+2002,Africa,Morocco,69.5,0.46
+2002,Africa,Senegal,58.4,0.36
+2002,Africa,Chad,48.1,0.36
+2002,Africa,Algeria,71.6,0.36
+2002,Africa,Guinea,52.9,0.21
+2002,Africa,Egypt,68.7,0.15
+2002,Africa,Niger,51.4,0.1
+2002,Africa,Comoros,59.5,0.08
+2002,Africa,Mauritania,62,0.02
+2002,Africa,Somalia,58,0.01
+2002,Africa,Libya,71.1,0.01
+2002,Americas,Saint Lucia,72,11.85
+2002,Americas,Bahamas,73.1,10.85
+2002,Americas,Grenada,79,10.71
+2002,Americas,United States of America,77,8.33
+2002,Americas,Argentina,74.1,7.81
+2002,Americas,Guyana,65.3,7.73
+2002,Americas,Canada,79.5,7.7
+2002,Americas,Barbados,73.5,7.59
+2002,Americas,Antigua and Barbuda,74,7.21
+2002,Americas,Brazil,71.4,7
+2002,Americas,Venezuela (Bolivarian Republic of),73.1,6.89
+2002,Americas,Dominican Republic,71.4,6.43
+2002,Americas,Haiti,59.3,6.1
+2002,Americas,Chile,77.8,6.06
+2002,Americas,Uruguay,75.4,5.86
+2002,Americas,Paraguay,71.5,5.66
+2002,Americas,Panama,75.7,5.52
+2002,Americas,Trinidad and Tobago,69.2,5.12
+2002,Americas,Belize,68.5,4.99
+2002,Americas,Saint Vincent and the Grenadines,79,4.94
+2002,Americas,Mexico,75,4.77
+2002,Americas,Colombia,71.8,4.45
+2002,Americas,Suriname,67.9,4.41
+2002,Americas,Costa Rica,78.3,4.17
+2002,Americas,Cuba,77.7,4.1
+2002,Americas,Peru,72.6,4.03
+2002,Americas,Ecuador,73.6,3.88
+2002,Americas,Jamaica,73,3.76
+2002,Americas,Nicaragua,75,3.5
+2002,Americas,Honduras,71.6,3.09
+2002,Americas,El Salvador,73,2.97
+2002,Americas,Guatemala,69.3,2.41
+2002,Americas,Bolivia (Plurinational State of),63.9,2.26
+2002,Asia,Cyprus,78.4,11.68
+2002,Asia,Japan,81.8,7.87
+2002,Asia,Kazakhstan,64.7,5.99
+2002,Asia,Thailand,71.4,5.93
+2002,Asia,Philippines,66.8,4.42
+2002,Asia,Lao People's Democratic Republic,59.3,3.33
+2002,Asia,Kyrgyzstan,66.7,3.31
+2002,Asia,China,72.7,2.91
+2002,Asia,Armenia,72.6,2.86
+2002,Asia,Georgia,71.7,2.72
+2002,Asia,Israel,79.3,2.47
+2002,Asia,Mongolia,63.8,2.43
+2002,Asia,Turkmenistan,63.3,2.33
+2002,Asia,Singapore,79,2.16
+2002,Asia,Viet Nam,73.8,2.03
+2002,Asia,Bahrain,74.9,1.99
+2002,Asia,Lebanon,73.2,1.98
+2002,Asia,Maldives,71.8,1.95
+2002,Asia,United Arab Emirates,74.7,1.72
+2002,Asia,Sri Lanka,73.7,1.62
+2002,Asia,Uzbekistan,67.1,1.47
+2002,Asia,Turkey,71.2,1.47
+2002,Asia,Cambodia,59.3,1.43
+2002,Asia,Syrian Arab Republic,72.8,1.25
+2002,Asia,India,63.3,1.1
+2002,Asia,Qatar,76.4,0.87
+2002,Asia,Tajikistan,64.3,0.6
+2002,Asia,Azerbaijan,67.8,0.55
+2002,Asia,Oman,73.3,0.54
+2002,Asia,Jordan,72.1,0.54
+2002,Asia,Malaysia,72.9,0.49
+2002,Asia,Timor-Leste,62,0.48
+2002,Asia,Myanmar,62.8,0.41
+2002,Asia,Bhutan,62.5,0.29
+2002,Asia,Nepal,63.1,0.19
+2002,Asia,Iraq,74,0.15
+2002,Asia,Brunei Darussalam,74.8,0.13
+2002,Asia,Yemen,61.5,0.07
+2002,Asia,Saudi Arabia,72.9,0.05
+2002,Asia,Indonesia,66.7,0.05
+2002,Asia,Pakistan,63.2,0.01
+2002,Asia,Kuwait,73.3,0.01
+2002,Asia,Iran (Islamic Republic of),71.2,0.01
+2002,Asia,Bangladesh,66.3,0.01
+2002,Asia,Afghanistan,56.2,0.01
+2002,Europe,Ireland,77.4,14.17
+2002,Europe,France,79.2,13.78
+2002,Europe,Czechia,75.3,13.47
+2002,Europe,Croatia,74.8,13.39
+2002,Europe,Hungary,72.5,13.29
+2002,Europe,Luxembourg,78.3,12.91
+2002,Europe,Austria,78.7,12.5
+2002,Europe,Spain,79.5,12.26
+2002,Europe,Germany,78.4,12.25
+2002,Europe,Belarus,67.2,12.23
+2002,Europe,Portugal,77.2,12
+2002,Europe,Estonia,71.2,11.48
+2002,Europe,United Kingdom of Great Britain and Northern Ireland,78.2,11.44
+2002,Europe,Denmark,77,11.34
+2002,Europe,Belgium,78,11.29
+2002,Europe,Lithuania,71.4,11
+2002,Europe,Russian Federation,64.8,10.87
+2002,Europe,Switzerland,84,10.85
+2002,Europe,Slovakia,73.7,10.78
+2002,Europe,Bulgaria,71.8,10.2
+2002,Europe,Netherlands,78.4,9.68
+2002,Europe,Romania,77,9.62
+2002,Europe,Slovenia,76.6,9.29
+2002,Europe,Italy,80,9.25
+2002,Europe,Finland,78.1,9.25
+2002,Europe,Greece,79,8.09
+2002,Europe,Poland,74.5,8.02
+2002,Europe,Latvia,73,7.44
+2002,Europe,Serbia,72.9,6.95
+2002,Europe,Sweden,79.9,6.9
+2002,Europe,Iceland,84,6.61
+2002,Europe,Norway,78.9,5.89
+2002,Europe,Malta,78.2,5.73
+2002,Europe,Ukraine,67.6,4.89
+2002,Europe,Bosnia and Herzegovina,75.4,3.84
+2002,Europe,Albania,73.3,3.73
+2002,Europe,Montenegro,73.4,0.01
+2002,Oceania,Australia,79.9,9.84
+2002,Oceania,New Zealand,78.7,9.13
+2002,Oceania,Samoa,76,3.3
+2002,Oceania,Micronesia (Federated States of),66.2,2.78
+2002,Oceania,Fiji,67.9,1.85
+2002,Oceania,Tonga,71.9,1.51
+2002,Oceania,Vanuatu,69.3,1.24
+2002,Oceania,Solomon Islands,66.5,1.08
+2002,Oceania,Papua New Guinea,59.3,0.61
+2002,Oceania,Kiribati,64.6,0.49
+2003,Africa,Uganda,51,10.16
+2003,Africa,Nigeria,48.1,9.75
+2003,Africa,Seychelles,72.1,7.41
+2003,Africa,Equatorial Guinea,53.8,7.13
+2003,Africa,South Africa,54,6.93
+2003,Africa,Rwanda,52,6.66
+2003,Africa,Sao Tome and Principe,63.4,6.54
+2003,Africa,Gabon,59.7,6.47
+2003,Africa,Burundi,51.9,5.84
+2003,Africa,Botswana,46.4,5.51
+2003,Africa,Namibia,55,5.28
+2003,Africa,Cameroon,51.8,4.64
+2003,Africa,Burkina Faso,51.6,4.58
+2003,Africa,Liberia,50,4.21
+2003,Africa,Cabo Verde,71.1,4.16
+2003,Africa,Mauritius,71.5,4.08
+2003,Africa,Sierra Leone,41.5,4.07
+2003,Africa,Zimbabwe,44.5,4.06
+2003,Africa,Angola,46.8,3.49
+2003,Africa,Côte d'Ivoire,48,3.12
+2003,Africa,Gambia,57,2.47
+2003,Africa,Congo,53.2,2.45
+2003,Africa,Zambia,46.4,2.33
+2003,Africa,Guinea-Bissau,53,2.16
+2003,Africa,Lesotho,45.5,1.99
+2003,Africa,Sudan,59.6,1.74
+2003,Africa,Mozambique,51,1.68
+2003,Africa,Ghana,57.9,1.53
+2003,Africa,Kenya,52.4,1.49
+2003,Africa,Central African Republic,45.7,1.49
+2003,Africa,Benin,55.8,1.35
+2003,Africa,Tunisia,73.7,1.34
+2003,Africa,Malawi,44.6,1.08
+2003,Africa,Togo,54.7,1.02
+2003,Africa,Djibouti,58,1.02
+2003,Africa,Madagascar,59.9,0.93
+2003,Africa,Ethiopia,54,0.79
+2003,Africa,Morocco,69.9,0.58
+2003,Africa,Eritrea,58.8,0.56
+2003,Africa,Mali,52,0.54
+2003,Africa,Chad,48.4,0.42
+2003,Africa,Algeria,71.7,0.34
+2003,Africa,Senegal,59,0.33
+2003,Africa,Comoros,59.6,0.26
+2003,Africa,Guinea,53.3,0.18
+2003,Africa,Egypt,68.6,0.15
+2003,Africa,Niger,52.1,0.1
+2003,Africa,Somalia,51.1,0.01
+2003,Africa,Mauritania,63,0.01
+2003,Africa,Libya,71.3,0.01
+2003,Americas,Saint Lucia,72.2,12.55
+2003,Americas,Bahamas,73.2,10.68
+2003,Americas,Grenada,71.1,9.75
+2003,Americas,United States of America,77.2,8.4
+2003,Americas,Guyana,65.3,7.93
+2003,Americas,Canada,79.7,7.7
+2003,Americas,Barbados,73.7,7.65
+2003,Americas,Argentina,74.1,7.62
+2003,Americas,Antigua and Barbuda,74.2,7.16
+2003,Americas,Brazil,71.8,6.95
+2003,Americas,Paraguay,71.7,6.64
+2003,Americas,Haiti,59.7,6.64
+2003,Americas,Chile,77.9,6.37
+2003,Americas,Dominican Republic,73,6.32
+2003,Americas,Venezuela (Bolivarian Republic of),72.4,6.3
+2003,Americas,Belize,68.4,5.67
+2003,Americas,Trinidad and Tobago,69.3,5.53
+2003,Americas,Panama,75.5,5.52
+2003,Americas,Uruguay,75.4,5.11
+2003,Americas,Saint Vincent and the Grenadines,71,5.1
+2003,Americas,Mexico,75,4.88
+2003,Americas,Suriname,68,4.53
+2003,Americas,Peru,72.1,4.5
+2003,Americas,Cuba,77.4,4.39
+2003,Americas,Colombia,72.4,4.25
+2003,Americas,Costa Rica,78,4.04
+2003,Americas,Nicaragua,76,3.77
+2003,Americas,Ecuador,74.4,3.69
+2003,Americas,Jamaica,73.1,3.48
+2003,Americas,El Salvador,69.9,3.1
+2003,Americas,Honduras,71.9,3.04
+2003,Americas,Guatemala,69.4,2.45
+2003,Americas,Bolivia (Plurinational State of),64.5,2.37
+2003,Asia,Cyprus,78.5,10.62
+2003,Asia,Japan,81.9,7.83
+2003,Asia,Kazakhstan,64.4,6.58
+2003,Asia,Thailand,71.7,6.14
+2003,Asia,Philippines,67.2,4.44
+2003,Asia,Kyrgyzstan,66.6,3.52
+2003,Asia,Lao People's Democratic Republic,59.8,3.41
+2003,Asia,Georgia,72.7,3.36
+2003,Asia,Armenia,72.7,3.03
+2003,Asia,China,73.1,2.96
+2003,Asia,Turkmenistan,63.4,2.88
+2003,Asia,Israel,79.7,2.32
+2003,Asia,Viet Nam,74,2.19
+2003,Asia,Lebanon,73.5,2.19
+2003,Asia,Bahrain,75,2.16
+2003,Asia,Maldives,72.7,1.75
+2003,Asia,United Arab Emirates,74.9,1.74
+2003,Asia,Sri Lanka,73.9,1.69
+2003,Asia,Uzbekistan,67.2,1.54
+2003,Asia,Cambodia,63,1.44
+2003,Asia,Singapore,79.3,1.43
+2003,Asia,Turkey,71.6,1.42
+2003,Asia,Mongolia,64,1.31
+2003,Asia,Syrian Arab Republic,73,1.29
+2003,Asia,India,63.7,1.19
+2003,Asia,Qatar,76.5,1
+2003,Asia,Oman,73.6,0.56
+2003,Asia,Azerbaijan,67.8,0.55
+2003,Asia,Jordan,72.3,0.54
+2003,Asia,Bhutan,63.3,0.52
+2003,Asia,Malaysia,73.1,0.48
+2003,Asia,Timor-Leste,61,0.44
+2003,Asia,Myanmar,63.2,0.4
+2003,Asia,Tajikistan,65.2,0.36
+2003,Asia,Nepal,64.3,0.2
+2003,Asia,Brunei Darussalam,76,0.12
+2003,Asia,Iraq,66.5,0.07
+2003,Asia,Saudi Arabia,73,0.05
+2003,Asia,Indonesia,66.9,0.05
+2003,Asia,Yemen,61.9,0.04
+2003,Asia,Kuwait,73.4,0.03
+2003,Asia,Pakistan,63.5,0.01
+2003,Asia,Iran (Islamic Republic of),75,0.01
+2003,Asia,Bangladesh,66.8,0.01
+2003,Asia,Afghanistan,56.7,0.01
+2003,Europe,Portugal,77.3,14.21
+2003,Europe,Croatia,74.7,13.78
+2003,Europe,France,79.3,13.49
+2003,Europe,Ireland,78,13.24
+2003,Europe,Hungary,72.5,13.24
+2003,Europe,Czechia,75.2,13.01
+2003,Europe,Luxembourg,78.6,12.61
+2003,Europe,Austria,78.8,12.2
+2003,Europe,Spain,79.4,12.09
+2003,Europe,Germany,78.5,11.92
+2003,Europe,United Kingdom of Great Britain and Northern Ireland,78.3,11.85
+2003,Europe,Estonia,71.9,11.64
+2003,Europe,Slovenia,76.5,11.58
+2003,Europe,Denmark,77.3,11.54
+2003,Europe,Russian Federation,64.6,11.32
+2003,Europe,Lithuania,71.6,11.29
+2003,Europe,Belgium,78.3,11.28
+2003,Europe,Bulgaria,72,11.19
+2003,Europe,Belarus,67.7,11.17
+2003,Europe,Switzerland,85,10.82
+2003,Europe,Slovakia,73.8,9.85
+2003,Europe,Netherlands,78.7,9.56
+2003,Europe,Greece,79.1,9.46
+2003,Europe,Finland,78.4,9.31
+2003,Europe,Italy,79.9,9.3
+2003,Europe,Poland,74.7,9.06
+2003,Europe,Romania,71.1,8.78
+2003,Europe,Latvia,78,8.24
+2003,Europe,Serbia,73,7.25
+2003,Europe,Sweden,82,6.9
+2003,Europe,Malta,78.5,6.7
+2003,Europe,Iceland,87,6.61
+2003,Europe,Norway,79.4,6.04
+2003,Europe,Ukraine,67.6,5.92
+2003,Europe,Albania,72.8,4.29
+2003,Europe,Bosnia and Herzegovina,75.2,4.14
+2003,Europe,Montenegro,73.5,0.01
+2003,Oceania,Australia,83,9.97
+2003,Oceania,New Zealand,79.1,8.91
+2003,Oceania,Samoa,79,4.17
+2003,Oceania,Micronesia (Federated States of),67.5,3.15
+2003,Oceania,Tonga,72,1.79
+2003,Oceania,Fiji,68,1.76
+2003,Oceania,Vanuatu,69.4,1.2
+2003,Oceania,Solomon Islands,66.8,1.18
+2003,Oceania,Papua New Guinea,59.6,0.59
+2003,Oceania,Kiribati,64.7,0.5
+2004,Africa,Uganda,51.3,9.89
+2004,Africa,Nigeria,48.5,9.76
+2004,Africa,Gabon,59.7,8.13
+2004,Africa,Seychelles,72.1,7.91
+2004,Africa,South Africa,53.7,6.96
+2004,Africa,Rwanda,53.4,6.75
+2004,Africa,Equatorial Guinea,54.1,6.28
+2004,Africa,Sao Tome and Principe,63.8,5.78
+2004,Africa,Burundi,52.6,5.72
+2004,Africa,Botswana,48.1,4.9
+2004,Africa,Namibia,54.7,4.8
+2004,Africa,Cameroon,52.1,4.71
+2004,Africa,Burkina Faso,52.4,4.54
+2004,Africa,Zimbabwe,44.3,4.36
+2004,Africa,Liberia,54,4.24
+2004,Africa,Cabo Verde,71.4,4.19
+2004,Africa,Mauritius,71.9,4.16
+2004,Africa,Sierra Leone,42.3,3.99
+2004,Africa,Angola,47.1,3.53
+2004,Africa,Côte d'Ivoire,48.2,3.08
+2004,Africa,Guinea-Bissau,53.5,2.58
+2004,Africa,Congo,54.1,2.58
+2004,Africa,Gambia,57.3,2.51
+2004,Africa,Zambia,47.9,2.46
+2004,Africa,Lesotho,44.8,1.8
+2004,Africa,Sudan,59.7,1.59
+2004,Africa,Mozambique,54,1.54
+2004,Africa,Central African Republic,45.7,1.5
+2004,Africa,Ghana,58.3,1.46
+2004,Africa,Kenya,53,1.43
+2004,Africa,Tunisia,74,1.36
+2004,Africa,Djibouti,58.1,1.18
+2004,Africa,Benin,56.1,1.15
+2004,Africa,Malawi,45.1,1.11
+2004,Africa,Togo,54.9,1.01
+2004,Africa,Ethiopia,55,0.86
+2004,Africa,Madagascar,64,0.81
+2004,Africa,Eritrea,59.1,0.64
+2004,Africa,Morocco,72,0.56
+2004,Africa,Mali,52.8,0.49
+2004,Africa,Algeria,72.3,0.45
+2004,Africa,Senegal,59.7,0.35
+2004,Africa,Guinea,54,0.34
+2004,Africa,Chad,48.5,0.34
+2004,Africa,Comoros,59.8,0.27
+2004,Africa,Egypt,69,0.16
+2004,Africa,Niger,52.9,0.11
+2004,Africa,Somalia,51.2,0.01
+2004,Africa,Mauritania,64,0.01
+2004,Africa,Libya,71.5,0.01
+2004,Americas,Saint Lucia,72.6,11.93
+2004,Americas,Bahamas,73.8,10.1
+2004,Americas,United States of America,77.5,8.48
+2004,Americas,Grenada,73,8.43
+2004,Americas,Guyana,65.1,7.84
+2004,Americas,Canada,80,7.8
+2004,Americas,Barbados,73.8,7.68
+2004,Americas,Argentina,74.7,7.63
+2004,Americas,Venezuela (Bolivarian Republic of),73.3,7.55
+2004,Americas,Antigua and Barbuda,74.4,7.28
+2004,Americas,Brazil,72,6.85
+2004,Americas,Chile,78,6.32
+2004,Americas,Paraguay,71.9,6.2
+2004,Americas,Belize,68.7,6.2
+2004,Americas,Haiti,58.7,6.1
+2004,Americas,Trinidad and Tobago,69.4,5.82
+2004,Americas,Panama,75.8,5.69
+2004,Americas,Uruguay,75.4,5.66
+2004,Americas,Saint Vincent and the Grenadines,71.2,5.42
+2004,Americas,Dominican Republic,69.3,5.16
+2004,Americas,Mexico,75.4,4.9
+2004,Americas,Suriname,68.3,4.55
+2004,Americas,Cuba,77.3,4.38
+2004,Americas,Peru,72.2,4.27
+2004,Americas,Colombia,72.8,4.26
+2004,Americas,Costa Rica,77.7,4.09
+2004,Americas,Nicaragua,71,3.81
+2004,Americas,Jamaica,73.3,3.67
+2004,Americas,Ecuador,74.4,3.65
+2004,Americas,Honduras,72.2,3.02
+2004,Americas,El Salvador,70,2.9
+2004,Americas,Bolivia (Plurinational State of),65.1,2.66
+2004,Americas,Guatemala,69.6,2.4
+2004,Asia,Cyprus,78.6,13.03
+2004,Asia,Japan,82.1,7.7
+2004,Asia,Kazakhstan,64.7,6.55
+2004,Asia,Thailand,71.6,6.17
+2004,Asia,Philippines,67.3,4.45
+2004,Asia,Armenia,73,3.81
+2004,Asia,Georgia,72.3,3.74
+2004,Asia,Lao People's Democratic Republic,64,3.53
+2004,Asia,Kyrgyzstan,67.1,3.41
+2004,Asia,China,73.5,3.04
+2004,Asia,Viet Nam,74.2,2.86
+2004,Asia,Turkmenistan,63.5,2.86
+2004,Asia,Israel,81,2.23
+2004,Asia,Bahrain,75.2,2.16
+2004,Asia,Lebanon,73.7,2.1
+2004,Asia,United Arab Emirates,75.1,1.77
+2004,Asia,Mongolia,64,1.75
+2004,Asia,Maldives,73.4,1.6
+2004,Asia,Uzbekistan,67.8,1.59
+2004,Asia,Sri Lanka,69.1,1.56
+2004,Asia,Singapore,79.7,1.45
+2004,Asia,Cambodia,61.5,1.38
+2004,Asia,Turkey,72,1.35
+2004,Asia,India,64,1.2
+2004,Asia,Qatar,76.6,1.11
+2004,Asia,Bhutan,64.2,0.96
+2004,Asia,Syrian Arab Republic,73.2,0.93
+2004,Asia,Azerbaijan,68.4,0.62
+2004,Asia,Oman,74,0.61
+2004,Asia,Jordan,72.5,0.54
+2004,Asia,Malaysia,73.2,0.49
+2004,Asia,Myanmar,63.5,0.44
+2004,Asia,Timor-Leste,62.3,0.38
+2004,Asia,Tajikistan,65.9,0.38
+2004,Asia,Iraq,67.2,0.32
+2004,Asia,Nepal,64.7,0.21
+2004,Asia,Brunei Darussalam,76.4,0.11
+2004,Asia,Yemen,62.2,0.06
+2004,Asia,Saudi Arabia,73.1,0.06
+2004,Asia,Indonesia,65.3,0.06
+2004,Asia,Kuwait,73.5,0.02
+2004,Asia,Afghanistan,57,0.02
+2004,Asia,Pakistan,63.7,0.01
+2004,Asia,Iran (Islamic Republic of),71.8,0.01
+2004,Asia,Bangladesh,67.3,0.01
+2004,Europe,Estonia,72.3,15.07
+2004,Europe,Portugal,78,13.45
+2004,Europe,Ireland,78.3,13.32
+2004,Europe,Hungary,72.9,13.28
+2004,Europe,Czechia,75.8,13.24
+2004,Europe,France,82,13.18
+2004,Europe,Croatia,75.4,13.11
+2004,Europe,Luxembourg,78.7,12.42
+2004,Europe,United Kingdom of Great Britain and Northern Ireland,78.8,12.22
+2004,Europe,Lithuania,71.6,12.1
+2004,Europe,Austria,79.3,12.1
+2004,Europe,Belgium,78.8,12.05
+2004,Europe,Belarus,68.2,12.05
+2004,Europe,Spain,81,11.96
+2004,Europe,Germany,79.1,11.83
+2004,Europe,Russian Federation,64.9,11.5
+2004,Europe,Denmark,77.7,11.27
+2004,Europe,Bulgaria,72.2,10.96
+2004,Europe,Switzerland,81,10.55
+2004,Europe,Slovakia,74.1,10.03
+2004,Europe,Slovenia,77.2,10
+2004,Europe,Finland,78.7,9.89
+2004,Europe,Romania,71.7,9.82
+2004,Europe,Netherlands,79.2,9.56
+2004,Europe,Greece,79.2,9.56
+2004,Europe,Poland,74.9,9.19
+2004,Europe,Italy,89,8.98
+2004,Europe,Latvia,71,8.81
+2004,Europe,Serbia,73,7.42
+2004,Europe,Ukraine,67.4,6.79
+2004,Europe,Iceland,88,6.79
+2004,Europe,Sweden,83,6.6
+2004,Europe,Malta,78.7,6.53
+2004,Europe,Norway,79.8,6.22
+2004,Europe,Albania,73,4.54
+2004,Europe,Bosnia and Herzegovina,75.5,4.25
+2004,Europe,Montenegro,73.5,0.01
+2004,Oceania,Australia,86,9.84
+2004,Oceania,New Zealand,79.2,9.15
+2004,Oceania,Samoa,71.4,3.62
+2004,Oceania,Micronesia (Federated States of),67.7,2.02
+2004,Oceania,Tonga,72.2,1.8
+2004,Oceania,Fiji,68.1,1.63
+2004,Oceania,Solomon Islands,67.1,1.18
+2004,Oceania,Vanuatu,69.6,0.85
+2004,Oceania,Papua New Guinea,59.9,0.58
+2004,Oceania,Kiribati,64.8,0.48
+2005,Africa,Uganda,53.2,10.09
+2005,Africa,Nigeria,49.2,9.71
+2005,Africa,South Africa,53.8,8.69
+2005,Africa,Seychelles,72.2,7.82
+2005,Africa,Gabon,65,7.72
+2005,Africa,Equatorial Guinea,54.4,7.19
+2005,Africa,Rwanda,55.3,7.01
+2005,Africa,Botswana,51.7,6.37
+2005,Africa,Burundi,53.4,5.54
+2005,Africa,Sao Tome and Principe,64.3,5.27
+2005,Africa,Angola,47.4,5.04
+2005,Africa,Cameroon,52.8,5.03
+2005,Africa,Namibia,55.1,4.89
+2005,Africa,Burkina Faso,53.3,4.88
+2005,Africa,Cabo Verde,71.8,4.26
+2005,Africa,Liberia,55.3,4.19
+2005,Africa,Zimbabwe,44.6,4.14
+2005,Africa,Mauritius,72.1,3.94
+2005,Africa,Sierra Leone,43.3,3.83
+2005,Africa,Côte d'Ivoire,48.7,3.11
+2005,Africa,Guinea-Bissau,53.9,3.1
+2005,Africa,Lesotho,44.5,2.67
+2005,Africa,Zambia,49.3,2.33
+2005,Africa,Gambia,57.7,2.26
+2005,Africa,Congo,55.3,2.03
+2005,Africa,Kenya,54.1,1.82
+2005,Africa,Sudan,67,1.55
+2005,Africa,Ghana,58.9,1.5
+2005,Africa,Central African Republic,45.9,1.5
+2005,Africa,Tunisia,74.2,1.37
+2005,Africa,Mozambique,58,1.23
+2005,Africa,Djibouti,58.6,1.23
+2005,Africa,Togo,55,1.14
+2005,Africa,Benin,56.5,1.13
+2005,Africa,Eritrea,59.4,1.07
+2005,Africa,Malawi,46,1.04
+2005,Africa,Ethiopia,56,0.99
+2005,Africa,Madagascar,69,0.72
+2005,Africa,Mali,53.6,0.55
+2005,Africa,Algeria,72.9,0.5
+2005,Africa,Morocco,77,0.47
+2005,Africa,Chad,48.6,0.42
+2005,Africa,Senegal,65,0.33
+2005,Africa,Comoros,60,0.24
+2005,Africa,Guinea,54.7,0.21
+2005,Africa,Egypt,69.4,0.16
+2005,Africa,Niger,53.7,0.11
+2005,Africa,Somalia,51.6,0.01
+2005,Africa,Mauritania,66,0.01
+2005,Africa,Libya,71.9,0.01
+2005,Americas,Saint Lucia,73.1,12.32
+2005,Americas,Bahamas,74.1,10.49
+2005,Americas,Grenada,71.5,8.8
+2005,Americas,United States of America,77.5,8.52
+2005,Americas,Antigua and Barbuda,74.6,8.15
+2005,Americas,Barbados,73.9,8.01
+2005,Americas,Canada,81,8
+2005,Americas,Venezuela (Bolivarian Republic of),73.6,7.92
+2005,Americas,Chile,78.4,7.57
+2005,Americas,Argentina,74.9,7.53
+2005,Americas,Guyana,65,7.35
+2005,Americas,Brazil,72.7,6.97
+2005,Americas,Paraguay,72.1,6.38
+2005,Americas,Uruguay,75.7,6.35
+2005,Americas,Belize,69,6.25
+2005,Americas,Trinidad and Tobago,69.5,6.12
+2005,Americas,Saint Vincent and the Grenadines,71.4,6.04
+2005,Americas,Dominican Republic,69.7,5.71
+2005,Americas,Haiti,65,5.57
+2005,Americas,Panama,75.8,5.53
+2005,Americas,Mexico,75.3,4.93
+2005,Americas,Cuba,77.2,4.48
+2005,Americas,Suriname,68.9,4.47
+2005,Americas,Peru,72.8,4.44
+2005,Americas,Colombia,73.1,4.38
+2005,Americas,Costa Rica,78.6,4.1
+2005,Americas,Nicaragua,71.2,3.7
+2005,Americas,Jamaica,73.5,3.59
+2005,Americas,Ecuador,74.2,3.54
+2005,Americas,Honduras,72.5,3.23
+2005,Americas,Bolivia (Plurinational State of),65.7,2.86
+2005,Americas,El Salvador,71,2.77
+2005,Americas,Guatemala,69.2,2.35
+2005,Asia,Cyprus,78.7,11.41
+2005,Asia,Japan,82,7.99
+2005,Asia,Kazakhstan,64.6,6.94
+2005,Asia,Thailand,72.5,6.26
+2005,Asia,Georgia,73.9,4.7
+2005,Asia,Armenia,73,4.25
+2005,Asia,Philippines,67,4.22
+2005,Asia,Lao People's Democratic Republic,61,3.68
+2005,Asia,China,73.9,2.92
+2005,Asia,Turkmenistan,63.3,2.85
+2005,Asia,Kyrgyzstan,66.9,2.81
+2005,Asia,Mongolia,64.5,2.75
+2005,Asia,Viet Nam,74.4,2.7
+2005,Asia,Israel,80,2.41
+2005,Asia,Bahrain,75.3,2.05
+2005,Asia,Cambodia,62.9,1.99
+2005,Asia,Sri Lanka,74.2,1.97
+2005,Asia,Lebanon,73.9,1.94
+2005,Asia,United Arab Emirates,75.3,1.79
+2005,Asia,Uzbekistan,67.3,1.78
+2005,Asia,Singapore,82,1.49
+2005,Asia,Maldives,74.3,1.47
+2005,Asia,Turkey,72.4,1.29
+2005,Asia,India,64.4,1.27
+2005,Asia,Qatar,76.6,1.18
+2005,Asia,Syrian Arab Republic,73.5,0.92
+2005,Asia,Bhutan,65,0.73
+2005,Asia,Azerbaijan,68.4,0.73
+2005,Asia,Oman,74.3,0.63
+2005,Asia,Jordan,72.4,0.55
+2005,Asia,Malaysia,73.4,0.46
+2005,Asia,Tajikistan,65.5,0.37
+2005,Asia,Timor-Leste,63.7,0.36
+2005,Asia,Myanmar,63.9,0.28
+2005,Asia,Nepal,65.4,0.2
+2005,Asia,Iraq,66.8,0.18
+2005,Asia,Brunei Darussalam,76.2,0.16
+2005,Asia,Indonesia,67.2,0.06
+2005,Asia,Saudi Arabia,73.1,0.05
+2005,Asia,Yemen,62.6,0.04
+2005,Asia,Pakistan,62.9,0.04
+2005,Asia,Afghanistan,57.3,0.02
+2005,Asia,Kuwait,73.6,0.01
+2005,Asia,Iran (Islamic Republic of),72,0.01
+2005,Asia,Bangladesh,67.8,0.01
+2005,Europe,Estonia,72.8,15.52
+2005,Europe,Portugal,77.7,13.33
+2005,Europe,Ireland,78.7,13.31
+2005,Europe,Czechia,75.9,13.19
+2005,Europe,Hungary,72.9,12.94
+2005,Europe,Austria,79.4,12.4
+2005,Europe,Lithuania,78,12.3
+2005,Europe,Belgium,78.9,12.27
+2005,Europe,France,81,12.2
+2005,Europe,United Kingdom of Great Britain and Northern Ireland,79,12.05
+2005,Europe,Spain,81,11.92
+2005,Europe,Luxembourg,78.8,11.84
+2005,Europe,Germany,79.2,11.67
+2005,Europe,Croatia,75.2,11.59
+2005,Europe,Russian Federation,65,11.57
+2005,Europe,Denmark,78.1,11.28
+2005,Europe,Slovenia,77.5,11.14
+2005,Europe,Belarus,68.1,11.01
+2005,Europe,Slovakia,74,10.81
+2005,Europe,Bulgaria,72.1,10.48
+2005,Europe,Switzerland,81.1,10.15
+2005,Europe,Greece,79.3,9.95
+2005,Europe,Finland,78.9,9.95
+2005,Europe,Latvia,76,9.92
+2005,Europe,Netherlands,79.4,9.69
+2005,Europe,Serbia,73,9.6
+2005,Europe,Poland,75,9.5
+2005,Europe,Italy,88,8.65
+2005,Europe,Romania,71.9,7.68
+2005,Europe,Ukraine,67,7.31
+2005,Europe,Iceland,81,7.05
+2005,Europe,Sweden,85,6.5
+2005,Europe,Malta,79,6.41
+2005,Europe,Norway,81,6.37
+2005,Europe,Albania,73.5,5.16
+2005,Europe,Bosnia and Herzegovina,75,4.56
+2005,Oceania,Australia,81,10.3
+2005,Oceania,New Zealand,79.9,9.31
+2005,Oceania,Samoa,71.6,3.63
+2005,Oceania,Fiji,68.3,2.02
+2005,Oceania,Micronesia (Federated States of),67.9,1.9
+2005,Oceania,Tonga,72.3,1.57
+2005,Oceania,Solomon Islands,67.4,0.9
+2005,Oceania,Vanuatu,69.9,0.88
+2005,Oceania,Papua New Guinea,64,0.84
+2005,Oceania,Kiribati,64.9,0.6
+2006,Africa,Uganda,54.9,9.81
+2006,Africa,Nigeria,49.8,9.66
+2006,Africa,South Africa,54,8.5
+2006,Africa,Seychelles,72.2,8.12
+2006,Africa,Gabon,61.4,8.01
+2006,Africa,Equatorial Guinea,54.8,7.28
+2006,Africa,Rwanda,57.6,6.88
+2006,Africa,Botswana,54.8,6.45
+2006,Africa,Angola,47.7,5.84
+2006,Africa,Sao Tome and Principe,64.7,5.46
+2006,Africa,Cameroon,53.3,5.22
+2006,Africa,Namibia,57,4.94
+2006,Africa,Burkina Faso,54.3,4.73
+2006,Africa,Zimbabwe,45.4,4.57
+2006,Africa,Burundi,54.1,4.5
+2006,Africa,Cabo Verde,72.1,4.25
+2006,Africa,Liberia,56.7,4.05
+2006,Africa,Sierra Leone,44.3,3.8
+2006,Africa,Mauritius,71.8,3.73
+2006,Africa,Guinea-Bissau,54.4,3.22
+2006,Africa,Gambia,58.2,2.93
+2006,Africa,Côte d'Ivoire,49.4,2.65
+2006,Africa,Lesotho,45.3,2.61
+2006,Africa,Zambia,58,2.25
+2006,Africa,Congo,56.9,2.25
+2006,Africa,Sudan,61,1.9
+2006,Africa,Kenya,55.3,1.76
+2006,Africa,Ghana,59.4,1.7
+2006,Africa,Central African Republic,46.3,1.54
+2006,Africa,Tunisia,74.4,1.46
+2006,Africa,Togo,55.7,1.37
+2006,Africa,Ethiopia,57.2,1.22
+2006,Africa,Mozambique,51.2,1.2
+2006,Africa,Benin,56.8,1.19
+2006,Africa,Malawi,47.1,1.18
+2006,Africa,Djibouti,59.1,1.02
+2006,Africa,Eritrea,59.7,0.97
+2006,Africa,Madagascar,61.4,0.68
+2006,Africa,Morocco,71,0.58
+2006,Africa,Mali,54.3,0.53
+2006,Africa,Chad,48.5,0.41
+2006,Africa,Algeria,73.4,0.36
+2006,Africa,Senegal,61.3,0.34
+2006,Africa,Comoros,63,0.25
+2006,Africa,Egypt,69.5,0.18
+2006,Africa,Guinea,55.6,0.16
+2006,Africa,Niger,54.5,0.11
+2006,Africa,Somalia,51.5,0.01
+2006,Africa,Mauritania,69,0.01
+2006,Africa,Libya,72.2,0.01
+2006,Americas,Saint Lucia,73.5,13.45
+2006,Americas,Bahamas,74.2,11.07
+2006,Americas,Grenada,71.7,9.06
+2006,Americas,Antigua and Barbuda,74.8,8.93
+2006,Americas,United States of America,77.8,8.63
+2006,Americas,Barbados,74.1,8.39
+2006,Americas,Venezuela (Bolivarian Republic of),73.6,8.27
+2006,Americas,Canada,85,8.2
+2006,Americas,Argentina,75.2,7.75
+2006,Americas,Chile,78.9,7.33
+2006,Americas,Brazil,73,7.1
+2006,Americas,Guyana,65.2,7.04
+2006,Americas,Uruguay,76.2,6.58
+2006,Americas,Belize,69.4,6.48
+2006,Americas,Trinidad and Tobago,69.6,6.35
+2006,Americas,Dominican Republic,72.3,6.2
+2006,Americas,Haiti,61.1,6.18
+2006,Americas,Saint Vincent and the Grenadines,71.7,5.93
+2006,Americas,Panama,76.2,5.72
+2006,Americas,Paraguay,72.3,5.61
+2006,Americas,Mexico,75.8,5.11
+2006,Americas,Colombia,73.1,4.53
+2006,Americas,Suriname,69.3,4.52
+2006,Americas,Peru,74.2,4.22
+2006,Americas,Cuba,78,4.17
+2006,Americas,Costa Rica,78,4.15
+2006,Americas,Nicaragua,73,3.69
+2006,Americas,Jamaica,74,3.63
+2006,Americas,Ecuador,74.4,3.52
+2006,Americas,Honduras,72.8,3.23
+2006,Americas,Bolivia (Plurinational State of),66.2,3.23
+2006,Americas,El Salvador,75,2.77
+2006,Americas,Guatemala,69.7,2.38
+2006,Asia,Cyprus,78.8,11.47
+2006,Asia,Japan,82.4,7.49
+2006,Asia,Kazakhstan,65,7.08
+2006,Asia,Thailand,73,6.18
+2006,Asia,Georgia,73.9,6.18
+2006,Asia,Philippines,67.3,4.08
+2006,Asia,Armenia,72.9,4.01
+2006,Asia,Lao People's Democratic Republic,61.5,3.69
+2006,Asia,China,74.2,3.28
+2006,Asia,Mongolia,65,2.91
+2006,Asia,Turkmenistan,63.7,2.71
+2006,Asia,Viet Nam,74.6,2.56
+2006,Asia,Kyrgyzstan,66.7,2.48
+2006,Asia,Israel,84,2.23
+2006,Asia,Bahrain,75.5,2.1
+2006,Asia,Cambodia,64.1,2.03
+2006,Asia,Uzbekistan,67.6,1.96
+2006,Asia,Sri Lanka,73.8,1.96
+2006,Asia,Lebanon,74.1,1.82
+2006,Asia,United Arab Emirates,75.4,1.74
+2006,Asia,Maldives,75,1.62
+2006,Asia,Singapore,87,1.55
+2006,Asia,India,64.8,1.37
+2006,Asia,Turkey,72.8,1.29
+2006,Asia,Qatar,76.6,1.28
+2006,Asia,Syrian Arab Republic,73.7,0.97
+2006,Asia,Azerbaijan,69.2,0.85
+2006,Asia,Brunei Darussalam,76.3,0.67
+2006,Asia,Jordan,72.8,0.59
+2006,Asia,Oman,74.7,0.58
+2006,Asia,Malaysia,73.6,0.42
+2006,Asia,Tajikistan,65.9,0.38
+2006,Asia,Bhutan,65.8,0.29
+2006,Asia,Myanmar,64.2,0.28
+2006,Asia,Nepal,66,0.2
+2006,Asia,Saudi Arabia,73.2,0.08
+2006,Asia,Indonesia,67.3,0.06
+2006,Asia,Yemen,63,0.04
+2006,Asia,Timor-Leste,64.9,0.04
+2006,Asia,Pakistan,64.2,0.03
+2006,Asia,Iraq,64.7,0.03
+2006,Asia,Afghanistan,57.3,0.03
+2006,Asia,Iran (Islamic Republic of),72.2,0.02
+2006,Asia,Kuwait,73.6,0.01
+2006,Asia,Bangladesh,68.2,0.01
+2006,Europe,Estonia,73,16.58
+2006,Europe,Ireland,79,13.44
+2006,Europe,Hungary,73.4,13.16
+2006,Europe,Portugal,78.5,13.11
+2006,Europe,Czechia,76.5,13.03
+2006,Europe,Lithuania,76,12.7
+2006,Europe,Belarus,68.9,12.6
+2006,Europe,France,86,12.4
+2006,Europe,Austria,79.8,12.4
+2006,Europe,Slovenia,78.1,12.26
+2006,Europe,Luxembourg,79.4,11.98
+2006,Europe,Spain,88,11.86
+2006,Europe,Croatia,75.9,11.83
+2006,Europe,Russian Federation,66.4,11.79
+2006,Europe,Germany,79.6,11.76
+2006,Europe,United Kingdom of Great Britain and Northern Ireland,79.3,11.61
+2006,Europe,Denmark,78.1,11.02
+2006,Europe,Belgium,79.4,10.98
+2006,Europe,Poland,75.2,10.4
+2006,Europe,Latvia,75,10.4
+2006,Europe,Bulgaria,72.2,10.39
+2006,Europe,Slovakia,74.3,10.28
+2006,Europe,Switzerland,81.5,10.24
+2006,Europe,Finland,79.2,10.15
+2006,Europe,Netherlands,79.8,9.79
+2006,Europe,Greece,79.7,9.42
+2006,Europe,Malta,79.3,8.84
+2006,Europe,Serbia,73.6,8.58
+2006,Europe,Romania,72.5,8.51
+2006,Europe,Italy,81.2,8.44
+2006,Europe,Ukraine,67.7,7.99
+2006,Europe,Iceland,81.1,7.2
+2006,Europe,Sweden,88,6.5
+2006,Europe,Norway,84,6.47
+2006,Europe,Montenegro,73.8,5.38
+2006,Europe,Albania,74.2,5.31
+2006,Europe,Bosnia and Herzegovina,75.7,4.82
+2006,Oceania,Australia,81.2,10.31
+2006,Oceania,New Zealand,79.9,9.34
+2006,Oceania,Samoa,72,3.52
+2006,Oceania,Fiji,68.5,2.06
+2006,Oceania,Tonga,72.4,1.79
+2006,Oceania,Micronesia (Federated States of),68,1.73
+2006,Oceania,Vanuatu,71,1
+2006,Oceania,Solomon Islands,67.6,0.99
+2006,Oceania,Kiribati,65,0.76
+2006,Oceania,Papua New Guinea,68,0.64
+2007,Africa,Uganda,55.5,9.65
+2007,Africa,Nigeria,55,9.55
+2007,Africa,Gabon,61.6,9.02
+2007,Africa,South Africa,54.5,8.48
+2007,Africa,Seychelles,72.2,8.12
+2007,Africa,Equatorial Guinea,55,6.86
+2007,Africa,Rwanda,59.6,6.78
+2007,Africa,Angola,48.2,6.35
+2007,Africa,Botswana,56.9,6.21
+2007,Africa,Cameroon,53.6,5.44
+2007,Africa,Cabo Verde,72.3,5.28
+2007,Africa,Namibia,60,5.12
+2007,Africa,Burkina Faso,55.3,4.58
+2007,Africa,Burundi,54.8,4.54
+2007,Africa,Sao Tome and Principe,65.1,4.14
+2007,Africa,Liberia,57.9,4.03
+2007,Africa,Zimbabwe,46.6,3.88
+2007,Africa,Sierra Leone,45.3,3.86
+2007,Africa,Mauritius,72.9,3.24
+2007,Africa,Guinea-Bissau,55,2.98
+2007,Africa,Congo,58.2,2.75
+2007,Africa,Lesotho,46.2,2.69
+2007,Africa,Gambia,58.5,2.64
+2007,Africa,Côte d'Ivoire,49.9,2.58
+2007,Africa,Zambia,52.6,2.08
+2007,Africa,Sudan,61.4,2.01
+2007,Africa,Kenya,56.8,1.97
+2007,Africa,Central African Republic,46.8,1.5
+2007,Africa,Togo,55.9,1.37
+2007,Africa,Ghana,59.9,1.25
+2007,Africa,Tunisia,74.6,1.24
+2007,Africa,Eritrea,62,1.23
+2007,Africa,Malawi,48.5,1.18
+2007,Africa,Benin,57.1,1.12
+2007,Africa,Ethiopia,58.5,1.06
+2007,Africa,Mozambique,52.1,1.03
+2007,Africa,Madagascar,61.9,0.71
+2007,Africa,Morocco,71.4,0.56
+2007,Africa,Mali,55,0.55
+2007,Africa,Djibouti,59.8,0.45
+2007,Africa,Algeria,73.8,0.44
+2007,Africa,Chad,49.4,0.42
+2007,Africa,Senegal,62.1,0.32
+2007,Africa,Egypt,69.7,0.21
+2007,Africa,Guinea,56.4,0.19
+2007,Africa,Comoros,66,0.16
+2007,Africa,Niger,55.2,0.1
+2007,Africa,Mauritania,61.2,0.02
+2007,Africa,Somalia,51.5,0.01
+2007,Africa,Libya,72.5,0.01
+2007,Americas,Saint Lucia,73.9,12.68
+2007,Americas,Bahamas,74.4,10.75
+2007,Americas,Grenada,71.9,9.06
+2007,Americas,United States of America,78.1,8.74
+2007,Americas,Venezuela (Bolivarian Republic of),73.4,8.7
+2007,Americas,Antigua and Barbuda,75,8.64
+2007,Americas,Barbados,74.2,8.47
+2007,Americas,Canada,85,8.3
+2007,Americas,Argentina,74.8,8.16
+2007,Americas,Chile,78.9,7.39
+2007,Americas,Belize,69.6,7.24
+2007,Americas,Guyana,65.7,7.2
+2007,Americas,Brazil,73.3,7.19
+2007,Americas,Uruguay,75.4,6.67
+2007,Americas,Trinidad and Tobago,69.7,6.37
+2007,Americas,Panama,76.4,6.16
+2007,Americas,Haiti,61.8,6.08
+2007,Americas,Dominican Republic,72.9,6.05
+2007,Americas,Saint Vincent and the Grenadines,71.9,5.89
+2007,Americas,Paraguay,72.5,5.61
+2007,Americas,Mexico,76,5.35
+2007,Americas,Suriname,69.5,4.72
+2007,Americas,Colombia,73.5,4.66
+2007,Americas,Peru,74,4.29
+2007,Americas,Costa Rica,78.9,4.2
+2007,Americas,Cuba,78.1,4.13
+2007,Americas,Nicaragua,72.5,3.83
+2007,Americas,Jamaica,74.2,3.64
+2007,Americas,Ecuador,74.7,3.63
+2007,Americas,Bolivia (Plurinational State of),66.8,3.47
+2007,Americas,Honduras,73,3.16
+2007,Americas,El Salvador,71.2,2.83
+2007,Americas,Guatemala,75,2.4
+2007,Asia,Cyprus,78.9,11.56
+2007,Asia,Georgia,74.4,8.65
+2007,Asia,Kazakhstan,65.3,7.44
+2007,Asia,Japan,82.6,7.29
+2007,Asia,Thailand,73.3,6.2
+2007,Asia,Lao People's Democratic Republic,62.1,5
+2007,Asia,Philippines,67.5,4.19
+2007,Asia,Armenia,73.5,3.99
+2007,Asia,China,74.4,3.88
+2007,Asia,Mongolia,65.9,3.79
+2007,Asia,Viet Nam,74.7,3.01
+2007,Asia,Kyrgyzstan,67.2,2.77
+2007,Asia,Turkmenistan,64.1,2.58
+2007,Asia,Israel,84,2.33
+2007,Asia,Sri Lanka,73.7,2.29
+2007,Asia,Uzbekistan,67.8,2.15
+2007,Asia,Cambodia,65,2.08
+2007,Asia,Bahrain,75.6,2
+2007,Asia,Maldives,75.4,1.78
+2007,Asia,Lebanon,74.4,1.72
+2007,Asia,United Arab Emirates,75.6,1.69
+2007,Asia,Singapore,81.1,1.6
+2007,Asia,India,65.2,1.59
+2007,Asia,Turkey,73.2,1.26
+2007,Asia,Qatar,76.7,1.24
+2007,Asia,Azerbaijan,73,1.02
+2007,Asia,Brunei Darussalam,76,0.85
+2007,Asia,Syrian Arab Republic,73.8,0.83
+2007,Asia,Jordan,73,0.6
+2007,Asia,Oman,74.9,0.57
+2007,Asia,Malaysia,73.7,0.43
+2007,Asia,Tajikistan,66.1,0.35
+2007,Asia,Myanmar,64.5,0.26
+2007,Asia,Nepal,66.6,0.2
+2007,Asia,Bhutan,66.5,0.16
+2007,Asia,Iraq,65.9,0.14
+2007,Asia,Saudi Arabia,73.2,0.1
+2007,Asia,Indonesia,67.5,0.06
+2007,Asia,Yemen,63.4,0.05
+2007,Asia,Timor-Leste,65.8,0.05
+2007,Asia,Pakistan,64.4,0.03
+2007,Asia,Kuwait,73.7,0.03
+2007,Asia,Iran (Islamic Republic of),72.4,0.02
+2007,Asia,Afghanistan,57.5,0.02
+2007,Asia,Bangladesh,68.6,0.01
+2007,Europe,Estonia,73,17.87
+2007,Europe,Belarus,69.8,14.22
+2007,Europe,Ireland,79.5,13.59
+2007,Europe,Czechia,76.8,13.43
+2007,Europe,Lithuania,72,13.4
+2007,Europe,Portugal,78.7,12.57
+2007,Europe,Croatia,75.8,12.56
+2007,Europe,Hungary,73.5,12.55
+2007,Europe,Austria,81,12.5
+2007,Europe,France,89,12.2
+2007,Europe,Russian Federation,67.3,12.19
+2007,Europe,Latvia,78,12.12
+2007,Europe,United Kingdom of Great Britain and Northern Ireland,79.5,11.84
+2007,Europe,Luxembourg,79.7,11.75
+2007,Europe,Germany,79.8,11.5
+2007,Europe,Spain,89,11.05
+2007,Europe,Slovenia,78.3,11.02
+2007,Europe,Denmark,78.4,10.99
+2007,Europe,Poland,75.3,10.9
+2007,Europe,Bulgaria,72.6,10.89
+2007,Europe,Romania,72.9,10.6
+2007,Europe,Slovakia,74.4,10.58
+2007,Europe,Finland,79.3,10.45
+2007,Europe,Switzerland,81.7,10.44
+2007,Europe,Belgium,79.5,10.25
+2007,Europe,Greece,79.4,9.67
+2007,Europe,Netherlands,82,9.53
+2007,Europe,Serbia,73.8,9.3
+2007,Europe,Ukraine,67.5,8.86
+2007,Europe,Italy,81.3,8.37
+2007,Europe,Iceland,81.3,7.53
+2007,Europe,Malta,79.6,7.45
+2007,Europe,Sweden,89,6.9
+2007,Europe,Norway,85,6.6
+2007,Europe,Albania,75.9,5.58
+2007,Europe,Bosnia and Herzegovina,75.4,5.16
+2007,Europe,Montenegro,74.2,4.98
+2007,Oceania,Australia,81.3,10.56
+2007,Oceania,New Zealand,81,9.19
+2007,Oceania,Samoa,72.2,3.85
+2007,Oceania,Fiji,68.6,2.09
+2007,Oceania,Tonga,72.5,2.05
+2007,Oceania,Micronesia (Federated States of),68.2,1.64
+2007,Oceania,Vanuatu,73,1.01
+2007,Oceania,Solomon Islands,67.6,0.85
+2007,Oceania,Papua New Guinea,61.1,0.71
+2007,Oceania,Kiribati,65,0.68
+2008,Africa,Uganda,56.3,9.79
+2008,Africa,Nigeria,59,9.3
+2008,Africa,Gabon,61.6,8.75
+2008,Africa,Equatorial Guinea,55.4,8.34
+2008,Africa,South Africa,55.3,8.19
+2008,Africa,Angola,48.7,7.07
+2008,Africa,Botswana,57.5,6.56
+2008,Africa,Rwanda,68,6.39
+2008,Africa,Seychelles,72.2,6.33
+2008,Africa,Namibia,61.7,6.28
+2008,Africa,Cameroon,54.2,5.9
+2008,Africa,Burkina Faso,56.1,4.5
+2008,Africa,Sao Tome and Principe,65.4,4.36
+2008,Africa,Burundi,55.3,4.33
+2008,Africa,Cabo Verde,72.4,4.16
+2008,Africa,Sierra Leone,46.2,3.91
+2008,Africa,Liberia,58.6,3.88
+2008,Africa,Zimbabwe,48.2,3.56
+2008,Africa,Gambia,58.7,2.79
+2008,Africa,Lesotho,47.8,2.75
+2008,Africa,Côte d'Ivoire,54,2.69
+2008,Africa,Guinea-Bissau,55.6,2.64
+2008,Africa,Congo,59.4,2.58
+2008,Africa,Mauritius,72.7,2.49
+2008,Africa,Zambia,55.7,2.12
+2008,Africa,Sudan,61.8,2.01
+2008,Africa,Ghana,63,1.78
+2008,Africa,Kenya,57.9,1.71
+2008,Africa,Central African Republic,47.6,1.52
+2008,Africa,Mozambique,53.2,1.48
+2008,Africa,Tunisia,74.7,1.37
+2008,Africa,Togo,56.2,1.33
+2008,Africa,Benin,57.6,1.28
+2008,Africa,Malawi,50,1.27
+2008,Africa,Ethiopia,59.8,1.13
+2008,Africa,Madagascar,62.3,0.68
+2008,Africa,Mali,55.5,0.57
+2008,Africa,Morocco,71.8,0.51
+2008,Africa,Eritrea,67,0.49
+2008,Africa,Djibouti,62,0.49
+2008,Africa,Algeria,74.1,0.46
+2008,Africa,Chad,49.6,0.45
+2008,Africa,Senegal,62.8,0.28
+2008,Africa,Egypt,69.8,0.24
+2008,Africa,Guinea,56.8,0.21
+2008,Africa,Niger,56,0.12
+2008,Africa,Comoros,61,0.12
+2008,Africa,Mauritania,61.4,0.02
+2008,Africa,Somalia,51.9,0.01
+2008,Africa,Libya,72.6,0.01
+2008,Americas,Saint Lucia,74.1,12.09
+2008,Americas,Bahamas,74.5,10.15
+2008,Americas,Barbados,74.4,8.95
+2008,Americas,Grenada,72.1,8.92
+2008,Americas,United States of America,78.2,8.74
+2008,Americas,Argentina,75.4,8.41
+2008,Americas,Canada,87,8.3
+2008,Americas,Antigua and Barbuda,75.2,8.27
+2008,Americas,Venezuela (Bolivarian Republic of),73.2,8.18
+2008,Americas,Guyana,66.3,7.32
+2008,Americas,Chile,79.6,7.31
+2008,Americas,Belize,69.6,7.22
+2008,Americas,Brazil,73.4,7.21
+2008,Americas,Saint Vincent and the Grenadines,72.1,6.92
+2008,Americas,Uruguay,76.4,6.76
+2008,Americas,Panama,76.5,6.74
+2008,Americas,Trinidad and Tobago,69.9,6.41
+2008,Americas,Paraguay,72.7,6.14
+2008,Americas,Dominican Republic,73.3,6.12
+2008,Americas,Haiti,62.1,5.95
+2008,Americas,Mexico,75.6,5.36
+2008,Americas,Suriname,69.8,4.94
+2008,Americas,Peru,73.9,4.85
+2008,Americas,Colombia,73.5,4.45
+2008,Americas,Cuba,77.9,4.26
+2008,Americas,Costa Rica,78.9,4.22
+2008,Americas,Bolivia (Plurinational State of),67.4,3.77
+2008,Americas,Ecuador,74.6,3.76
+2008,Americas,Nicaragua,72.5,3.64
+2008,Americas,Jamaica,74.5,3.51
+2008,Americas,Honduras,73.2,3.14
+2008,Americas,El Salvador,71.7,2.68
+2008,Americas,Guatemala,79,2.21
+2008,Asia,Cyprus,79.1,12.01
+2008,Asia,Kazakhstan,66.6,7.6
+2008,Asia,Georgia,73.9,7.17
+2008,Asia,Japan,82.7,7.11
+2008,Asia,Thailand,73.5,5.92
+2008,Asia,Lao People's Democratic Republic,62.6,5.1
+2008,Asia,China,74.5,4.27
+2008,Asia,Mongolia,67.4,4.26
+2008,Asia,Philippines,67.5,4.21
+2008,Asia,Armenia,73.2,3.96
+2008,Asia,Viet Nam,74.9,3.58
+2008,Asia,Kyrgyzstan,67.6,2.53
+2008,Asia,Israel,81,2.47
+2008,Asia,Turkmenistan,64.5,2.4
+2008,Asia,Uzbekistan,67.9,2.36
+2008,Asia,Cambodia,65.6,2.24
+2008,Asia,Sri Lanka,72.3,2.1
+2008,Asia,Bahrain,75.8,2
+2008,Asia,India,65.5,1.93
+2008,Asia,United Arab Emirates,75.8,1.86
+2008,Asia,Maldives,75.9,1.76
+2008,Asia,Singapore,81.4,1.7
+2008,Asia,Lebanon,74.5,1.67
+2008,Asia,Turkey,73.5,1.39
+2008,Asia,Qatar,76.8,1.37
+2008,Asia,Azerbaijan,73,1.18
+2008,Asia,Syrian Arab Republic,73.8,0.8
+2008,Asia,Brunei Darussalam,77.2,0.67
+2008,Asia,Jordan,73.1,0.61
+2008,Asia,Oman,75.2,0.57
+2008,Asia,Malaysia,73.8,0.47
+2008,Asia,Tajikistan,66.4,0.32
+2008,Asia,Myanmar,59.2,0.3
+2008,Asia,Nepal,67,0.21
+2008,Asia,Bhutan,67,0.21
+2008,Asia,Iraq,69.3,0.17
+2008,Asia,Saudi Arabia,73.3,0.09
+2008,Asia,Indonesia,67.7,0.07
+2008,Asia,Timor-Leste,66.2,0.06
+2008,Asia,Yemen,63.8,0.04
+2008,Asia,Pakistan,64.6,0.03
+2008,Asia,Kuwait,73.8,0.03
+2008,Asia,Afghanistan,58.1,0.03
+2008,Asia,Iran (Islamic Republic of),72.7,0.02
+2008,Asia,Bangladesh,69.1,0.01
+2008,Europe,Estonia,74.2,16.99
+2008,Europe,Belarus,70,14.67
+2008,Europe,Lithuania,71.1,13.3
+2008,Europe,Czechia,77,13.25
+2008,Europe,Ireland,79.8,12.66
+2008,Europe,Portugal,79,12.35
+2008,Europe,Croatia,76,12.06
+2008,Europe,Russian Federation,67.5,12.04
+2008,Europe,Austria,84,12
+2008,Europe,Romania,73.1,11.9
+2008,Europe,France,89,11.9
+2008,Europe,Latvia,71.9,11.84
+2008,Europe,Hungary,74.1,11.64
+2008,Europe,Luxembourg,80,11.53
+2008,Europe,United Kingdom of Great Britain and Northern Ireland,79.6,11.47
+2008,Europe,Poland,75.5,11.4
+2008,Europe,Slovakia,74.7,11.37
+2008,Europe,Germany,79.9,11.36
+2008,Europe,Bulgaria,72.9,10.98
+2008,Europe,Slovenia,78.9,10.94
+2008,Europe,Denmark,78.8,10.7
+2008,Europe,Belgium,79.5,10.47
+2008,Europe,Switzerland,82,10.29
+2008,Europe,Finland,79.6,10.26
+2008,Europe,Spain,81.3,10.24
+2008,Europe,Netherlands,83,9.62
+2008,Europe,Serbia,74,9.54
+2008,Europe,Greece,79.9,9.51
+2008,Europe,Ukraine,67.7,9.46
+2008,Europe,Iceland,81.4,8.49
+2008,Europe,Italy,81.5,7.96
+2008,Europe,Malta,80,7.14
+2008,Europe,Sweden,81.1,6.9
+2008,Europe,Norway,86,6.75
+2008,Europe,Montenegro,74.6,6.17
+2008,Europe,Albania,75.3,5.61
+2008,Europe,Bosnia and Herzegovina,76,5.13
+2008,Oceania,Australia,81.3,10.76
+2008,Oceania,New Zealand,81,9.49
+2008,Oceania,Samoa,72.5,3.97
+2008,Oceania,Micronesia (Federated States of),68.4,1.97
+2008,Oceania,Fiji,68.7,1.95
+2008,Oceania,Vanuatu,75,1.18
+2008,Oceania,Tonga,72.6,1.1
+2008,Oceania,Solomon Islands,68,1.09
+2008,Oceania,Papua New Guinea,61.4,0.81
+2008,Oceania,Kiribati,65.1,0.46
+2009,Africa,Uganda,57.5,9.63
+2009,Africa,Nigeria,51.6,9.05
+2009,Africa,Gabon,61.7,8.64
+2009,Africa,Namibia,62.4,7.99
+2009,Africa,Equatorial Guinea,55.7,7.97
+2009,Africa,South Africa,56.5,7.6
+2009,Africa,Rwanda,61,7.11
+2009,Africa,Angola,49.1,7.01
+2009,Africa,Cameroon,54.8,5.89
+2009,Africa,Botswana,59.2,5.01
+2009,Africa,Seychelles,72.3,4.94
+2009,Africa,Zimbabwe,50,4.64
+2009,Africa,Burkina Faso,56.9,4.55
+2009,Africa,Cabo Verde,72.4,4.45
+2009,Africa,Sao Tome and Principe,65.8,4.13
+2009,Africa,Burundi,56.2,4.05
+2009,Africa,Sierra Leone,47.1,3.97
+2009,Africa,Liberia,59.2,3.75
+2009,Africa,Congo,68,3.47
+2009,Africa,Gambia,59,2.99
+2009,Africa,Côte d'Ivoire,51,2.92
+2009,Africa,Mauritius,72.8,2.83
+2009,Africa,Lesotho,49.4,2.75
+2009,Africa,Guinea-Bissau,56.3,2.55
+2009,Africa,Zambia,57.4,2.3
+2009,Africa,Sudan,62,1.99
+2009,Africa,Kenya,59.1,1.86
+2009,Africa,Ghana,66,1.76
+2009,Africa,Central African Republic,48.6,1.56
+2009,Africa,Tunisia,74.7,1.4
+2009,Africa,Togo,56.7,1.24
+2009,Africa,Mozambique,53.8,1.18
+2009,Africa,Ethiopia,68,1.17
+2009,Africa,Malawi,51.5,1.16
+2009,Africa,Benin,58.4,1.16
+2009,Africa,Madagascar,62.8,0.91
+2009,Africa,Eritrea,61.4,0.63
+2009,Africa,Morocco,72.3,0.62
+2009,Africa,Mali,56,0.59
+2009,Africa,Algeria,74.4,0.5
+2009,Africa,Djibouti,69,0.49
+2009,Africa,Chad,57,0.47
+2009,Africa,Senegal,63.5,0.3
+2009,Africa,Egypt,69.9,0.21
+2009,Africa,Guinea,57.3,0.18
+2009,Africa,Comoros,61.3,0.17
+2009,Africa,Niger,57.1,0.11
+2009,Africa,Somalia,52.2,0.01
+2009,Africa,Mauritania,61.7,0.01
+2009,Africa,Libya,72.7,0.01
+2009,Americas,Saint Lucia,74.3,11.09
+2009,Americas,Bahamas,74.6,9.29
+2009,Americas,United States of America,78.5,8.71
+2009,Americas,Barbados,74.6,8.46
+2009,Americas,Grenada,72.4,8.42
+2009,Americas,Canada,81,8.4
+2009,Americas,Argentina,75.6,8.33
+2009,Americas,Antigua and Barbuda,75.4,7.82
+2009,Americas,Chile,79.3,7.67
+2009,Americas,Venezuela (Bolivarian Republic of),73.6,7.59
+2009,Americas,Guyana,66.1,7.49
+2009,Americas,Brazil,73.6,7.33
+2009,Americas,Panama,76.8,6.87
+2009,Americas,Saint Vincent and the Grenadines,72.3,6.85
+2009,Americas,Belize,69.5,6.85
+2009,Americas,Uruguay,76.6,6.67
+2009,Americas,Trinidad and Tobago,71,6.37
+2009,Americas,Dominican Republic,73.6,6.05
+2009,Americas,Haiti,62.5,5.85
+2009,Americas,Paraguay,73,5.39
+2009,Americas,Mexico,75.7,5.27
+2009,Americas,Suriname,70,5.13
+2009,Americas,Peru,73.8,4.69
+2009,Americas,Colombia,73.6,4.34
+2009,Americas,Costa Rica,79.2,4.07
+2009,Americas,Cuba,78.1,4.01
+2009,Americas,Ecuador,75.1,3.87
+2009,Americas,Bolivia (Plurinational State of),68,3.87
+2009,Americas,Nicaragua,73.2,3.36
+2009,Americas,Jamaica,74.7,3.33
+2009,Americas,Honduras,73.4,3.08
+2009,Americas,El Salvador,71.4,2.55
+2009,Americas,Guatemala,76,2.14
+2009,Asia,Cyprus,79.3,10.8
+2009,Asia,Japan,83,7.09
+2009,Asia,Georgia,73.2,6.66
+2009,Asia,Kazakhstan,67.8,6.64
+2009,Asia,Thailand,73.7,5.88
+2009,Asia,Lao People's Democratic Republic,63.1,5.18
+2009,Asia,China,74.9,4.88
+2009,Asia,Mongolia,66.9,4.61
+2009,Asia,Philippines,68,4.42
+2009,Asia,Armenia,73.3,3.96
+2009,Asia,Viet Nam,75,3.86
+2009,Asia,Uzbekistan,68,2.56
+2009,Asia,Israel,81.5,2.55
+2009,Asia,India,66,2.5
+2009,Asia,Kyrgyzstan,68.5,2.39
+2009,Asia,Turkmenistan,65.6,2.35
+2009,Asia,Cambodia,66.1,2.13
+2009,Asia,Azerbaijan,78,2.1
+2009,Asia,Sri Lanka,71.8,2.05
+2009,Asia,Bahrain,76,1.95
+2009,Asia,United Arab Emirates,76,1.73
+2009,Asia,Singapore,81.7,1.73
+2009,Asia,Lebanon,74.7,1.62
+2009,Asia,Maldives,76.3,1.59
+2009,Asia,Turkey,73.9,1.4
+2009,Asia,Qatar,77,1.11
+2009,Asia,Syrian Arab Republic,73.8,0.81
+2009,Asia,Jordan,73.3,0.59
+2009,Asia,Oman,75.4,0.56
+2009,Asia,Malaysia,74,0.47
+2009,Asia,Tajikistan,66.7,0.3
+2009,Asia,Myanmar,65.2,0.28
+2009,Asia,Brunei Darussalam,76.8,0.25
+2009,Asia,Nepal,67.5,0.22
+2009,Asia,Iraq,74,0.2
+2009,Asia,Bhutan,67.4,0.17
+2009,Asia,Kuwait,73.9,0.1
+2009,Asia,Timor-Leste,66.6,0.09
+2009,Asia,Saudi Arabia,73.4,0.09
+2009,Asia,Indonesia,67.9,0.08
+2009,Asia,Yemen,64.1,0.03
+2009,Asia,Pakistan,64.8,0.03
+2009,Asia,Iran (Islamic Republic of),73.3,0.03
+2009,Asia,Bangladesh,69.5,0.01
+2009,Asia,Afghanistan,58.6,0.01
+2009,Europe,Estonia,74.9,15.04
+2009,Europe,Belarus,70,14.09
+2009,Europe,Czechia,77.1,13.23
+2009,Europe,Lithuania,72.2,12.4
+2009,Europe,Croatia,76.3,12.21
+2009,Europe,Portugal,79.3,12.03
+2009,Europe,France,81.1,11.8
+2009,Europe,Hungary,74.2,11.46
+2009,Europe,Luxembourg,83,11.42
+2009,Europe,Ireland,79.7,11.41
+2009,Europe,Austria,82,11.3
+2009,Europe,Germany,80,11.22
+2009,Europe,Russian Federation,68.2,11.21
+2009,Europe,Bulgaria,73.2,10.93
+2009,Europe,United Kingdom of Great Britain and Northern Ireland,81,10.79
+2009,Europe,Poland,75.7,10.7
+2009,Europe,Slovakia,75,10.63
+2009,Europe,Slovenia,79.1,10.52
+2009,Europe,Romania,73.1,10.4
+2009,Europe,Iceland,81.6,10.22
+2009,Europe,Switzerland,82.1,10.15
+2009,Europe,Denmark,78.9,10.08
+2009,Europe,Belgium,79.8,10.05
+2009,Europe,Spain,81.6,9.99
+2009,Europe,Finland,79.7,9.96
+2009,Europe,Serbia,74.1,9.85
+2009,Europe,Latvia,72.6,9.85
+2009,Europe,Netherlands,86,9.23
+2009,Europe,Greece,80,9.08
+2009,Europe,Ukraine,69.2,8.71
+2009,Europe,Malta,82,7.38
+2009,Europe,Sweden,81.4,7.3
+2009,Europe,Italy,81.6,7.25
+2009,Europe,Norway,89,6.68
+2009,Europe,Montenegro,75,6.45
+2009,Europe,Albania,76.1,5.79
+2009,Europe,Bosnia and Herzegovina,76.1,4.75
+2009,Oceania,Australia,81.7,10.62
+2009,Oceania,New Zealand,85,9.24
+2009,Oceania,Samoa,76,2.88
+2009,Oceania,Fiji,68.9,2.31
+2009,Oceania,Micronesia (Federated States of),68.5,2.06
+2009,Oceania,Solomon Islands,68.1,1.21
+2009,Oceania,Tonga,72.5,1.08
+2009,Oceania,Vanuatu,78,0.83
+2009,Oceania,Papua New Guinea,61.6,0.82
+2009,Oceania,Kiribati,65.2,0.54
+2010,Africa,Uganda,58.4,10.03
+2010,Africa,Equatorial Guinea,56.1,9.93
+2010,Africa,Nigeria,52,8.9
+2010,Africa,Gabon,62.3,8.85
+2010,Africa,Rwanda,62.8,7.92
+2010,Africa,Angola,49.6,7.8
+2010,Africa,Namibia,63,7.58
+2010,Africa,South Africa,58,7.28
+2010,Africa,Seychelles,72.4,6.51
+2010,Africa,Cameroon,55.3,6.15
+2010,Africa,Botswana,61.1,5.99
+2010,Africa,Sao Tome and Principe,66.2,5.58
+2010,Africa,Zimbabwe,52.4,5.21
+2010,Africa,Cabo Verde,72.5,4.75
+2010,Africa,Burkina Faso,57.5,4.55
+2010,Africa,Burundi,56.8,4.16
+2010,Africa,Sierra Leone,48.1,3.84
+2010,Africa,Liberia,59.7,3.64
+2010,Africa,Congo,62,3.53
+2010,Africa,Gambia,59.3,3.48
+2010,Africa,Guinea-Bissau,56.7,3.21
+2010,Africa,Côte d'Ivoire,51.5,3.15
+2010,Africa,Mauritius,73.3,2.95
+2010,Africa,Lesotho,51.1,2.71
+2010,Africa,Zambia,58,2.47
+2010,Africa,Sudan,62.5,1.77
+2010,Africa,Kenya,63,1.73
+2010,Africa,Ghana,69,1.69
+2010,Africa,Central African Republic,49.2,1.67
+2010,Africa,Ethiopia,61.8,1.34
+2010,Africa,Benin,58.7,1.33
+2010,Africa,Tunisia,74.8,1.28
+2010,Africa,Togo,57.4,1.21
+2010,Africa,Malawi,52.9,1.08
+2010,Africa,Madagascar,63.3,1.03
+2010,Africa,Mozambique,54,0.96
+2010,Africa,Eritrea,62.1,0.61
+2010,Africa,Mali,56.5,0.6
+2010,Africa,Morocco,72.8,0.56
+2010,Africa,Chad,51.2,0.5
+2010,Africa,Algeria,74.7,0.45
+2010,Africa,Djibouti,61.3,0.44
+2010,Africa,Senegal,64.3,0.28
+2010,Africa,Egypt,70,0.22
+2010,Africa,Guinea,57.8,0.2
+2010,Africa,Comoros,61.8,0.15
+2010,Africa,Niger,58.2,0.12
+2010,Africa,Somalia,52.4,0.01
+2010,Africa,Mauritania,62,0.01
+2010,Africa,Libya,72.8,0.01
+2010,Americas,Saint Lucia,74.2,10.87
+2010,Americas,Bahamas,75,9.19
+2010,Americas,United States of America,78.7,8.55
+2010,Americas,Barbados,74.7,8.41
+2010,Americas,Canada,81.2,8.4
+2010,Americas,Argentina,75.5,8.15
+2010,Americas,Chile,79.1,7.93
+2010,Americas,Grenada,72.6,7.91
+2010,Americas,Antigua and Barbuda,75.6,7.84
+2010,Americas,Guyana,65.9,7.52
+2010,Americas,Brazil,73.8,7.52
+2010,Americas,Venezuela (Bolivarian Republic of),73.7,7.22
+2010,Americas,Saint Vincent and the Grenadines,72.5,7
+2010,Americas,Panama,76.5,6.94
+2010,Americas,Belize,69.5,6.76
+2010,Americas,Trinidad and Tobago,74,6.5
+2010,Americas,Uruguay,76.3,6.21
+2010,Americas,Dominican Republic,72.7,6.02
+2010,Americas,Haiti,36.3,5.76
+2010,Americas,Paraguay,73.2,5.65
+2010,Americas,Suriname,73,5.26
+2010,Americas,Mexico,75.6,5.21
+2010,Americas,Peru,73.7,4.72
+2010,Americas,Colombia,73.6,4.28
+2010,Americas,Cuba,78,4.13
+2010,Americas,Ecuador,75,3.95
+2010,Americas,Bolivia (Plurinational State of),68.7,3.95
+2010,Americas,Costa Rica,78.1,3.58
+2010,Americas,Jamaica,75,3.55
+2010,Americas,Nicaragua,73.2,3.38
+2010,Americas,Honduras,73.6,3.1
+2010,Americas,El Salvador,72,2.36
+2010,Americas,Guatemala,77,2.14
+2010,Asia,Cyprus,79.5,11.32
+2010,Asia,Georgia,73.8,7.24
+2010,Asia,Japan,83,6.9
+2010,Asia,Kazakhstan,67.8,6.83
+2010,Asia,Thailand,73.9,5.95
+2010,Asia,Lao People's Democratic Republic,63.6,5.95
+2010,Asia,Mongolia,66.3,5.8
+2010,Asia,China,75,5.75
+2010,Asia,Philippines,67.9,4.85
+2010,Asia,Armenia,73.5,4.23
+2010,Asia,Viet Nam,75.2,3.93
+2010,Asia,India,66.4,2.77
+2010,Asia,Uzbekistan,68.3,2.73
+2010,Asia,Kyrgyzstan,68.8,2.73
+2010,Asia,Israel,81.7,2.63
+2010,Asia,Turkmenistan,65.8,2.48
+2010,Asia,Sri Lanka,74.5,2.31
+2010,Asia,Cambodia,66.6,2.2
+2010,Asia,Azerbaijan,71.1,1.98
+2010,Asia,Bahrain,76.1,1.93
+2010,Asia,Singapore,82,1.84
+2010,Asia,Maldives,76.7,1.83
+2010,Asia,United Arab Emirates,76.2,1.69
+2010,Asia,Lebanon,74.9,1.58
+2010,Asia,Turkey,74.2,1.49
+2010,Asia,Qatar,77.3,1.16
+2010,Asia,Brunei Darussalam,76.9,0.88
+2010,Asia,Syrian Arab Republic,73.7,0.78
+2010,Asia,Oman,75.6,0.56
+2010,Asia,Jordan,73.4,0.51
+2010,Asia,Malaysia,74.1,0.49
+2010,Asia,Tajikistan,67.3,0.32
+2010,Asia,Myanmar,65.4,0.3
+2010,Asia,Bhutan,67.9,0.28
+2010,Asia,Nepal,68,0.24
+2010,Asia,Iraq,76,0.19
+2010,Asia,Timor-Leste,66.9,0.1
+2010,Asia,Saudi Arabia,73.7,0.09
+2010,Asia,Indonesia,68.1,0.08
+2010,Asia,Yemen,64.4,0.06
+2010,Asia,Pakistan,65.1,0.04
+2010,Asia,Iran (Islamic Republic of),74.1,0.03
+2010,Asia,Kuwait,74,0.01
+2010,Asia,Bangladesh,69.9,0.01
+2010,Asia,Afghanistan,58.8,0.01
+2010,Europe,Estonia,75.6,14.97
+2010,Europe,Belarus,73,14.44
+2010,Europe,Lithuania,72.4,12.9
+2010,Europe,Czechia,77.5,12.69
+2010,Europe,Portugal,79.6,12.25
+2010,Europe,Croatia,76.6,12.1
+2010,Europe,Austria,84,12.1
+2010,Europe,Ireland,86,11.88
+2010,Europe,France,81.3,11.7
+2010,Europe,Luxembourg,86,11.36
+2010,Europe,Germany,81,11.2
+2010,Europe,Russian Federation,68.4,11.05
+2010,Europe,United Kingdom of Great Britain and Northern Ireland,82,10.88
+2010,Europe,Bulgaria,73.4,10.8
+2010,Europe,Hungary,74.5,10.78
+2010,Europe,Poland,76.3,10.59
+2010,Europe,Slovenia,79.5,10.32
+2010,Europe,Denmark,79.2,10.28
+2010,Europe,Belgium,80,10.22
+2010,Europe,Slovakia,75.1,10.13
+2010,Europe,Switzerland,82.3,10.01
+2010,Europe,Latvia,72.8,9.8
+2010,Europe,Spain,81.9,9.78
+2010,Europe,Finland,79.9,9.72
+2010,Europe,Serbia,74.4,9.65
+2010,Europe,Netherlands,88,9.33
+2010,Europe,Romania,73.4,9
+2010,Europe,Greece,83,9
+2010,Europe,Ukraine,69.8,8.39
+2010,Europe,Iceland,81.8,8.25
+2010,Europe,Malta,83,7.91
+2010,Europe,Sweden,81.5,7.2
+2010,Europe,Italy,81.8,6.95
+2010,Europe,Norway,81,6.59
+2010,Europe,Montenegro,75.3,6.56
+2010,Europe,Albania,76.2,5.28
+2010,Europe,Bosnia and Herzegovina,76.4,4.54
+2010,Oceania,Australia,81.9,10.52
+2010,Oceania,New Zealand,89,9.62
+2010,Oceania,Samoa,72.6,3.01
+2010,Oceania,Fiji,69.1,2.25
+2010,Oceania,Micronesia (Federated States of),68.7,1.76
+2010,Oceania,Tonga,72.8,1.24
+2010,Oceania,Solomon Islands,68.3,1.1
+2010,Oceania,Vanuatu,71,0.91
+2010,Oceania,Papua New Guinea,61.8,0.79
+2010,Oceania,Kiribati,65.3,0.48
+2011,Africa,Equatorial Guinea,56.2,10.99
+2011,Africa,Uganda,59.3,10.22
+2011,Africa,Seychelles,72.6,9.72
+2011,Africa,Gabon,62.8,8.9
+2011,Africa,Nigeria,52.3,8.75
+2011,Africa,Rwanda,63.8,8.34
+2011,Africa,Angola,51,8.06
+2011,Africa,Namibia,64.3,7.84
+2011,Africa,South Africa,58.9,7.38
+2011,Africa,Cameroon,55.6,6.19
+2011,Africa,Zimbabwe,54.9,6
+2011,Africa,Botswana,62.2,5.76
+2011,Africa,Sao Tome and Principe,66.6,5.69
+2011,Africa,Cabo Verde,72.6,5.07
+2011,Africa,Burkina Faso,58.1,4.51
+2011,Africa,Burundi,57.4,4.16
+2011,Africa,Congo,62.9,3.82
+2011,Africa,Sierra Leone,48.9,3.78
+2011,Africa,Liberia,62,3.72
+2011,Africa,Guinea-Bissau,57.1,3.57
+2011,Africa,Gambia,59.8,3.41
+2011,Africa,Côte d'Ivoire,51.7,3.13
+2011,Africa,Mauritius,73.6,3.03
+2011,Africa,Zambia,58.2,2.57
+2011,Africa,Lesotho,52.3,2.39
+2011,Africa,Sudan,62.7,2.12
+2011,Africa,Kenya,61.2,1.8
+2011,Africa,Central African Republic,49.8,1.66
+2011,Africa,Ghana,61.2,1.64
+2011,Africa,Togo,58.3,1.44
+2011,Africa,Benin,59.1,1.4
+2011,Africa,Ethiopia,62.6,1.32
+2011,Africa,Tunisia,74.8,1.29
+2011,Africa,Malawi,54.1,1.23
+2011,Africa,Madagascar,63.8,0.97
+2011,Africa,Mozambique,54.3,0.94
+2011,Africa,Eritrea,62.9,0.62
+2011,Africa,Mali,56.8,0.61
+2011,Africa,Chad,51.6,0.56
+2011,Africa,Algeria,74.9,0.56
+2011,Africa,Morocco,73.3,0.54
+2011,Africa,Djibouti,61.8,0.39
+2011,Africa,Senegal,64.9,0.32
+2011,Africa,Guinea,58.1,0.22
+2011,Africa,Egypt,74,0.22
+2011,Africa,Niger,59.4,0.15
+2011,Africa,Comoros,62.2,0.12
+2011,Africa,Somalia,53.1,0.01
+2011,Africa,Mauritania,62.2,0.01
+2011,Africa,Libya,71.3,0.01
+2011,Americas,Saint Lucia,74.6,10.43
+2011,Americas,Bahamas,75,9.34
+2011,Americas,United States of America,78.7,8.67
+2011,Americas,Barbados,74.9,8.51
+2011,Americas,Canada,81.5,8.2
+2011,Americas,Argentina,75.7,8.11
+2011,Americas,Grenada,72.9,7.84
+2011,Americas,Antigua and Barbuda,75.7,7.84
+2011,Americas,Brazil,74.1,7.58
+2011,Americas,Guyana,65.6,7.56
+2011,Americas,Chile,79.8,7.26
+2011,Americas,Saint Vincent and the Grenadines,72.7,7.02
+2011,Americas,Panama,77.3,6.9
+2011,Americas,Venezuela (Bolivarian Republic of),73.8,6.74
+2011,Americas,Belize,69.4,6.64
+2011,Americas,Trinidad and Tobago,76,6.5
+2011,Americas,Uruguay,77,5.97
+2011,Americas,Dominican Republic,73.1,5.91
+2011,Americas,Paraguay,73.4,5.79
+2011,Americas,Haiti,62.3,5.68
+2011,Americas,Suriname,76,5.64
+2011,Americas,Mexico,76.1,5.3
+2011,Americas,Peru,74.5,4.83
+2011,Americas,Colombia,74.2,4.37
+2011,Americas,Cuba,78.8,4.14
+2011,Americas,Ecuador,75.3,3.99
+2011,Americas,Bolivia (Plurinational State of),69.3,3.93
+2011,Americas,Jamaica,75.2,3.58
+2011,Americas,Costa Rica,79,3.41
+2011,Americas,Nicaragua,74.5,3.39
+2011,Americas,Honduras,73.9,3.1
+2011,Americas,El Salvador,72,2.37
+2011,Americas,Guatemala,71.1,2.16
+2011,Asia,Cyprus,79.7,10.69
+2011,Asia,Georgia,73.9,8.14
+2011,Asia,Japan,82.5,7.39
+2011,Asia,Kazakhstan,68.5,6.63
+2011,Asia,Thailand,74.1,6.07
+2011,Asia,China,75.2,5.63
+2011,Asia,Lao People's Democratic Republic,64,5.39
+2011,Asia,Philippines,68,4.96
+2011,Asia,Armenia,73.9,4.09
+2011,Asia,Viet Nam,75.4,3.94
+2011,Asia,Kyrgyzstan,69.4,3.28
+2011,Asia,Sri Lanka,74.5,3.03
+2011,Asia,India,66.8,3
+2011,Asia,Uzbekistan,68.5,2.83
+2011,Asia,Israel,81.8,2.67
+2011,Asia,Turkmenistan,65.6,2.55
+2011,Asia,Cambodia,67,2.12
+2011,Asia,Azerbaijan,71.6,1.98
+2011,Asia,Maldives,77.3,1.92
+2011,Asia,Singapore,82.2,1.8
+2011,Asia,United Arab Emirates,76.3,1.73
+2011,Asia,Bahrain,76.1,1.66
+2011,Asia,Lebanon,75,1.57
+2011,Asia,Turkey,74.5,1.53
+2011,Asia,Qatar,77.5,1.16
+2011,Asia,Brunei Darussalam,77.4,0.97
+2011,Asia,Syrian Arab Republic,71.7,0.76
+2011,Asia,Oman,75.8,0.54
+2011,Asia,Malaysia,74.3,0.51
+2011,Asia,Timor-Leste,67.2,0.5
+2011,Asia,Jordan,73.6,0.43
+2011,Asia,Myanmar,65.6,0.33
+2011,Asia,Tajikistan,68.1,0.32
+2011,Asia,Nepal,68.4,0.27
+2011,Asia,Bhutan,68.3,0.23
+2011,Asia,Iraq,77,0.17
+2011,Asia,Saudi Arabia,73.9,0.09
+2011,Asia,Indonesia,68.3,0.08
+2011,Asia,Yemen,64.6,0.04
+2011,Asia,Pakistan,65.5,0.04
+2011,Asia,Iran (Islamic Republic of),74.7,0.03
+2011,Asia,Kuwait,74.2,0.02
+2011,Asia,Mongolia,67.3,0.01
+2011,Asia,Bangladesh,73,0.01
+2011,Asia,Afghanistan,59.2,0.01
+2011,Europe,Belarus,72,17.31
+2011,Europe,Lithuania,72.8,12.66
+2011,Europe,Czechia,77.8,12.43
+2011,Europe,Croatia,77,12.19
+2011,Europe,Austria,88,12.04
+2011,Europe,Portugal,82,11.92
+2011,Europe,France,81.7,11.8
+2011,Europe,Ireland,84,11.72
+2011,Europe,Hungary,74.8,11.51
+2011,Europe,Luxembourg,88,11.5
+2011,Europe,Germany,85,11.2
+2011,Europe,Russian Federation,69.4,11.04
+2011,Europe,Poland,76.7,10.93
+2011,Europe,United Kingdom of Great Britain and Northern Ireland,86,10.68
+2011,Europe,Bulgaria,73.7,10.67
+2011,Europe,Slovenia,79.8,10.61
+2011,Europe,Denmark,79.7,10.47
+2011,Europe,Slovakia,75.6,10.24
+2011,Europe,Latvia,73.6,10.14
+2011,Europe,Belgium,83,10.11
+2011,Europe,Switzerland,82.6,9.99
+2011,Europe,Finland,83,9.81
+2011,Europe,Spain,82.1,9.62
+2011,Europe,Serbia,74.6,9.56
+2011,Europe,Romania,74.3,9.1
+2011,Europe,Netherlands,81.1,8.96
+2011,Europe,Ukraine,75,8.48
+2011,Europe,Iceland,82.1,8.13
+2011,Europe,Greece,85,8.02
+2011,Europe,Sweden,81.7,7.4
+2011,Europe,Italy,82,6.98
+2011,Europe,Malta,87,6.91
+2011,Europe,Montenegro,75.4,6.56
+2011,Europe,Norway,81.1,6.53
+2011,Europe,Albania,76.6,5.37
+2011,Europe,Bosnia and Herzegovina,76.9,4.64
+2011,Europe,Estonia,76.1,0.01
+2011,Oceania,Australia,82,10.3
+2011,Oceania,New Zealand,86,9.47
+2011,Oceania,Samoa,73,2.15
+2011,Oceania,Micronesia (Federated States of),68.9,1.89
+2011,Oceania,Solomon Islands,68.5,0.99
+2011,Oceania,Tonga,72.9,0.96
+2011,Oceania,Papua New Guinea,62,0.88
+2011,Oceania,Vanuatu,71.2,0.85
+2011,Oceania,Kiribati,65.5,0.53
+2011,Oceania,Fiji,69.2,0.01
+2012,Africa,Equatorial Guinea,56.7,11.89
+2012,Africa,Nigeria,52.7,8.54
+2012,Africa,Gabon,63.5,8.3
+2012,Africa,Angola,56,8.24
+2012,Africa,South Africa,59.2,7.38
+2012,Africa,Zimbabwe,56.6,6.09
+2012,Africa,Burkina Faso,58.6,4.75
+2012,Africa,Côte d'Ivoire,52,3.24
+2012,Africa,Zambia,59.2,2.59
+2012,Africa,Ethiopia,63.3,1.84
+2012,Africa,Kenya,62.1,1.81
+2012,Africa,Tunisia,74.9,1.3
+2012,Africa,Mozambique,54.8,1.19
+2012,Africa,Madagascar,64.3,0.87
+2012,Africa,Algeria,75.1,0.66
+2012,Africa,Chad,51.8,0.62
+2012,Africa,Morocco,73.6,0.55
+2012,Africa,Djibouti,62.2,0.52
+2012,Africa,Senegal,65.6,0.28
+2012,Africa,Egypt,72,0.23
+2012,Africa,Uganda,60,0.01
+2012,Africa,Togo,58.9,0.01
+2012,Africa,Sudan,63.2,0.01
+2012,Africa,Somalia,53.1,0.01
+2012,Africa,Sierra Leone,49.7,0.01
+2012,Africa,Seychelles,72.7,0.01
+2012,Africa,Sao Tome and Principe,66.9,0.01
+2012,Africa,Rwanda,64.6,0.01
+2012,Africa,Niger,63,0.01
+2012,Africa,Namibia,65.8,0.01
+2012,Africa,Mauritius,73.9,0.01
+2012,Africa,Mauritania,62.5,0.01
+2012,Africa,Mali,57.2,0.01
+2012,Africa,Malawi,55.3,0.01
+2012,Africa,Libya,72.9,0.01
+2012,Africa,Liberia,67,0.01
+2012,Africa,Lesotho,52.2,0.01
+2012,Africa,Guinea-Bissau,57.6,0.01
+2012,Africa,Guinea,58.4,0.01
+2012,Africa,Ghana,61.6,0.01
+2012,Africa,Gambia,62,0.01
+2012,Africa,Eritrea,63.6,0.01
+2012,Africa,Congo,63.7,0.01
+2012,Africa,Comoros,62.5,0.01
+2012,Africa,Central African Republic,53,0.01
+2012,Africa,Cameroon,55.9,0.01
+2012,Africa,Cabo Verde,72.7,0.01
+2012,Africa,Burundi,58,0.01
+2012,Africa,Botswana,63.4,0.01
+2012,Africa,Benin,59.3,0.01
+2012,Americas,Saint Lucia,74.7,9.99
+2012,Americas,Bahamas,74.9,9.5
+2012,Americas,United States of America,78.8,8.82
+2012,Americas,Barbados,75.1,8.61
+2012,Americas,Argentina,75.9,8.35
+2012,Americas,Canada,81.6,8.3
+2012,Americas,Antigua and Barbuda,75.9,8.18
+2012,Americas,Grenada,73.1,8.07
+2012,Americas,Guyana,65.8,7.57
+2012,Americas,Brazil,74.5,7.55
+2012,Americas,Panama,77.2,6.95
+2012,Americas,Saint Vincent and the Grenadines,72.8,6.93
+2012,Americas,Chile,79.9,6.76
+2012,Americas,Venezuela (Bolivarian Republic of),73.7,6.7
+2012,Americas,Trinidad and Tobago,78,6.7
+2012,Americas,Belize,69.4,6.66
+2012,Americas,Dominican Republic,72.1,5.93
+2012,Americas,Uruguay,76.5,5.77
+2012,Americas,Suriname,71.3,5.73
+2012,Americas,Haiti,62.3,5.68
+2012,Americas,Paraguay,73.6,5.36
+2012,Americas,Mexico,76.3,5.29
+2012,Americas,Peru,74.9,5.14
+2012,Americas,Colombia,74.3,4.44
+2012,Americas,Cuba,78.7,4.16
+2012,Americas,Ecuador,75.5,3.92
+2012,Americas,Bolivia (Plurinational State of),69.8,3.89
+2012,Americas,Jamaica,75.3,3.65
+2012,Americas,Nicaragua,73.9,3.63
+2012,Americas,Costa Rica,79.2,3.34
+2012,Americas,Honduras,74.1,3.11
+2012,Americas,El Salvador,73,2.48
+2012,Americas,Guatemala,71.3,2.02
+2012,Asia,Cyprus,80,10.55
+2012,Asia,Georgia,74.2,7.71
+2012,Asia,Japan,83.3,7.39
+2012,Asia,Kazakhstan,69.1,6.82
+2012,Asia,Thailand,74.3,6.56
+2012,Asia,China,75.4,5.74
+2012,Asia,Philippines,68.1,5.02
+2012,Asia,Viet Nam,75.6,4.12
+2012,Asia,Armenia,74.4,3.89
+2012,Asia,India,67.3,3.1
+2012,Asia,Sri Lanka,74.5,2.8
+2012,Asia,Israel,81.8,2.78
+2012,Asia,Turkmenistan,65.6,2.75
+2012,Asia,Singapore,82.5,1.89
+2012,Asia,United Arab Emirates,76.5,1.75
+2012,Asia,Bahrain,76.5,1.7
+2012,Asia,Turkey,74.8,1.54
+2012,Asia,Lebanon,75,1.53
+2012,Asia,Qatar,77.8,1.13
+2012,Asia,Myanmar,65.9,0.55
+2012,Asia,Malaysia,74.5,0.53
+2012,Asia,Oman,76,0.51
+2012,Asia,Jordan,73.7,0.41
+2012,Asia,Nepal,68.9,0.26
+2012,Asia,Saudi Arabia,74.1,0.09
+2012,Asia,Indonesia,68.5,0.08
+2012,Asia,Yemen,64.7,0.04
+2012,Asia,Pakistan,65.7,0.04
+2012,Asia,Uzbekistan,68.8,0.01
+2012,Asia,Timor-Leste,67.4,0.01
+2012,Asia,Tajikistan,68.8,0.01
+2012,Asia,Syrian Arab Republic,62.8,0.01
+2012,Asia,Mongolia,67.8,0.01
+2012,Asia,Maldives,77.6,0.01
+2012,Asia,Lao People's Democratic Republic,64.4,0.01
+2012,Asia,Kyrgyzstan,69.9,0.01
+2012,Asia,Kuwait,74.3,0.01
+2012,Asia,Iraq,76,0.01
+2012,Asia,Iran (Islamic Republic of),75.1,0.01
+2012,Asia,Cambodia,67.4,0.01
+2012,Asia,Brunei Darussalam,78.3,0.01
+2012,Asia,Bhutan,68.7,0.01
+2012,Asia,Bangladesh,77,0.01
+2012,Asia,Azerbaijan,71.9,0.01
+2012,Asia,Afghanistan,59.5,0.01
+2012,Europe,Belarus,71.9,16.35
+2012,Europe,Lithuania,73,15.14
+2012,Europe,Czechia,78,12.71
+2012,Europe,Austria,88,12.26
+2012,Europe,Portugal,83,11.96
+2012,Europe,France,81.5,11.5
+2012,Europe,Ireland,85,11.49
+2012,Europe,Croatia,77.1,11.49
+2012,Europe,Luxembourg,81.1,11.34
+2012,Europe,Hungary,75,11.27
+2012,Europe,Germany,86,11.18
+2012,Europe,Russian Federation,69.6,10.99
+2012,Europe,Bulgaria,73.9,10.99
+2012,Europe,Slovenia,82,10.95
+2012,Europe,Poland,76.8,10.81
+2012,Europe,United Kingdom of Great Britain and Northern Ireland,86,10.42
+2012,Europe,Latvia,73.8,10.21
+2012,Europe,Slovakia,75.8,10.12
+2012,Europe,Belgium,83,10.08
+2012,Europe,Switzerland,82.7,9.86
+2012,Europe,Romania,74.4,9.58
+2012,Europe,Serbia,74.9,9.38
+2012,Europe,Spain,82,9.35
+2012,Europe,Denmark,80,9.26
+2012,Europe,Finland,84,9.24
+2012,Europe,Netherlands,81.1,9.05
+2012,Europe,Ukraine,77,8.44
+2012,Europe,Greece,84,8.2
+2012,Europe,Iceland,82.5,7.81
+2012,Europe,Malta,81,7.67
+2012,Europe,Italy,82,7.49
+2012,Europe,Sweden,81.7,7.4
+2012,Europe,Norway,81.3,6.21
+2012,Europe,Albania,76.9,5.14
+2012,Europe,Bosnia and Herzegovina,76.8,4.61
+2012,Europe,Montenegro,75.6,0.01
+2012,Europe,Estonia,76.3,0.01
+2012,Oceania,Australia,82.3,10.03
+2012,Oceania,New Zealand,81.1,9.2
+2012,Oceania,Micronesia (Federated States of),69,2.98
+2012,Oceania,Vanuatu,71.4,0.01
+2012,Oceania,Tonga,73,0.01
+2012,Oceania,Solomon Islands,68.7,0.01
+2012,Oceania,Samoa,73.2,0.01
+2012,Oceania,Papua New Guinea,62.2,0.01
+2012,Oceania,Kiribati,65.7,0.01
+2012,Oceania,Fiji,69.4,0.01
+2013,Africa,Equatorial Guinea,57.4,10.72
+2013,Africa,Gabon,64.6,8.86
+2013,Africa,Nigeria,53.2,8.3
+2013,Africa,Angola,51.1,8.1
+2013,Africa,South Africa,69,7.34
+2013,Africa,Zimbabwe,58,6.39
+2013,Africa,Burkina Faso,59,4.64
+2013,Africa,Côte d'Ivoire,52.3,3.15
+2013,Africa,Zambia,63,2.41
+2013,Africa,Ethiopia,63.7,1.86
+2013,Africa,Kenya,62.6,1.84
+2013,Africa,Tunisia,74.9,1.29
+2013,Africa,Mozambique,55.3,1.16
+2013,Africa,Madagascar,64.7,0.87
+2013,Africa,Chad,52.2,0.64
+2013,Africa,Djibouti,62.7,0.53
+2013,Africa,Algeria,75.3,0.53
+2013,Africa,Morocco,73.9,0.45
+2013,Africa,Senegal,66,0.26
+2013,Africa,Egypt,79,0.21
+2013,Africa,Uganda,67,0.01
+2013,Africa,Togo,59.4,0.01
+2013,Africa,Sudan,63.5,0.01
+2013,Africa,Somalia,54.2,0.01
+2013,Africa,Sierra Leone,54,0.01
+2013,Africa,Seychelles,72.9,0.01
+2013,Africa,Sao Tome and Principe,67.1,0.01
+2013,Africa,Rwanda,65.2,0.01
+2013,Africa,Niger,69,0.01
+2013,Africa,Namibia,66.1,0.01
+2013,Africa,Mauritius,74.1,0.01
+2013,Africa,Mauritania,62.7,0.01
+2013,Africa,Mali,57.3,0.01
+2013,Africa,Malawi,56.7,0.01
+2013,Africa,Libya,72.9,0.01
+2013,Africa,Liberia,61.1,0.01
+2013,Africa,Lesotho,52.1,0.01
+2013,Africa,Guinea-Bissau,58.1,0.01
+2013,Africa,Guinea,58.8,0.01
+2013,Africa,Ghana,61.9,0.01
+2013,Africa,Gambia,66,0.01
+2013,Africa,Eritrea,64,0.01
+2013,Africa,Congo,63.9,0.01
+2013,Africa,Comoros,62.9,0.01
+2013,Africa,Central African Republic,49.9,0.01
+2013,Africa,Cameroon,56.4,0.01
+2013,Africa,Cabo Verde,72.8,0.01
+2013,Africa,Burundi,58.6,0.01
+2013,Africa,Botswana,64.2,0.01
+2013,Africa,Benin,59.5,0.01
+2013,Americas,Saint Lucia,74.8,9.73
+2013,Americas,Bahamas,74.8,9.42
+2013,Americas,United States of America,78.9,8.82
+2013,Americas,Barbados,75.2,8.74
+2013,Americas,Antigua and Barbuda,76.1,8.58
+2013,Americas,Saint Kitts and Nevis,,8.54
+2013,Americas,Argentina,76,8.28
+2013,Americas,Grenada,73.3,8.25
+2013,Americas,Canada,81.8,8.2
+2013,Americas,Guyana,65.9,7.56
+2013,Americas,Brazil,74.7,7.24
+2013,Americas,Chile,81,7.2
+2013,Americas,Saint Vincent and the Grenadines,72.7,7.07
+2013,Americas,Panama,77.5,6.89
+2013,Americas,Venezuela (Bolivarian Republic of),73.8,6.71
+2013,Americas,Trinidad and Tobago,71,6.71
+2013,Americas,Belize,69.8,6.56
+2013,Americas,Suriname,71.2,6.02
+2013,Americas,Dominican Republic,73.4,5.93
+2013,Americas,Uruguay,76.8,5.82
+2013,Americas,Haiti,62.7,5.68
+2013,Americas,Peru,75.3,5.38
+2013,Americas,Mexico,76.6,5.23
+2013,Americas,Paraguay,73.8,5.03
+2013,Americas,Colombia,74.4,4.41
+2013,Americas,Cuba,78.7,4.18
+2013,Americas,Jamaica,75.6,3.79
+2013,Americas,Bolivia (Plurinational State of),71,3.78
+2013,Americas,Ecuador,76,3.77
+2013,Americas,Nicaragua,73.9,3.58
+2013,Americas,Costa Rica,79.4,3.42
+2013,Americas,Honduras,74.3,3.11
+2013,Americas,El Salvador,73,2.42
+2013,Americas,Guatemala,71.4,1.93
+2013,Americas,Dominica,,0.01
+2013,Asia,Cyprus,81,9.04
+2013,Asia,Japan,83.5,7.55
+2013,Asia,Thailand,74.5,6.5
+2013,Asia,Kazakhstan,69.5,6.48
+2013,Asia,Georgia,74.5,5.91
+2013,Asia,China,75.6,5.79
+2013,Asia,Philippines,68.1,4.61
+2013,Asia,Viet Nam,75.7,4
+2013,Asia,Armenia,74.4,3.79
+2013,Asia,India,67.6,3.11
+2013,Asia,Turkmenistan,65.4,2.93
+2013,Asia,Israel,82.1,2.69
+2013,Asia,Sri Lanka,74.6,2.56
+2013,Asia,Azerbaijan,72.2,2.14
+2013,Asia,Singapore,82.7,1.83
+2013,Asia,United Arab Emirates,76.7,1.82
+2013,Asia,Bahrain,76.7,1.65
+2013,Asia,Turkey,75.2,1.41
+2013,Asia,Lebanon,74.9,1.29
+2013,Asia,Qatar,77.9,1.2
+2013,Asia,Myanmar,66.2,0.7
+2013,Asia,Malaysia,74.6,0.53
+2013,Asia,Oman,76.2,0.46
+2013,Asia,Jordan,73.9,0.4
+2013,Asia,Nepal,69.3,0.27
+2013,Asia,Saudi Arabia,74.3,0.09
+2013,Asia,Indonesia,68.7,0.09
+2013,Asia,Yemen,65.4,0.04
+2013,Asia,Pakistan,66,0.04
+2013,Asia,Uzbekistan,69.1,0.01
+2013,Asia,Timor-Leste,67.7,0.01
+2013,Asia,Tajikistan,69.3,0.01
+2013,Asia,Syrian Arab Republic,63.6,0.01
+2013,Asia,Mongolia,68.1,0.01
+2013,Asia,Maldives,77.9,0.01
+2013,Asia,Lao People's Democratic Republic,64.9,0.01
+2013,Asia,Kyrgyzstan,77,0.01
+2013,Asia,Kuwait,74.5,0.01
+2013,Asia,Iraq,69.5,0.01
+2013,Asia,Iran (Islamic Republic of),75.3,0.01
+2013,Asia,Cambodia,67.8,0.01
+2013,Asia,Brunei Darussalam,77.1,0.01
+2013,Asia,Bhutan,69.1,0.01
+2013,Asia,Bangladesh,71,0.01
+2013,Asia,Afghanistan,59.9,0.01
+2013,Europe,Lithuania,73,15.04
+2013,Europe,Belarus,71.7,14.66
+2013,Europe,Czechia,78.2,12.45
+2013,Europe,Croatia,77.7,12.39
+2013,Europe,Bulgaria,74.1,12.06
+2013,Europe,Austria,81.1,11.82
+2013,Europe,Belgium,87,11.77
+2013,Europe,Poland,77.1,11.63
+2013,Europe,France,82,11.1
+2013,Europe,Luxembourg,81.4,11.02
+2013,Europe,Germany,86,10.94
+2013,Europe,Hungary,75.5,10.88
+2013,Europe,Russian Federation,70,10.58
+2013,Europe,Ireland,81,10.49
+2013,Europe,Latvia,74.1,10.37
+2013,Europe,United Kingdom of Great Britain and Northern Ireland,87,10.32
+2013,Europe,Portugal,86,10
+2013,Europe,Slovakia,76.1,9.89
+2013,Europe,Switzerland,83,9.73
+2013,Europe,Romania,74.6,9.59
+2013,Europe,Slovenia,85,9.53
+2013,Europe,Denmark,81,9.5
+2013,Europe,Spain,82.4,9.25
+2013,Europe,Serbia,75.3,9.16
+2013,Europe,Finland,87,8.97
+2013,Europe,Netherlands,81.4,8.68
+2013,Europe,Malta,81.1,8.58
+2013,Europe,Ukraine,71,8.44
+2013,Europe,Greece,86,7.46
+2013,Europe,Italy,82.3,7.35
+2013,Europe,Iceland,82.4,7.31
+2013,Europe,Sweden,81.9,7.3
+2013,Europe,Norway,81.5,6.21
+2013,Europe,Albania,77.2,4.76
+2013,Europe,Bosnia and Herzegovina,77,4.12
+2013,Europe,San Marino,,0.01
+2013,Europe,Montenegro,75.8,0.01
+2013,Europe,Monaco,,0.01
+2013,Europe,Estonia,76.9,0.01
+2013,Oceania,Australia,82.5,9.87
+2013,Oceania,New Zealand,81.3,9.18
+2013,Oceania,Micronesia (Federated States of),69.2,1.67
+2013,Oceania,Vanuatu,71.6,0.01
+2013,Oceania,Tuvalu,,0.01
+2013,Oceania,Tonga,73.2,0.01
+2013,Oceania,Solomon Islands,68.8,0.01
+2013,Oceania,Samoa,73.6,0.01
+2013,Oceania,Papua New Guinea,62.4,0.01
+2013,Oceania,Niue,,0.01
+2013,Oceania,Nauru,,0.01
+2013,Oceania,Marshall Islands,,0.01
+2013,Oceania,Kiribati,65.8,0.01
+2013,Oceania,Fiji,69.6,0.01
+2013,Oceania,Cook Islands,,0.01
+2014,Africa,Angola,51.7,8.33
+2014,Africa,South Africa,62,7.38
+2014,Africa,Zimbabwe,59.2,6.5
+2014,Africa,Tunisia,75.1,1.39
+2014,Africa,Morocco,74.1,0.43
+2014,Africa,Djibouti,63,0.38
+2014,Africa,Senegal,66.4,0.26
+2014,Africa,Egypt,78,0.21
+2014,Africa,Zambia,61.1,0.01
+2014,Africa,Uganda,61.5,0.01
+2014,Africa,Togo,59.7,0.01
+2014,Africa,Sudan,63.8,0.01
+2014,Africa,Somalia,54.3,0.01
+2014,Africa,Sierra Leone,48.1,0.01
+2014,Africa,Seychelles,73,0.01
+2014,Africa,Sao Tome and Principe,67.3,0.01
+2014,Africa,Rwanda,65.7,0.01
+2014,Africa,Nigeria,53.6,0.01
+2014,Africa,Niger,61.4,0.01
+2014,Africa,Namibia,65.9,0.01
+2014,Africa,Mozambique,56.7,0.01
+2014,Africa,Mauritius,74.2,0.01
+2014,Africa,Mauritania,63,0.01
+2014,Africa,Mali,57.8,0.01
+2014,Africa,Malawi,57.6,0.01
+2014,Africa,Madagascar,65.1,0.01
+2014,Africa,Libya,72.4,0.01
+2014,Africa,Liberia,58.1,0.01
+2014,Africa,Lesotho,52.1,0.01
+2014,Africa,Kenya,62.9,0.01
+2014,Africa,Guinea-Bissau,58.4,0.01
+2014,Africa,Guinea,58.1,0.01
+2014,Africa,Ghana,62.1,0.01
+2014,Africa,Gambia,68,0.01
+2014,Africa,Gabon,65.5,0.01
+2014,Africa,Ethiopia,64.2,0.01
+2014,Africa,Eritrea,64.4,0.01
+2014,Africa,Equatorial Guinea,57.9,0.01
+2014,Africa,Côte d'Ivoire,52.8,0.01
+2014,Africa,Congo,64.2,0.01
+2014,Africa,Comoros,63.2,0.01
+2014,Africa,Chad,52.6,0.01
+2014,Africa,Central African Republic,58,0.01
+2014,Africa,Cameroon,56.7,0.01
+2014,Africa,Cabo Verde,73,0.01
+2014,Africa,Burundi,59.1,0.01
+2014,Africa,Burkina Faso,59.3,0.01
+2014,Africa,Botswana,65.1,0.01
+2014,Africa,Benin,59.7,0.01
+2014,Africa,Algeria,75.4,0.01
+2014,Americas,Saint Lucia,75,9.97
+2014,Americas,Bahamas,75.4,9.45
+2014,Americas,United States of America,79.1,8.82
+2014,Americas,Barbados,75.4,8.82
+2014,Americas,Antigua and Barbuda,76.2,8.56
+2014,Americas,Grenada,73.5,8.42
+2014,Americas,Canada,82,8.1
+2014,Americas,Argentina,76.2,7.93
+2014,Americas,Guyana,66,7.64
+2014,Americas,Brazil,74.8,7.32
+2014,Americas,Chile,83,7.16
+2014,Americas,Saint Vincent and the Grenadines,73.1,7.01
+2014,Americas,Trinidad and Tobago,71.1,6.94
+2014,Americas,Panama,77.6,6.74
+2014,Americas,Belize,70,6.58
+2014,Americas,Venezuela (Bolivarian Republic of),73.9,6.47
+2014,Americas,Suriname,71.4,6.32
+2014,Americas,Uruguay,76.8,6.03
+2014,Americas,Dominican Republic,73.6,5.92
+2014,Americas,Mexico,76.6,5.26
+2014,Americas,Colombia,74.6,4.38
+2014,Americas,Cuba,79,4.37
+2014,Americas,Jamaica,75.8,3.83
+2014,Americas,Ecuador,76,3.82
+2014,Americas,Bolivia (Plurinational State of),74,3.62
+2014,Americas,Nicaragua,74.5,3.55
+2014,Americas,Costa Rica,79.5,3.45
+2014,Americas,Honduras,74.5,2.87
+2014,Americas,El Salvador,73.3,2.52
+2014,Americas,Guatemala,71.7,1.88
+2014,Americas,Peru,75.3,0.01
+2014,Americas,Paraguay,73.9,0.01
+2014,Americas,Haiti,63.1,0.01
+2014,Asia,Thailand,74.6,6.41
+2014,Asia,Kazakhstan,69.9,6.29
+2014,Asia,Georgia,74.5,6.13
+2014,Asia,China,75.8,5.78
+2014,Asia,Philippines,68.4,4.52
+2014,Asia,Viet Nam,75.9,4.09
+2014,Asia,Armenia,74.6,3.91
+2014,Asia,India,68,3.07
+2014,Asia,Turkmenistan,66,2.9
+2014,Asia,Israel,82.2,2.62
+2014,Asia,Sri Lanka,74.7,2.37
+2014,Asia,United Arab Emirates,76.9,1.91
+2014,Asia,Singapore,82.9,1.83
+2014,Asia,Bahrain,76.8,1.57
+2014,Asia,Turkey,75.5,1.45
+2014,Asia,Lebanon,74.8,1.32
+2014,Asia,Qatar,78.1,1.15
+2014,Asia,Malaysia,74.8,0.52
+2014,Asia,Jordan,74,0.41
+2014,Asia,Oman,76.4,0.4
+2014,Asia,Saudi Arabia,74.4,0.09
+2014,Asia,Indonesia,68.9,0.09
+2014,Asia,Yemen,65.4,0.01
+2014,Asia,Uzbekistan,69.2,0.01
+2014,Asia,Timor-Leste,68,0.01
+2014,Asia,Tajikistan,69.6,0.01
+2014,Asia,Syrian Arab Republic,64.4,0.01
+2014,Asia,Pakistan,66.2,0.01
+2014,Asia,Nepal,69.6,0.01
+2014,Asia,Myanmar,66.4,0.01
+2014,Asia,Mongolia,68.4,0.01
+2014,Asia,Maldives,78.2,0.01
+2014,Asia,Lao People's Democratic Republic,65.3,0.01
+2014,Asia,Kyrgyzstan,78,0.01
+2014,Asia,Kuwait,74.6,0.01
+2014,Asia,Japan,83.5,0.01
+2014,Asia,Iraq,67.9,0.01
+2014,Asia,Iran (Islamic Republic of),75.4,0.01
+2014,Asia,Cyprus,83,0.01
+2014,Asia,Cambodia,68.3,0.01
+2014,Asia,Brunei Darussalam,77.6,0.01
+2014,Asia,Bhutan,69.4,0.01
+2014,Asia,Bangladesh,71.4,0.01
+2014,Asia,Azerbaijan,72.5,0.01
+2014,Asia,Afghanistan,59.9,0.01
+2014,Europe,Lithuania,73.4,15.19
+2014,Europe,Belarus,72,13.94
+2014,Europe,Czechia,78.6,12.68
+2014,Europe,Belgium,89,12.6
+2014,Europe,Austria,81.4,12.32
+2014,Europe,Croatia,77.8,12.14
+2014,Europe,Bulgaria,74.3,12.03
+2014,Europe,France,82.2,11.5
+2014,Europe,Luxembourg,81.7,11.12
+2014,Europe,Germany,89,11.03
+2014,Europe,Ireland,81.2,10.75
+2014,Europe,Poland,77.3,10.71
+2014,Europe,Slovakia,76.4,10.6
+2014,Europe,Slovenia,87,10.46
+2014,Europe,United Kingdom of Great Britain and Northern Ireland,81,10.37
+2014,Europe,Russian Federation,73,10.12
+2014,Europe,Portugal,89,9.88
+2014,Europe,Denmark,84,9.64
+2014,Europe,Switzerland,83.2,9.61
+2014,Europe,Serbia,75.4,9.09
+2014,Europe,Finland,89,8.8
+2014,Europe,Malta,81.4,8.49
+2014,Europe,Ukraine,78,8.06
+2014,Europe,Italy,82.5,7.56
+2014,Europe,Greece,88,7.53
+2014,Europe,Iceland,82.5,7.45
+2014,Europe,Sweden,82.3,7.3
+2014,Europe,Norway,81.6,6.06
+2014,Europe,Albania,77.5,4.51
+2014,Europe,Bosnia and Herzegovina,77.2,4.03
+2014,Europe,Spain,82.6,0.01
+2014,Europe,Romania,74.8,0.01
+2014,Europe,Netherlands,81.7,0.01
+2014,Europe,Montenegro,75.9,0.01
+2014,Europe,Latvia,74.4,0.01
+2014,Europe,Hungary,75.6,0.01
+2014,Europe,Estonia,77.3,0.01
+2014,Oceania,Australia,82.7,9.71
+2014,Oceania,New Zealand,81.5,9.07
+2014,Oceania,Micronesia (Federated States of),69.4,1.58
+2014,Oceania,Vanuatu,71.7,0.01
+2014,Oceania,Tonga,73.3,0.01
+2014,Oceania,Solomon Islands,68.8,0.01
+2014,Oceania,Samoa,73.8,0.01
+2014,Oceania,Papua New Guinea,62.7,0.01
+2014,Oceania,Kiribati,66.1,0.01
+2014,Oceania,Fiji,69.7,0.01
+2015,Asia,Singapore,83.1,1.79
+2015,Asia,Afghanistan,65,0.01
+2015,Europe,United Kingdom of Great Britain and Northern Ireland,81.2,10.66
+2015,Europe,Norway,81.8,5.97
+2015,Europe,Albania,77.8,4.6
+2015,Oceania,New Zealand,81.6,8.7
+2014,Europe,Estonia,77.3,0.01
+2014,Oceania,Australia,82.7,9.71
+2014,Oceania,New Zealand,81.5,9.07
+2014,Oceania,Micronesia (Federated States of),69.4,1.58
+2014,Oceania,Vanuatu,71.7,0.01
+2014,Oceania,Tonga,73.3,0.01
+2014,Oceania,Solomon Islands,68.8,0.01
+2014,Oceania,Samoa,73.8,0.01
+2014,Oceania,Papua New Guinea,62.7,0.01
+2014,Oceania,Kiribati,66.1,0.01
+2014,Oceania,Fiji,69.7,0.01
+2015,Africa,Zimbabwe,67,
+2015,Africa,Zambia,61.8,
+2015,Africa,Uganda,62.3,
+2015,Africa,Tunisia,75.3,
+2015,Africa,Togo,59.9,
+2015,Africa,Sudan,64.1,
+2015,Africa,South Sudan,57.3,
+2015,Africa,South Africa,62.9,
+2015,Africa,Somalia,55,
+2015,Africa,Sierra Leone,51,
+2015,Africa,Seychelles,73.2,
+2015,Africa,Senegal,66.7,
+2015,Africa,Sao Tome and Principe,67.5,
+2015,Africa,Rwanda,66.1,
+2015,Africa,Nigeria,54.5,
+2015,Africa,Niger,61.8,
+2015,Africa,Namibia,65.8,
+2015,Africa,Mozambique,57.6,
+2015,Africa,Morocco,74.3,
+2015,Africa,Mauritius,74.6,
+2015,Africa,Mauritania,63.1,
+2015,Africa,Mali,58.2,
+2015,Africa,Malawi,58.3,
+2015,Africa,Madagascar,65.5,
+2015,Africa,Libya,72.7,
+2015,Africa,Liberia,61.4,
+2015,Africa,Lesotho,53.7,
+2015,Africa,Kenya,63.4,
+2015,Africa,Guinea-Bissau,58.9,
+2015,Africa,Guinea,59,
+2015,Africa,Ghana,62.4,
+2015,Africa,Gambia,61.1,
+2015,Africa,Gabon,66,
+2015,Africa,Ethiopia,64.8,
+2015,Africa,Eritrea,64.7,
+2015,Africa,Equatorial Guinea,58.2,
+2015,Africa,Egypt,79,
+2015,Africa,Djibouti,63.5,
+2015,Africa,Côte d'Ivoire,53.3,
+2015,Africa,Congo,64.7,
+2015,Africa,Comoros,63.5,
+2015,Africa,Chad,53.1,
+2015,Africa,Central African Republic,52.5,
+2015,Africa,Cameroon,57.3,
+2015,Africa,Cabo Verde,73.3,
+2015,Africa,Burundi,59.6,
+2015,Africa,Burkina Faso,59.9,
+2015,Africa,Botswana,65.7,
+2015,Africa,Benin,60,
+2015,Africa,Angola,52.4,
+2015,Africa,Algeria,75.6,
+2015,Americas,Venezuela (Bolivarian Republic of),74.1,
+2015,Americas,Uruguay,77,
+2015,Americas,United States of America,79.3,
+2015,Americas,Trinidad and Tobago,71.2,
+2015,Americas,Suriname,71.6,
+2015,Americas,Saint Vincent and the Grenadines,73.2,
+2015,Americas,Saint Lucia,75.2,
+2015,Americas,Peru,75.5,
+2015,Americas,Paraguay,74,
+2015,Americas,Panama,77.8,
+2015,Americas,Nicaragua,74.8,
+2015,Americas,Mexico,76.7,
+2015,Americas,Jamaica,76.2,
+2015,Americas,Honduras,74.6,
+2015,Americas,Haiti,63.5,
+2015,Americas,Guyana,66.2,
+2015,Americas,Guatemala,71.9,
+2015,Americas,Grenada,73.6,
+2015,Americas,El Salvador,73.5,
+2015,Americas,Ecuador,76.2,
+2015,Americas,Dominican Republic,73.9,
+2015,Americas,Cuba,79.1,
+2015,Americas,Costa Rica,79.6,
+2015,Americas,Colombia,74.8,
+2015,Americas,Chile,85,
+2015,Americas,Canada,82.2,
+2015,Americas,Brazil,75,
+2015,Americas,Bolivia (Plurinational State of),77,
+2015,Americas,Belize,71,
+2015,Americas,Barbados,75.5,
+2015,Americas,Bahamas,76.1,
+2015,Americas,Argentina,76.3,
+2015,Americas,Antigua and Barbuda,76.4,
+2015,Asia,Singapore,83.1,1.79
+2015,Asia,Afghanistan,65,0.01
+2015,Asia,Yemen,65.7,
+2015,Asia,Viet Nam,76,
+2015,Asia,Uzbekistan,69.4,
+2015,Asia,United Arab Emirates,77.1,
+2015,Asia,Turkmenistan,66.3,
+2015,Asia,Turkey,75.8,
+2015,Asia,Timor-Leste,68.3,
+2015,Asia,Thailand,74.9,
+2015,Asia,Tajikistan,69.7,
+2015,Asia,Syrian Arab Republic,64.5,
+2015,Asia,Sri Lanka,74.9,
+2015,Asia,Saudi Arabia,74.5,
+2015,Asia,Qatar,78.2,
+2015,Asia,Philippines,68.5,
+2015,Asia,Pakistan,66.4,
+2015,Asia,Oman,76.6,
+2015,Asia,Nepal,69.2,
+2015,Asia,Myanmar,66.6,
+2015,Asia,Mongolia,68.8,
+2015,Asia,Maldives,78.5,
+2015,Asia,Malaysia,75,
+2015,Asia,Lebanon,74.9,
+2015,Asia,Lao People's Democratic Republic,65.7,
+2015,Asia,Kyrgyzstan,71.1,
+2015,Asia,Kuwait,74.7,
+2015,Asia,Kazakhstan,72,
+2015,Asia,Jordan,74.1,
+2015,Asia,Japan,83.7,
+2015,Asia,Israel,82.5,
+2015,Asia,Iraq,68.9,
+2015,Asia,Iran (Islamic Republic of),75.5,
+2015,Asia,Indonesia,69.1,
+2015,Asia,India,68.3,
+2015,Asia,Georgia,74.4,
+2015,Asia,Cyprus,85,
+2015,Asia,China,76.1,
+2015,Asia,Cambodia,68.7,
+2015,Asia,Brunei Darussalam,77.7,
+2015,Asia,Bhutan,69.8,
+2015,Asia,Bangladesh,71.8,
+2015,Asia,Bahrain,76.9,
+2015,Asia,Azerbaijan,72.7,
+2015,Asia,Armenia,74.8,
+2015,Europe,United Kingdom of Great Britain and Northern Ireland,81.2,10.66
+2015,Europe,Norway,81.8,5.97
+2015,Europe,Albania,77.8,4.6
+2015,Europe,Ukraine,71.3,
+2015,Europe,Switzerland,83.4,
+2015,Europe,Sweden,82.4,
+2015,Europe,Spain,82.8,
+2015,Europe,Slovenia,88,
+2015,Europe,Slovakia,76.7,
+2015,Europe,Serbia,75.6,
+2015,Europe,Russian Federation,75,
+2015,Europe,Romania,75,
+2015,Europe,Portugal,81.1,
+2015,Europe,Poland,77.5,
+2015,Europe,Netherlands,81.9,
+2015,Europe,Montenegro,76.1,
+2015,Europe,Malta,81.7,
+2015,Europe,Luxembourg,82,
+2015,Europe,Lithuania,73.6,
+2015,Europe,Latvia,74.6,
+2015,Europe,Italy,82.7,
+2015,Europe,Ireland,81.4,
+2015,Europe,Iceland,82.7,
+2015,Europe,Hungary,75.8,
+2015,Europe,Greece,81,
+2015,Europe,Germany,81,
+2015,Europe,France,82.4,
+2015,Europe,Finland,81.1,
+2015,Europe,Estonia,77.6,
+2015,Europe,Denmark,86,
+2015,Europe,Czechia,78.8,
+2015,Europe,Croatia,78,
+2015,Europe,Bulgaria,74.5,
+2015,Europe,Bosnia and Herzegovina,77.4,
+2015,Europe,Belgium,81.1,
+2015,Europe,Belarus,72.3,
+2015,Europe,Austria,81.5,
+2015,Oceania,New Zealand,81.6,8.7
+2015,Oceania,Vanuatu,72,
+2015,Oceania,Tonga,73.5,
+2015,Oceania,Solomon Islands,69.2,
+2015,Oceania,Samoa,74,
+2015,Oceania,Papua New Guinea,62.9,
+2015,Oceania,Micronesia (Federated States of),69.4,
+2015,Oceania,Kiribati,66.3,
+2015,Oceania,Fiji,69.9,
+2015,Oceania,Australia,82.8,
+2015,Nepal,69.2,,
+2015,Namibia,65.8,,
+2015,Myanmar,66.6,,
+2015,Mozambique,57.6,,
+2015,Morocco,74.3,,
+2015,Montenegro,76.1,,
+2015,Mongolia,68.8,,
+2015,Micronesia (Federated States of),69.4,,
+2015,Mexico,76.7,,
+2015,Mauritius,74.6,,
+2015,Mauritania,63.1,,
+2015,Malta,81.7,,
+2015,Mali,58.2,,
+2015,Maldives,78.5,,
+2015,Malaysia,75,,
+2015,Malawi,58.3,,
+2015,Madagascar,65.5,,
+2015,Luxembourg,82,,
+2015,Lithuania,73.6,,
+2015,Libya,72.7,,
+2015,Liberia,61.4,,
+2015,Lesotho,53.7,,
+2015,Lebanon,74.9,,
+2015,Latvia,74.6,,
+2015,Lao People's Democratic Republic,65.7,,
+2015,Kyrgyzstan,71.1,,
+2015,Kuwait,74.7,,
+2015,Kiribati,66.3,,
+2015,Kenya,63.4,,
+2015,Kazakhstan,72,,
+2015,Jordan,74.1,,
+2015,Japan,83.7,,
+2015,Jamaica,76.2,,
+2015,Italy,82.7,,
+2015,Israel,82.5,,
+2015,Ireland,81.4,,
+2015,Iraq,68.9,,
+2015,Iran (Islamic Republic of),75.5,,
+2015,Indonesia,69.1,,
+2015,India,68.3,,
+2015,Iceland,82.7,,
+2015,Hungary,75.8,,
+2015,Honduras,74.6,,
+2015,Haiti,63.5,,
+2015,Guyana,66.2,,
+2015,Guinea-Bissau,58.9,,
+2015,Guinea,59,,
+2015,Guatemala,71.9,,
+2015,Grenada,73.6,,
+2015,Greece,81,,
+2015,Ghana,62.4,,
+2015,Germany,81,,
+2015,Georgia,74.4,,
+2015,Gambia,61.1,,
+2015,Gabon,66,,
+2015,France,82.4,,
+2015,Finland,81.1,,
+2015,Fiji,69.9,,
+2015,Ethiopia,64.8,,
+2015,Estonia,77.6,,
+2015,Eritrea,64.7,,
+2015,Equatorial Guinea,58.2,,
+2015,El Salvador,73.5,,
+2015,Egypt,79,,
+2015,Ecuador,76.2,,
+2015,Dominican Republic,73.9,,
+2015,Djibouti,63.5,,
+2015,Denmark,86,,
+2015,Democratic Republic of the Congo,59.8,,
+2015,Democratic People's Republic of Korea,76,,
+2015,Czechia,78.8,,
+2015,Cyprus,85,,
+2015,Cuba,79.1,,
+2015,Croatia,78,,
+2015,Côte d'Ivoire,53.3,,
+2015,Costa Rica,79.6,,
+2015,Congo,64.7,,
+2015,Comoros,63.5,,
+2015,Colombia,74.8,,
+2015,China,76.1,,
+2015,Chile,85,,
+2015,Chad,53.1,,
+2015,Central African Republic,52.5,,
+2015,Canada,82.2,,
+2015,Cameroon,57.3,,
+2015,Cambodia,68.7,,
+2015,Cabo Verde,73.3,,
+2015,Burundi,59.6,,
+2015,Burkina Faso,59.9,,
+2015,Bulgaria,74.5,,
+2015,Brunei Darussalam,77.7,,
+2015,Brazil,75,,
+2015,Botswana,65.7,,
+2015,Bosnia and Herzegovina,77.4,,
+2015,Bolivia (Plurinational State of),77,,
+2015,Bhutan,69.8,,
+2015,Benin,60,,
+2015,Belize,71,,
+2015,Belgium,81.1,,
+2015,Belarus,72.3,,
+2015,Barbados,75.5,,
+2015,Bangladesh,71.8,,
+2015,Bahrain,76.9,,
+2015,Bahamas,76.1,,
+2015,Azerbaijan,72.7,,
+2015,Austria,81.5,,
+2015,Australia,82.8,,
+2015,Armenia,74.8,,
+2015,Argentina,76.3,,
+2015,Antigua and Barbuda,76.4,,
+2015,Angola,52.4,,
+2015,Algeria,75.6,,
