@@ -1,0 +1,96 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "description": "A population pyramid for the US in 2000.",
+    "data": {
+      "url": "https://raw.githubusercontent.com/adrielkosasih/FIT3179/main/Assignment_2/data/status_exp.csv",
+      "format": {
+        "type": "csv",
+        "parse": {
+          "year": "number",
+          "life_exp": "number"
+        }
+      }
+    },
+    "spacing": 0,
+    "hconcat": [{
+      "transform": [{
+        "filter": {"field": "status", "equal": "Developed"}
+      }],
+      "title": "Developed",
+      "mark": "bar",
+      "encoding": {
+        "y": {
+          "field": "year", "axis": null, "sort": "descending"
+        },
+        "x": {
+          "aggregate": "sum", "field": "life_exp",
+          "title": "Life Expectancy",
+          "axis": {"format": "s"},
+          "sort": "descending"
+        },
+        "color": {
+          "field": "status",
+          "scale": {"range": ["#675193", "#ca8861"]},
+          "legend": null
+        },
+         "tooltip": [
+        {"field": "status", "type": "nominal","title":"Status"},
+        {"field": "year", "type": "ordinal","title":"Year"},
+        {
+          "field": "life_exp",
+          "type": "quantitative",
+          "title": "Life Expectancy",
+          "format":".2f"
+        }
+      ]
+        
+      }
+    }, {
+      "width": 20,
+      "view": {"stroke": null},
+      "mark": {
+        "type": "text",
+        "align": "center"
+      },
+      "encoding": {
+        "y": {"field": "year", "type": "ordinal", "axis": null, "sort": "descending"},
+        "text": {"field": "year", "type": "quantitative"}
+      }
+    }, {
+      "transform": [{
+        "filter": {"field": "status", "equal": "Developing"}
+      }],
+      "title": "Developing",
+      "mark": "bar",
+      "encoding": {
+        "y": {
+          "field": "year", "title": null,
+          "axis": null, "sort": "descending"
+        },
+        "x": {
+          "aggregate": "sum", "field": "life_exp",
+          "title": "Life Expectancy",
+          "axis": {"format": "s"}
+        },
+        "color": {
+          "field": "status",
+          "legend": null
+        },
+        "tooltip": [
+        {"field": "status", "type": "nominal","title":"Status"},
+        {"field": "year", "type": "ordinal","title":"Year"},
+        {
+          "field": "life_exp",
+          "type": "quantitative",
+          "title": "Life Expectancy",
+          "format":".2f"
+        }
+      ]
+      }
+    }],
+    "config": {
+      "view": {"stroke": null},
+      "axis": {"grid": false}
+    }
+   
+  }
