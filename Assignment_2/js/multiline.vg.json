@@ -47,7 +47,7 @@
         "axis": {"titleFontSize": 10}
       },
       "color": {
-        "condition": {"selection": "hover", "field": "region", "type": "nominal","title":null},
+        "condition": {"selection": "hover", "field": "region", "type": "nominal", "title":null},
         "value": "grey"
       },
       "opacity": {"condition": {"selection": "hover", "value": 1}, "value": 0.075},
