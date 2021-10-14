@@ -1,0 +1,44 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": "Average Life Expectancy",
+  "width": 800,
+  "height": 600,
+  "data": {
+    "url": "https://raw.githubusercontent.com/adrielkosasih/FIT3179/main/Week_9/js/ne_110m_admin_0_countries.topojson",
+    "format": {
+          "type": "topojson",
+          "feature": "ne_110m_admin_0_countries"
+        }
+  },
+  "transform": [{
+      "lookup": "properties.NAME",
+      "from": {
+        "data": {
+          "url": "https://raw.githubusercontent.com/adrielkosasih/FIT3179/main/Week_9/data/Map%20Data%202.csv"
+        },
+        "key": "Country",
+        "fields": ["avg_life_expectancy"]
+      }
+    },
+    {"calculate": "datum.avg_life_expectancy + 40", "as": "Avg Life Expectancy"}
+  ],
+  "projection": {
+    "type": "equirectangular"
+  },
+  "mark": {
+    "type": "geoshape"
+    },
+  "encoding": {
+    "color": {
+      "field": "Avg Life Expectancy",
+      "type": "quantitative",
+      "scale": {"type": "log"}
+    },
+    "tooltip": [
+      {"field": "properties.NAME", "type": "nominal", "title": "Country"},
+      {"field": "avg_life_expectancy", "type": "quantitative", "title" :"Avg Life Expectancy"}
+    ]
+  }
+
+}
+  
