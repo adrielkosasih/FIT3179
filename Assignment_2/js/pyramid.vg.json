@@ -1,100 +1,162 @@
 {
-    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "background":"#90a0a6",
-    "width":"container",
-    "height":350,
-    "description": "A population pyramid for the US in 2000.",
-    "data": {
-      "url": "https://raw.githubusercontent.com/adrielkosasih/FIT3179/main/Assignment_2/data/status_exp.csv",
-      "format": {
-        "type": "csv",
-        "parse": {
-          "year": "number",
-          "life_exp": "number"
-        }
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "background": "#90a0a6",
+  "width": "container",
+  "height": 350,
+  "description": "A population pyramid for the US in 2000.",
+  "data": {
+    "url": "https://raw.githubusercontent.com/adrielkosasih/FIT3179/main/Assignment_2/data/status_exp.csv",
+    "format": {
+      "type": "csv",
+      "parse": {
+        "year": "number",
+        "life_exp": "number"
       }
-    },
-    "spacing": 0,
-    "hconcat": [{
-      "transform": [{
-        "filter": {"field": "status", "equal": "Developed"}
-      }],
+    }
+  },
+  "spacing": 0,
+  "hconcat": [
+    {
+      "transform": [
+        {
+          "filter": {
+            "field": "status",
+            "equal": "Developed"
+          }
+        }
+      ],
       "title": "Developed",
       "mark": "bar",
       "encoding": {
         "y": {
-          "field": "year", "axis": null, "sort": "descending"
+          "field": "year",
+          "axis": null,
+          "sort": "descending"
         },
         "x": {
-          "aggregate": "sum", "field": "life_exp",
+          "aggregate": "sum",
+          "field": "life_exp",
           "title": "Life Expectancy",
-          "axis": {"format": "s"},
+          "axis": {
+            "format": "s"
+          },
           "sort": "descending"
         },
         "color": {
           "field": "status",
-          "scale": {"range": ["blue", "red"]},
+          "scale": {
+            "range": [
+              "blue",
+              "red"
+            ]
+          },
           "legend": null
         },
-         "tooltip": [
-        {"field": "status", "type": "nominal","title":"Status"},
-        {"field": "year", "type": "ordinal","title":"Year"},
-        {
-          "field": "life_exp",
-          "type": "quantitative",
-          "title": "Life Expectancy",
-          "format":".2f"
-        }
-      ]
-        
+        "tooltip": [
+          {
+            "field": "status",
+            "type": "nominal",
+            "title": "Status"
+          },
+          {
+            "field": "year",
+            "type": "ordinal",
+            "title": "Year"
+          },
+          {
+            "field": "life_exp",
+            "type": "quantitative",
+            "title": "Life Expectancy",
+            "format": ".2f"
+          }
+        ]
       }
-    }, {
+    },
+    {
       "width": 50,
-      "view": {"stroke": null},
+      "view": {
+        "stroke": null
+      },
       "mark": {
         "type": "text",
         "align": "center"
       },
       "encoding": {
-        "y": {"field": "year", "type": "ordinal", "axis": null, "sort": "descending"},
-        "text": {"field": "year", "type": "quantitative"}
+        "y": {
+          "field": "year",
+          "type": "ordinal",
+          "axis": null,
+          "sort": "descending"
+        },
+        "text": {
+          "field": "year",
+          "type": "quantitative"
+        }
       }
-    }, {
-      "transform": [{
-        "filter": {"field": "status", "equal": "Developing"}
-      }],
+    },
+    {
+      "transform": [
+        {
+          "filter": {
+            "field": "status",
+            "equal": "Developing"
+          }
+        }
+      ],
       "title": "Developing",
       "mark": "bar",
       "encoding": {
         "y": {
-          "field": "year", "title": null,
-          "axis": null, "sort": "descending"
+          "field": "year",
+          "title": null,
+          "axis": null,
+          "sort": "descending"
         },
         "x": {
-          "aggregate": "sum", "field": "life_exp",
+          "aggregate": "sum",
+          "field": "life_exp",
           "title": "Life Expectancy",
-          "axis": {"format": "s"},
-          "scale": {"domain": [0, 90]}
+          "axis": {
+            "format": "s"
+          },
+          "scale": {
+            "domain": [
+              0,
+              90
+            ]
+          }
         },
         "color": {
           "field": "status",
           "legend": null
         },
         "tooltip": [
-        {"field": "status", "type": "nominal","title":"Status"},
-        {"field": "year", "type": "ordinal","title":"Year"},
-        {
-          "field": "life_exp",
-          "type": "quantitative",
-          "title": "Life Expectancy",
-          "format":".2f"
-        }
-      ]
+          {
+            "field": "status",
+            "type": "nominal",
+            "title": "Status"
+          },
+          {
+            "field": "year",
+            "type": "ordinal",
+            "title": "Year"
+          },
+          {
+            "field": "life_exp",
+            "type": "quantitative",
+            "title": "Life Expectancy",
+            "format": ".2f"
+          }
+        ]
       }
-    }],
-    "config": {
-      "view": {"stroke": null},
-      "axis": {"grid": false}
     }
-   
+  ],
+  "config": {
+    "view": {
+      "stroke": null
+    },
+    "axis": {
+      "grid": false
+    }
   }
+}
