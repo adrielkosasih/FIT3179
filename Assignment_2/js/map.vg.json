@@ -27,7 +27,7 @@
           }
         },
         {
-          "calculate": "datum.avg_life_expectancy + 50",
+          "calculate": "datum.avg_life_expectancy + 40",
           "as": "Avg Life Expectancy"
         }
       ],
