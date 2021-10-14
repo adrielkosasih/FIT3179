@@ -1,8 +1,9 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "background": "#90a0a6",
   "title": "Average Life Expectancy",
-  "width": "container",
-  "height": 600,
+  "width": 500,
+  "height": 350,
   "layer": [
     {
       "data": {
@@ -53,7 +54,8 @@
           {
             "field": "avg_life_expectancy",
             "type": "quantitative",
-            "title": "Avg Life Expectancy"
+            "title": "Avg Life Expectancy",
+            "format": ".2f"
           }
         ]
       }
