@@ -2,7 +2,7 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "background": "#90a0a6",
   "title": "Average Life Expectancy",
-  "width": 500,
+  "width": "container",
   "height": 350,
   "layer": [
     {
