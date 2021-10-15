@@ -1,178 +1,254 @@
 {
-    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "description": "An interactive scatter plot of Life Expectancy by country and year.",
-    "data": {
-      "url": "https://raw.githubusercontent.com/adrielkosasih/FIT3179/main/Assignment_2/data/Expectancy_Scatter_2.csv",
-      "format": {
-        "type": "csv",
-        "parse": {
-          "year": "number",
-          "Life_exp": "number",
-          "Alcohol": "number"
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "An interactive scatter plot of global health statistics by country and year.",
+  "data": {
+    "url": "https://raw.githubusercontent.com/adrielkosasih/FIT3179/main/Assignment_2/data/Expectancy_Scatter.csv",
+    "format": {
+      "type": "csv",
+      "parse": {
+        "year": "number",
+        "Life_exp": "number",
+        "Alcohol": "number",
+        "bmi": "number",
+        "Hiv": "number",
+        "polio": "number",
+        "fertility": "number"
+      }
+    }
+  },
+  "width": 800,
+  "height": 500,
+  "layer": [
+    {
+      "transform": [
+        {
+          "filter": {
+            "field": "country",
+            "equal": "New Zealand"
+          }
+        },
+        {
+          "filter": {
+            "param": "year"
+          }
+        }
+      ],
+      "mark": {
+        "type": "text",
+        "fontSize": 100,
+        "x": 400,
+        "y": 250,
+        "opacity": 0.06
+      },
+      "encoding": {
+        "text": {
+          "field": "year"
         }
       }
     },
-    "width": "container",
-    "height": 350,
-    "layer": [
-      {
-        "transform": [
-          {
-            "filter": {
-              "field": "country",
-              "equal": "New Zealand"
-            }
-          },
-          {
-            "filter": {
-              "param": "year"
-            }
+    {
+      "encoding": {
+        "x": {
+          "field": "Alcohol",
+          "type": "quantitative",
+          "scale": {"domain": [0, 18]},
+          "axis": {
+            "tickCount": 5,
+            "title": "Alcohol"
           }
-        ],
-        "mark": {
-          "type": "text",
-          "fontSize": 100,
-          "x": 400,
-          "y": 250,
-          "opacity": 0.06
         },
-        "encoding": {
-          "text": {
-            "field": "year"
+        "y": {
+          "field": "Life_exp",
+          "type": "quantitative",
+          "scale": {
+            "domain": [
+              20,
+              90
+            ]
+          },
+          "axis": {
+            "tickCount": 5,
+            "title": "Life Expectancy"
           }
         }
       },
-      {
-        "encoding": {
-          "x": {
-            "field": "Alcohol",
-            "type": "quantitative",
-            "scale": {"domain": [0, 18]},
-            "axis": {
-              "tickCount": 5,
-              "title": "Alcohol"
-            }
+      "layer": [
+        {
+          "mark": {
+            "type": "line",
+            "size": 4,
+            "color": "lightgray",
+            "strokeCap": "round"
           },
-          "y": {
-            "field": "Life_exp",
-            "type": "quantitative",
-            "scale": {
-              "domain": [
-                30,
-                90
-              ]
+          "encoding": {
+            "detail": {
+              "field": "country"
             },
-            "axis": {
-              "tickCount": 5,
-              "title": "Life Expectancy"
+            "order": {
+              "field": "year"
+            },
+            "opacity": {
+              "condition": {
+                "test": {
+                  "or": [
+                    {
+                      "param": "hovered",
+                      "empty": false
+                    },
+                    {
+                      "param": "clicked",
+                      "empty": false
+                    }
+                  ]
+                },
+                "value": 0.8
+              },
+              "value": 0
             }
           }
         },
-        "layer": [
-          {
-            "params": [
-              {
-                "name": "year",
-                "value": [
-                  {
-                    "year": 2000
-                  }
-                ],
-                "select": {
-                  "type": "point",
-                  "fields": [
-                    "year"
-                  ]
-                },
-                "bind": {
-                  "name": "year",
-                  "input": "range",
-                  "min": 2000,
-                  "max": 2015,
-                  "step": 3
+        {
+          "params": [
+            {
+              "name": "year",
+              "value": [
+                {
+                  "year": 2000
                 }
+              ],
+              "select": {
+                "type": "point",
+                "fields": [
+                  "year"
+                ]
               },
-              {
-                "name": "hovered",
-                "select": {
-                  "type": "point",
-                  "fields": [
-                    "country"
-                  ],
-                  "toggle": false,
-                  "on": "mouseover"
-                }
-              },
-              {
-                "name": "clicked",
-                "select": {
-                  "type": "point",
-                  "fields": [
-                    "country"
-                  ]
-                }
+              "bind": {
+                "name": "Year",
+                "input": "range",
+                "min": 2000,
+                "max": 2015,
+                "step": 3
               }
-            ],
-            "transform": [
-              {
-                "filter": {
+            },
+            {
+              "name": "hovered",
+              "select": {
+                "type": "point",
+                "fields": [
+                  "country"
+                ],
+                "toggle": false,
+                "on": "mouseover"
+              }
+            },
+            {
+              "name": "clicked",
+              "select": {
+                "type": "point",
+                "fields": [
+                  "country"
+                ]
+              }
+            }
+          ],
+          "transform": [
+            {
+              "filter": {
+                "param": "year"
+              }
+            }
+          ],
+          "mark": {
+            "type": "circle",
+            "size": 90,
+            "opacity": 1
+          },
+          "encoding": {
+            "color": {
+              "field": "region",
+              "title": "Region"
+            }
+          }
+        },
+        {
+          "transform": [
+            {
+              "filter": {
+                "and": [
+                  {
+                    "param": "year"
+                  },
+                  {
+                    "or": [
+                      {
+                        "param": "clicked",
+                        "empty": false
+                      },
+                      {
+                        "param": "hovered",
+                        "empty": false
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          ],
+          "mark": {
+            "type": "text",
+            "yOffset": -12,
+            "fontSize": 12,
+            "fontWeight": "bold"
+          },
+          "encoding": {
+            "text": {
+              "field": "country"
+            },
+            "color": {
+              "field": "region",
+              "title": "Region"
+            }
+          }
+        },
+        {
+          "transform": [
+            {
+              "filter": {
+                "param": "hovered",
+                "empty": false
+              }
+            },
+            {
+              "filter": {
+                "not": {
                   "param": "year"
                 }
               }
-            ],
-            "mark": {
-              "type": "circle",
-              "size": 90,
-              "opacity": 1
-            },
-            "encoding": {
-              "color": {
-                "field": "region",
-                "title": "Region"
-              }
             }
-          },
-          {
-            "transform": [
-              {
-                "filter": {
-                  "and": [
-                    {
-                      "param": "year"
-                    },
-                    {
-                      "or": [
-                        {
-                          "param": "clicked",
-                          "empty": false
-                        },
-                        {
-                          "param": "hovered",
-                          "empty": false
-                        }
-                      ]
-                    }
-                  ]
+          ],
+          "layer": [
+            {
+              "mark": {
+                "type": "text",
+                "yOffset": -5,
+                "fontSize": 5,
+                "color": "gray"
+              },
+              "encoding": {
+                "text": {
+                  "field": "year"
                 }
               }
-            ],
-            "mark": {
-              "type": "text",
-              "yOffset": -12,
-              "fontSize": 12,
-              "fontWeight": "bold"
             },
-            "encoding": {
-              "text": {
-                "field": "country"
-              },
-              "color": {
-                "field": "region",
-                "title": "Region"
+            {
+              "mark": {
+                "type": "circle",
+                "color": "gray"
               }
             }
-          }
-        ]
-      }
-    ]
-  }
+          ]
+        }
+      ]
+    }
+  ]
+}
