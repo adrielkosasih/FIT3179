@@ -12,8 +12,8 @@
         }
       }
     },
-    "width": 800,
-    "height": 500,
+    "width": "container",
+    "height": 350,
     "layer": [
       {
         "transform": [
