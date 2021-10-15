@@ -141,7 +141,7 @@
       </div>
     </div>
     <div class="pure-u-1-2">
-      <div id="vis5"  class="vis-container" style="padding-top: 50px;"></div>
+      <div id="vis4"  class="vis-container" style="padding-top: 50px;"></div>
     </div>
   
   </div>
@@ -153,7 +153,7 @@
   var specVis1  = "js/multiline.vg.json";
   var specVis2  = "js/pyramid.vg.json";
   var specVis3  = "js/map.vg.json";
-  var specVis5  = "js/scatter_try.vg.json";
+  var specVis4  = "js/scatter_try.vg.json";
 
   vegaEmbed('#vis1', specVis1, {"actions": false}).then(function(result) {
     // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
@@ -167,7 +167,7 @@
     // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
   }).catch(console.error);
 
-  vegaEmbed('#vis5', specVis5, {"actions": false}).then(function(result) {
+  vegaEmbed('#vis4', spec2).then(function(result) {
     // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
   }).catch(console.error);
 
