@@ -123,7 +123,7 @@
                 ]
               },
               "bind": {
-                "name": "year",
+                "name": "Year",
                 "input": "range",
                 "min": 2000,
                 "max": 2015,
