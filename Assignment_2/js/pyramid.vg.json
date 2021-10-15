@@ -1,6 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "background": "#90a0a6",
+  "background": "#d6dee3",
   "width": "container",
   "height": 350,
   "description": "A population pyramid for the US in 2000.",
