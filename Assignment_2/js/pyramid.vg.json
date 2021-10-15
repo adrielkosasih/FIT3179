@@ -46,8 +46,8 @@
           "field": "status",
           "scale": {
             "range": [
-              "blue",
-              "red"
+              "#1b9e77",
+              "#7570b3"
             ]
           },
           "legend": null
