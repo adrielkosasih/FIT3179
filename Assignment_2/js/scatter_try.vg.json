@@ -233,11 +233,6 @@
                 "yOffset": -5,
                 "fontSize": 5,
                 "color": "gray"
-              },
-              "encoding": {
-                "text": {
-                  "field": "year"
-                }
               }
             },
             {
