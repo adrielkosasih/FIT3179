@@ -1,5 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "background": "#bdedff",
   "description": "An interactive scatter plot of global health statistics by country and year.",
   "data": {
     "url": "https://raw.githubusercontent.com/adrielkosasih/FIT3179/main/Assignment_2/data/Expectancy_Scatter.csv",
