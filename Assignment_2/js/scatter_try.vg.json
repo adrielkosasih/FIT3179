@@ -16,7 +16,7 @@
       }
     }
   },
-  "width": 800,
+  "width": "container",
   "height": 500,
   "layer": [
     {
