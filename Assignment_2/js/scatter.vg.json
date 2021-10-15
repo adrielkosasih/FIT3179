@@ -51,6 +51,7 @@
         "x": {
           "field": "Alcohol",
           "type": "quantitative",
+          "scale": {"domain": [0, 18]},
           "axis": {
             "tickCount": 5,
             "title": "Alcohol"
