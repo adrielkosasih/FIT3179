@@ -17,7 +17,7 @@
     }
   },
   "width": "container",
-  "height": 500,
+  "height": 350,
   "layer": [
     {
       "transform": [
@@ -196,8 +196,8 @@
           ],
           "mark": {
             "type": "text",
-            "yOffset": -12,
-            "fontSize": 12,
+            "yOffset": -7,
+            "fontSize": 7,
             "fontWeight": "bold"
           },
           "encoding": {
