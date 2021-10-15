@@ -1,0 +1,691 @@
+year,region,country,Life_exp,BMI,Alcohol,HIV,Polio,Fertility
+2000,Africa,Uganda,46.6,13,10.47,11.6,55,6.865
+2000,Africa,Nigeria,47.1,16.9,9.23,4.9,31,6.106
+2000,Africa,Gabon,61,28.1,8.87,9.5,44,4.539
+2000,Africa,Seychelles,71.8,27.1,8.24,0.1,98,2.08
+2000,Africa,South Africa,57.3,4.1,7.3,21.3,71,2.829
+2000,Africa,Rwanda,48.3,13.2,7.13,8.5,9,5.64
+2000,Africa,Burundi,58,12.8,6.61,5.2,71,7.008
+2000,Africa,Namibia,57.4,24.5,5.73,22.8,8,4.018
+2000,Africa,Botswana,47.8,29.9,5.37,38.8,97,3.387
+2000,Africa,Sao Tome and Principe,62.6,2.7,5.07,1.5,87,5.278
+2000,Americas,Bahamas,72.6,54.4,12.15,0.1,91,
+2000,Americas,Saint Lucia,71.6,36.8,11.69,0.4,7,
+2000,Americas,Grenada,74,37.7,9.4,0.1,97,2.582
+2000,Americas,United States of America,76.8,6.1,8.21,0.1,9,
+2000,Americas,Venezuela (Bolivarian Republic of),72.5,53.4,8.01,0.1,86,
+2000,Americas,Argentina,74.1,54,7.68,0.1,88,2.561
+2000,Americas,Canada,79.1,57.8,7.6,0.1,88,1.49
+2000,Americas,Barbados,73.3,43,7.43,0.9,86,1.744
+2000,Americas,Antigua and Barbuda,73.6,38.2,7.27,0.1,96,2.316
+2000,Americas,Brazil,75,43.7,7.26,0.1,99,2.3
+2000,Asia,Cyprus,78.1,52.8,9.56,0.1,97,1.716
+2000,Asia,Japan,81.1,22.2,7.97,0.1,98,1.359
+2000,Asia,Kazakhstan,63.9,43.9,6,0.1,96,1.8
+2000,Asia,Thailand,71.1,18.7,5.88,0.8,97,1.671
+2000,Asia,Lao People's Democratic Republic,58.1,12.3,5.16,0.1,57,
+2000,Asia,Philippines,66.8,17.8,4.73,0.1,74,3.811
+2000,Asia,Georgia,71.8,46,3.28,0.1,81,1.608
+2000,Asia,China,71.7,2.5,3.06,0.1,86,1.497
+2000,Asia,Turkmenistan,63.8,37.5,2.9,0.1,98,2.824
+2000,Asia,Armenia,72,47.1,2.9,0.1,96,1.648
+2000,Europe,Ireland,76.4,51.5,14.07,0.1,86,1.89
+2000,Europe,France,78.8,54.6,13.63,0.1,98,1.89
+2000,Europe,Czechia,74.7,59,13.22,0.1,98,
+2000,Europe,Austria,78.1,5.1,13.2,0.1,71,1.36
+2000,Europe,Luxembourg,77.8,54,13.14,0.1,99,1.76
+2000,Europe,Belarus,68,54.4,12.98,0.1,99,1.317
+2000,Europe,Germany,78,55.1,12.91,0.1,94,1.38
+2000,Europe,Croatia,74.7,54.7,12.73,0.1,94,1.39
+2000,Europe,Hungary,71.7,56.1,12.22,0.1,99,1.32
+2000,Europe,Slovenia,76,51.2,11.9,0.1,93,1.26
+2000,Oceania,Australia,79.5,58.2,10.17,0.1,9,1.756
+2000,Oceania,New Zealand,78.6,58.9,8.91,0.1,82,1.98
+2000,Oceania,Samoa,72,65.6,3,0.1,94,4.503
+2000,Oceania,Micronesia (Federated States of),67,61.5,2.23,0.1,85,
+2000,Oceania,Fiji,67.7,5.2,2.05,0.1,91,3.09
+2000,Oceania,Tonga,71.6,65.5,1.24,0.1,91,4.25
+2000,Oceania,Vanuatu,69,41.1,1.21,0.1,67,4.368
+2001,Africa,Uganda,47.7,13.3,10.57,10.8,56,6.822
+2001,Africa,Nigeria,47.4,17.3,9.58,5.1,36,6.083
+2001,Africa,Gabon,59.8,28.7,9.29,10.1,44,4.46
+2001,Africa,South Africa,56,4.9,7.38,24,71,2.792
+2001,Africa,Seychelles,72,27.6,6.72,0.1,96,1.98
+2001,Africa,Burundi,51.3,13,6.09,5.3,72,6.948
+2001,Africa,Rwanda,48.6,13.7,5.72,8.1,76,5.543
+2001,Africa,Botswana,46.7,3.5,5.48,37.2,97,3.286
+2001,Africa,Namibia,56.5,25.1,5.09,23.9,79,3.926
+2001,Africa,Equatorial Guinea,53.1,18.7,5.07,2.3,43,5.785
+2001,Americas,Saint Lucia,71.8,37.3,12.03,0.3,99,
+2001,Americas,Bahamas,72.9,55.2,11.64,0.2,98,
+2001,Americas,Grenada,77,38.2,9.61,0.1,96,2.512
+2001,Americas,United States of America,76.9,6.9,8.25,0.1,89,
+2001,Americas,Venezuela (Bolivarian Republic of),72.5,54.1,8.05,0.1,87,
+2001,Americas,Argentina,74,54.6,7.76,0.1,85,2.537
+2001,Americas,Canada,79.4,58.5,7.6,0.1,88,1.505
+2001,Americas,Antigua and Barbuda,73.8,38.9,7.51,0.1,99,2.305
+2001,Americas,Barbados,73.4,43.8,7.38,0.7,93,1.746
+2001,Americas,Brazil,71,44.5,7.13,0.1,99,2.232
+2001,Asia,Cyprus,78.2,53.3,10.16,0.1,97,1.66
+2001,Asia,Japan,81.5,22.5,8.03,0.1,81,1.33
+2001,Asia,Thailand,71.2,19.4,5.92,0.8,97,1.641
+2001,Asia,Kazakhstan,64.4,44.4,5.75,0.1,95,1.9
+2001,Asia,Philippines,66.8,18.3,4.54,0.1,76,3.766
+2001,Asia,Lao People's Democratic Republic,58.7,12.7,3.13,0.1,55,
+2001,Asia,Mongolia,63.2,39.1,2.87,0.1,95,2.096
+2001,Asia,Armenia,72.6,47.4,2.86,0.1,97,1.635
+2001,Asia,China,72.2,21.2,2.84,0.1,86,1.508
+2001,Asia,Georgia,73,46.5,2.76,0.1,83,1.589
+2001,Europe,Ireland,77,52.2,14.27,0.1,84,1.94
+2001,Europe,France,79,55.2,13.89,0.1,98,1.9
+2001,Europe,Czechia,75.1,59.4,13.36,0.1,97,
+2001,Europe,Hungary,72.3,56.6,13.18,0.1,99,1.31
+2001,Europe,Croatia,74.9,55.2,13.15,0.1,94,1.46
+2001,Europe,Luxembourg,78,54.6,12.89,0.1,99,1.66
+2001,Europe,Germany,78.3,55.6,12.46,0.1,96,1.35
+2001,Europe,Austria,78.6,5.6,12.4,0.1,83,1.33
+2001,Europe,Portugal,76.9,5.9,12.22,0.1,96,1.45
+2001,Europe,Denmark,77,52.8,11.56,0.1,97,1.74
+2001,Oceania,Australia,79.9,59,9.53,0.1,91,1.739
+2001,Oceania,New Zealand,78.5,59.6,8.75,0.1,82,1.97
+2001,Oceania,Samoa,75,66.5,3.43,0.1,83,4.476
+2001,Oceania,Micronesia (Federated States of),67.2,62,2.82,0.1,79,
+2001,Oceania,Fiji,67.8,51.2,1.93,0.1,92,3.046
+2001,Oceania,Tonga,71.8,66.2,1.35,0.1,91,4.236
+2002,Africa,Seychelles,72.1,28.1,11.15,0.1,99,2.04
+2002,Africa,Uganda,48.8,13.6,10.42,10,57,6.772
+2002,Africa,Nigeria,47.7,17.8,9.61,5.3,4,6.06
+2002,Africa,Gabon,59.7,29.2,8.34,10.7,44,4.389
+2002,Africa,Rwanda,57,14.1,7.82,8,85,5.445
+2002,Africa,South Africa,54.9,41.6,7.04,26.6,7,2.759
+2002,Africa,Botswana,46,31.1,6.41,34.6,97,3.194
+2002,Africa,Equatorial Guinea,53.5,19.1,6.01,2.9,44,5.731
+2002,Africa,Burundi,51.5,13.3,5.98,5.2,74,6.887
+2002,Africa,Sao Tome and Principe,63.1,21.7,5.8,1.4,92,5.174
+2002,Americas,Saint Lucia,72,37.9,11.85,0.1,9,
+2002,Americas,Bahamas,73.1,56,10.85,0.1,93,
+2002,Americas,Grenada,79,38.8,10.71,0.1,98,2.455
+2002,Americas,United States of America,77,61.7,8.33,0.1,9,
+2002,Americas,Argentina,74.1,55.1,7.81,0.1,94,2.516
+2002,Americas,Guyana,65.3,37.1,7.73,2.3,93,2.961
+2002,Americas,Canada,79.5,59.3,7.7,0.1,88,1.52
+2002,Americas,Barbados,73.5,44.6,7.59,0.8,86,1.749
+2002,Americas,Antigua and Barbuda,74,39.5,7.21,0.1,93,2.288
+2002,Americas,Brazil,71.4,45.3,7,0.1,99,2.163
+2002,Asia,Cyprus,78.4,53.8,11.68,0.1,98,1.614
+2002,Asia,Japan,81.8,22.9,7.87,0.1,89,1.32
+2002,Asia,Kazakhstan,64.7,44.8,5.99,0.1,95,2
+2002,Asia,Thailand,71.4,2.2,5.93,0.7,97,1.616
+2002,Asia,Philippines,66.8,18.7,4.42,0.1,77,3.712
+2002,Asia,Lao People's Democratic Republic,59.3,13.3,3.33,0.1,55,
+2002,Asia,Kyrgyzstan,66.7,36.5,3.31,0.1,99,
+2002,Asia,China,72.7,21.9,2.91,0.1,86,1.524
+2002,Asia,Armenia,72.6,47.8,2.86,0.1,96,1.637
+2002,Asia,Georgia,71.7,47,2.72,0.1,89,1.586
+2002,Europe,Ireland,77.4,52.9,14.17,0.1,83,1.97
+2002,Europe,France,79.2,55.8,13.78,0.1,97,1.88
+2002,Europe,Czechia,75.3,59.9,13.47,0.1,97,
+2002,Europe,Croatia,74.8,55.8,13.39,0.1,95,1.42
+2002,Europe,Hungary,72.5,57.1,13.29,0.1,98,1.3
+2002,Europe,Luxembourg,78.3,55.2,12.91,0.1,99,1.63
+2002,Europe,Austria,78.7,51.2,12.5,0.1,82,1.39
+2002,Europe,Spain,79.5,58.8,12.26,0.1,98,1.25
+2002,Europe,Germany,78.4,56.1,12.25,0.1,97,1.34
+2002,Europe,Belarus,67.2,55.3,12.23,0.1,99,1.24
+2002,Oceania,Australia,79.9,59.6,9.84,0.1,92,1.756
+2002,Oceania,New Zealand,78.7,6.3,9.13,0.1,84,1.89
+2002,Oceania,Samoa,76,67.4,3.3,0.1,85,4.46
+2002,Oceania,Micronesia (Federated States of),66.2,62.4,2.78,0.1,84,
+2002,Oceania,Fiji,67.9,52.2,1.85,0.1,94,3.001
+2002,Oceania,Tonga,71.9,67,1.51,0.1,85,4.221
+2002,Oceania,Vanuatu,69.3,42.6,1.24,0.1,67,4.162
+2002,Oceania,Solomon Islands,66.5,39.6,1.08,0.1,78,4.618
+2003,Africa,Uganda,51,13.9,10.16,9.4,57,6.716
+2003,Africa,Nigeria,48.1,18.3,9.75,5.4,42,6.036
+2003,Africa,Seychelles,72.1,28.7,7.41,0.1,99,2.06
+2003,Africa,Equatorial Guinea,53.8,19.5,7.13,3.6,46,5.675
+2003,Africa,South Africa,54,42.2,6.93,28.9,7,2.729
+2003,Africa,Rwanda,52,14.5,6.66,8.1,96,5.345
+2003,Africa,Sao Tome and Principe,63.4,22.2,6.54,1.6,94,5.123
+2003,Africa,Gabon,59.7,29.8,6.47,11,44,4.327
+2003,Africa,Burundi,51.9,13.5,5.84,5.1,75,6.824
+2003,Africa,Botswana,46.4,31.6,5.51,31.9,96,3.113
+2003,Americas,Saint Lucia,72.2,38.4,12.55,0.2,91,
+2003,Americas,Bahamas,73.2,56.7,10.68,0.1,93,
+2003,Americas,Grenada,71.1,39.4,9.75,0.1,98,2.409
+2003,Americas,United States of America,77.2,62.4,8.4,0.1,91,
+2003,Americas,Guyana,65.3,37.8,7.93,2.1,91,2.924
+2003,Americas,Canada,79.7,6,7.7,0.1,88,1.53
+2003,Americas,Barbados,73.7,45.4,7.65,0.4,9,1.752
+2003,Americas,Argentina,74.1,55.7,7.62,0.1,95,2.495
+2003,Americas,Antigua and Barbuda,74.2,4.1,7.16,0.1,99,2.268
+2003,Americas,Brazil,71.8,46.1,6.95,0.1,99,2.096
+2003,Asia,Cyprus,78.5,54.3,10.62,0.1,98,1.576
+2003,Asia,Japan,81.9,23.4,7.83,0.1,97,1.29
+2003,Asia,Kazakhstan,64.4,45.3,6.58,0.1,99,2.03
+2003,Asia,Thailand,71.7,2.9,6.14,0.6,98,1.595
+2003,Asia,Philippines,67.2,19.2,4.44,0.1,85,3.65
+2003,Asia,Kyrgyzstan,66.6,37,3.52,0.1,98,
+2003,Asia,Lao People's Democratic Republic,59.8,13.8,3.41,0.1,52,
+2003,Asia,Georgia,72.7,47.5,3.36,0.1,74,1.599
+2003,Asia,Armenia,72.7,48.1,3.03,0.1,96,1.648
+2003,Asia,China,73.1,22.6,2.96,0.1,87,1.54
+2003,Europe,Portugal,77.3,52.5,14.21,0.1,96,1.44
+2003,Europe,Croatia,74.7,56.3,13.78,0.1,95,1.41
+2003,Europe,France,79.3,56.4,13.49,0.1,96,1.89
+2003,Europe,Ireland,78,53.6,13.24,0.1,86,1.96
+2003,Europe,Hungary,72.5,57.6,13.24,0.1,99,1.27
+2003,Europe,Czechia,75.2,6.4,13.01,0.1,97,
+2003,Europe,Luxembourg,78.6,55.8,12.61,0.1,99,1.62
+2003,Europe,Austria,78.8,51.7,12.2,0.1,84,1.38
+2003,Europe,Spain,79.4,59.3,12.09,0.1,99,1.3
+2003,Europe,Germany,78.5,56.6,11.92,0.1,96,1.34
+2003,Oceania,Australia,83,6.3,9.97,0.1,92,1.748
+2003,Oceania,New Zealand,79.1,6.9,8.91,0.1,86,1.93
+2003,Oceania,Samoa,79,68.2,4.17,0.1,82,4.454
+2003,Oceania,Micronesia (Federated States of),67.5,62.8,3.15,0.1,88,
+2003,Oceania,Tonga,72,67.8,1.79,0.1,91,4.202
+2003,Oceania,Fiji,68,53.2,1.76,0.1,95,2.954
+2003,Oceania,Vanuatu,69.4,43.3,1.2,0.1,67,4.056
+2003,Oceania,Solomon Islands,66.8,4.4,1.18,0.1,84,4.578
+2004,Africa,Uganda,51.3,14.2,9.89,8.9,58,6.653
+2004,Africa,Nigeria,48.5,18.8,9.76,5.4,43,6.011
+2004,Africa,Gabon,59.7,3.3,8.13,11.1,44,4.274
+2004,Africa,Seychelles,72.1,29.2,7.91,0.1,99,2.01
+2004,Africa,South Africa,53.7,42.9,6.96,29.7,73,2.702
+2004,Africa,Rwanda,53.4,14.9,6.75,7.7,89,5.243
+2004,Africa,Equatorial Guinea,54.1,19.8,6.28,4.4,48,5.618
+2004,Africa,Sao Tome and Principe,63.8,22.8,5.78,1.6,99,5.072
+2004,Africa,Burundi,52.6,13.8,5.72,4.8,76,6.759
+2004,Africa,Botswana,48.1,32.2,4.9,28.4,96,3.043
+2004,Americas,Saint Lucia,72.6,39,11.93,0.2,91,
+2004,Americas,Bahamas,73.8,57.4,10.1,0.1,92,
+2004,Americas,United States of America,77.5,63.1,8.48,0.1,92,
+2004,Americas,Grenada,73,39.9,8.43,0.1,84,2.373
+2004,Americas,Guyana,65.1,38.4,7.84,1.9,91,2.883
+2004,Americas,Canada,80,6.6,7.8,0.1,91,1.53
+2004,Americas,Barbados,73.8,46.2,7.68,0.2,93,1.755
+2004,Americas,Argentina,74.7,56.3,7.63,0.1,91,2.474
+2004,Americas,Venezuela (Bolivarian Republic of),73.3,55.9,7.55,0.1,83,
+2004,Americas,Antigua and Barbuda,74.4,4.8,7.28,0.1,97,2.246
+2004,Asia,Cyprus,78.6,54.8,13.03,0.1,98,1.545
+2004,Asia,Japan,82.1,23.8,7.7,0.1,97,1.29
+2004,Asia,Kazakhstan,64.7,45.8,6.55,0.1,99,2.21
+2004,Asia,Thailand,71.6,21.7,6.17,0.5,98,1.58
+2004,Asia,Philippines,67.3,19.6,4.45,0.1,85,3.579
+2004,Asia,Armenia,73,48.4,3.81,0.1,93,1.665
+2004,Asia,Georgia,72.3,48.1,3.74,0.1,66,1.625
+2004,Asia,Lao People's Democratic Republic,64,14.4,3.53,0.2,46,
+2004,Asia,Kyrgyzstan,67.1,37.5,3.41,0.1,98,
+2004,Asia,China,73.5,23.4,3.04,0.1,87,1.554
+2004,Europe,Estonia,72.3,55.2,15.07,0.1,95,1.47
+2004,Europe,Portugal,78,53.3,13.45,0.1,95,1.4
+2004,Europe,Ireland,78.3,54.4,13.32,0.1,89,1.93
+2004,Europe,Hungary,72.9,58.2,13.28,0.1,99,1.28
+2004,Europe,Czechia,75.8,6.8,13.24,0.1,96,
+2004,Europe,France,82,57,13.18,0.1,99,1.92
+2004,Europe,Croatia,75.4,56.9,13.11,0.1,96,1.43
+2004,Europe,Luxembourg,78.7,56.4,12.42,0.1,99,1.66
+2004,Europe,United Kingdom of Great Britain and Northern Ireland,78.8,6.1,12.22,0.1,92,
+2004,Europe,Lithuania,71.6,58.1,12.1,0.1,9,1.27
+2004,Oceania,Australia,86,6.9,9.84,0.1,92,1.768
+2004,Oceania,New Zealand,79.2,61.5,9.15,0.1,87,1.98
+2004,Oceania,Samoa,71.4,68.9,3.62,0.1,26,4.456
+2004,Oceania,Micronesia (Federated States of),67.7,63.2,2.02,0.1,82,
+2004,Oceania,Tonga,72.2,68.6,1.8,0.1,91,4.177
+2004,Oceania,Fiji,68.1,54.2,1.63,0.1,96,2.907
+2004,Oceania,Solomon Islands,67.1,41.3,1.18,0.1,89,4.54
+2005,Africa,Uganda,53.2,14.5,10.09,8.7,59,6.583
+2005,Africa,Nigeria,49.2,19.3,9.71,5.4,45,5.985
+2005,Africa,South Africa,53.8,43.6,8.69,29.5,75,2.677
+2005,Africa,Seychelles,72.2,3.1,7.82,0.1,99,2.2
+2005,Africa,Gabon,65,3.8,7.72,10.9,44,4.23
+2005,Africa,Equatorial Guinea,54.4,2.2,7.19,4.9,5,5.559
+2005,Africa,Rwanda,55.3,15.4,7.01,7.1,95,5.135
+2005,Africa,Botswana,51.7,32.7,6.37,20.6,96,2.987
+2005,Africa,Burundi,53.4,14.1,5.54,4.3,82,6.69
+2005,Africa,Sao Tome and Principe,64.3,23.4,5.27,1.6,97,5.022
+2005,Americas,Saint Lucia,73.1,39.6,12.32,0.2,95,
+2005,Americas,Bahamas,74.1,58.1,10.49,0.1,93,
+2005,Americas,Grenada,71.5,4.5,8.8,0.1,99,2.344
+2005,Americas,United States of America,77.5,63.8,8.52,0.1,92,
+2005,Americas,Antigua and Barbuda,74.6,41.4,8.15,0.1,98,2.224
+2005,Americas,Barbados,73.9,46.9,8.01,0.1,91,1.759
+2005,Americas,Canada,81,61.3,8,0.1,93,1.54
+2005,Americas,Venezuela (Bolivarian Republic of),73.6,56.5,7.92,0.1,8,
+2005,Americas,Chile,78.4,57.4,7.57,0.1,92,1.982
+2005,Americas,Argentina,74.9,56.9,7.53,0.1,95,2.452
+2005,Asia,Cyprus,78.7,55.3,11.41,0.1,98,1.52
+2005,Asia,Japan,82,24.4,7.99,0.1,95,1.26
+2005,Asia,Kazakhstan,64.6,46.3,6.94,0.1,99,2.22
+2005,Asia,Thailand,72.5,22.6,6.26,0.5,98,1.568
+2005,Asia,Georgia,73.9,48.6,4.7,0.1,82,1.664
+2005,Asia,Armenia,73,48.8,4.25,0.1,92,1.681
+2005,Asia,Philippines,67,2.1,4.22,0.1,9,3.503
+2005,Asia,Lao People's Democratic Republic,61,14.9,3.68,0.2,5,
+2005,Asia,China,73.9,24.1,2.92,0.1,87,1.565
+2005,Asia,Turkmenistan,63.3,4.7,2.85,0.1,99,2.654
+2005,Europe,Estonia,72.8,55.5,15.52,0.1,96,1.52
+2005,Europe,Portugal,77.7,54.1,13.33,0.1,93,1.41
+2005,Europe,Ireland,78.7,55.1,13.31,0.1,9,1.86
+2005,Europe,Czechia,75.9,61.3,13.19,0.1,96,
+2005,Europe,Hungary,72.9,58.8,12.94,0.1,99,1.31
+2005,Europe,Austria,79.4,52.7,12.4,0.1,86,1.41
+2005,Europe,Lithuania,78,58.4,12.3,0.1,93,1.29
+2005,Europe,Belgium,78.9,6.2,12.27,0.1,97,1.76
+2005,Europe,France,81,57.5,12.2,0.1,98,1.94
+2005,Europe,United Kingdom of Great Britain and Northern Ireland,79,6.7,12.05,0.1,91,
+2005,Oceania,Australia,81,61.5,10.3,0.1,92,1.807
+2005,Oceania,New Zealand,79.9,62.1,9.31,0.1,89,1.97
+2005,Oceania,Samoa,71.6,69.7,3.63,0.1,55,4.46
+2005,Oceania,Fiji,68.3,55.1,2.02,0.1,97,2.86
+2005,Oceania,Micronesia (Federated States of),67.9,63.6,1.9,0.1,94,
+2005,Oceania,Tonga,72.3,69.4,1.57,0.1,9,4.144
+2006,Africa,Uganda,54.9,14.8,9.81,8.6,62,6.507
+2006,Africa,Nigeria,49.8,19.9,9.66,5.3,46,5.958
+2006,Africa,South Africa,54,44.3,8.5,28.1,79,2.655
+2006,Africa,Seychelles,72.2,3.7,8.12,0.1,99,2.11
+2006,Africa,Gabon,61.4,31.4,8.01,10.7,44,4.194
+2006,Africa,Equatorial Guinea,54.8,2.5,7.28,5.3,52,5.498
+2006,Africa,Rwanda,57.6,15.9,6.88,6.2,99,5.021
+2006,Africa,Botswana,54.8,33.2,6.45,14.4,96,2.946
+2006,Africa,Angola,47.7,18.2,5.84,2.5,36,6.42
+2006,Africa,Sao Tome and Principe,64.7,24,5.46,1.2,97,4.974
+2006,Americas,Saint Lucia,73.5,4.4,13.45,0.1,85,
+2006,Americas,Bahamas,74.2,58.7,11.07,0.1,94,
+2006,Americas,Grenada,71.7,41.1,9.06,0.1,91,2.321
+2006,Americas,Antigua and Barbuda,74.8,42,8.93,0.1,99,2.203
+2006,Americas,United States of America,77.8,64.4,8.63,0.1,93,
+2006,Americas,Barbados,74.1,47.7,8.39,0.1,85,1.763
+2006,Americas,Venezuela (Bolivarian Republic of),73.6,57.1,8.27,0.1,73,
+2006,Americas,Canada,85,61.9,8.2,0.1,95,1.5862
+2006,Americas,Argentina,75.2,57.5,7.75,0.1,92,2.432
+2006,Americas,Chile,78.9,58.1,7.33,0.1,94,1.964
+2006,Asia,Cyprus,78.8,55.8,11.47,0.1,97,1.498
+2006,Asia,Japan,82.4,24.9,7.49,0.1,95,1.32
+2006,Asia,Kazakhstan,65,46.8,7.08,0.1,99,2.36
+2006,Asia,Thailand,73,23.6,6.18,0.5,98,1.561
+2006,Asia,Georgia,73.9,49.2,6.18,0.1,89,1.712
+2006,Asia,Philippines,67.3,2.6,4.08,0.1,88,3.425
+2006,Asia,Armenia,72.9,49.2,4.01,0.1,87,1.694
+2006,Asia,Lao People's Democratic Republic,61.5,15.5,3.69,0.2,56,
+2006,Asia,China,74.2,24.9,3.28,0.1,94,1.572
+2006,Asia,Mongolia,65,43,2.91,0.1,98,2.239
+2006,Europe,Estonia,73,55.9,16.58,0.1,95,1.58
+2006,Europe,Ireland,79,55.8,13.44,0.1,91,1.91
+2006,Europe,Hungary,73.4,59.3,13.16,0.1,99,1.34
+2006,Europe,Portugal,78.5,54.9,13.11,0.1,97,1.37
+2006,Europe,Czechia,76.5,61.8,13.03,0.1,98,
+2006,Europe,Lithuania,76,58.7,12.7,0.1,94,1.33
+2006,Europe,Belarus,68.9,57.2,12.6,0.1,97,1.335
+2006,Europe,France,86,58,12.4,0.1,99,2
+2006,Europe,Austria,79.8,53.2,12.4,0.1,83,1.41
+2006,Europe,Slovenia,78.1,54.7,12.26,0.1,97,1.31
+2006,Oceania,Australia,81.2,62,10.31,0.1,92,1.908
+2006,Oceania,New Zealand,79.9,62.6,9.34,0.1,89,2.01
+2006,Oceania,Samoa,72,7.3,3.52,0.1,37,4.46
+2006,Oceania,Fiji,68.5,55.9,2.06,0.1,98,2.816
+2006,Oceania,Tonga,72.4,7.1,1.79,0.1,89,4.104
+2006,Oceania,Micronesia (Federated States of),68,64.1,1.73,0.1,81,
+2006,Oceania,Vanuatu,71,45.7,1,0.1,67,3.76
+2007,Africa,Uganda,55.5,15.2,9.65,8.4,7,6.424
+2007,Africa,Nigeria,55,2.4,9.55,5.2,54,5.93
+2007,Africa,Gabon,61.6,31.9,9.02,10,78,4.164
+2007,Africa,South Africa,54.5,45,8.48,26.4,79,2.636
+2007,Africa,Seychelles,72.2,31.2,8.12,0.1,99,2.24
+2007,Africa,Equatorial Guinea,55,2.9,6.86,5.9,54,5.433
+2007,Africa,Rwanda,59.6,16.5,6.78,5,98,4.9
+2007,Africa,Angola,48.2,18.8,6.35,2.6,75,6.368
+2007,Africa,Botswana,56.9,33.7,6.21,13.4,96,2.918
+2007,Africa,Cameroon,53.6,24.4,5.44,7,81,5.266
+2007,Americas,Saint Lucia,73.9,41.3,12.68,0.1,99,
+2007,Americas,Bahamas,74.4,59.4,10.75,0.1,95,
+2007,Americas,Grenada,71.9,41.8,9.06,0.1,96,2.301
+2007,Americas,United States of America,78.1,65.1,8.74,0.1,93,
+2007,Americas,Venezuela (Bolivarian Republic of),73.4,57.6,8.7,0.1,67,
+2007,Americas,Antigua and Barbuda,75,42.6,8.64,0.1,98,2.183
+2007,Americas,Barbados,74.2,48.4,8.47,0.1,93,1.768
+2007,Americas,Canada,85,62.5,8.3,0.1,9,1.6589
+2007,Americas,Argentina,74.8,58,8.16,0.1,92,2.413
+2007,Americas,Chile,78.9,58.7,7.39,0.1,95,1.945
+2007,Asia,Cyprus,78.9,56.3,11.56,0.1,97,1.479
+2007,Asia,Georgia,74.4,49.9,8.65,0.1,88,1.766
+2007,Asia,Kazakhstan,65.3,47.3,7.44,0.1,94,2.5
+2007,Asia,Japan,82.6,25.4,7.29,0.1,97,1.34
+2007,Asia,Thailand,73.3,24.6,6.2,0.4,98,1.557
+2007,Asia,Lao People's Democratic Republic,62.1,16.1,5,0.2,46,
+2007,Asia,Philippines,67.5,21.1,4.19,0.1,87,3.349
+2007,Asia,Armenia,73.5,49.7,3.99,0.1,9,1.702
+2007,Asia,China,74.4,25.7,3.88,0.1,94,1.577
+2007,Asia,Mongolia,65.9,43.9,3.79,0.1,99,2.331
+2007,Europe,Estonia,73,56.3,17.87,0.1,95,1.69
+2007,Europe,Belarus,69.8,57.7,14.22,0.1,9,1.429
+2007,Europe,Ireland,79.5,56.6,13.59,0.1,92,2.01
+2007,Europe,Czechia,76.8,62.2,13.43,0.1,99,
+2007,Europe,Lithuania,72,59,13.4,0.1,95,1.36
+2007,Europe,Portugal,78.7,55.7,12.57,0.1,96,1.35
+2007,Europe,Croatia,75.8,58.7,12.56,0.1,96,1.48
+2007,Europe,Hungary,73.5,59.9,12.55,0.1,99,1.32
+2007,Europe,Austria,81,53.7,12.5,0.1,85,1.38
+2007,Europe,France,89,58.6,12.2,0.1,99,1.98
+2007,Oceania,Australia,81.3,62.5,10.56,0.1,92,1.959
+2007,Oceania,New Zealand,81,63.2,9.19,0.1,88,2.18
+2007,Oceania,Samoa,72.2,7.9,3.85,0.1,49,4.45
+2007,Oceania,Fiji,68.6,56.6,2.09,0.1,99,2.774
+2007,Oceania,Tonga,72.5,7.8,2.05,0.1,88,4.059
+2007,Oceania,Micronesia (Federated States of),68.2,64.7,1.64,0.1,79,
+2007,Oceania,Vanuatu,73,46.6,1.01,0.1,67,3.679
+2008,Africa,Uganda,56.3,15.6,9.79,8.2,69,6.337
+2008,Africa,Nigeria,59,21,9.3,5,6,5.902
+2008,Africa,Gabon,61.6,32.4,8.75,8.9,81,4.137
+2008,Africa,Equatorial Guinea,55.4,21.3,8.34,6.3,55,5.363
+2008,Africa,South Africa,55.3,45.7,8.19,23.5,77,2.619
+2008,Africa,Angola,48.7,19.3,7.07,2.6,65,6.307
+2008,Africa,Botswana,57.5,34.2,6.56,12.7,96,2.901
+2008,Africa,Rwanda,68,17.1,6.39,3.7,97,4.774
+2008,Africa,Seychelles,72.2,31.8,6.33,0.1,99,2.33
+2008,Africa,Namibia,61.7,3.2,6.28,11.7,83,3.608
+2008,Americas,Saint Lucia,74.1,42.2,12.09,0.1,96,
+2008,Americas,Bahamas,74.5,6.1,10.15,0.1,93,
+2008,Americas,Barbados,74.4,49.2,8.95,0.1,85,1.772
+2008,Americas,Grenada,72.1,42.4,8.92,0.1,99,2.282
+2008,Americas,United States of America,78.2,65.7,8.74,0.1,94,
+2008,Americas,Argentina,75.4,58.6,8.41,0.1,94,2.396
+2008,Americas,Canada,87,63,8.3,0.1,89,1.6808
+2008,Americas,Antigua and Barbuda,75.2,43.2,8.27,0.1,99,2.164
+2008,Americas,Venezuela (Bolivarian Republic of),73.2,58.2,8.18,0.1,76,
+2008,Americas,Guyana,66.3,4.9,7.32,0.8,93,2.718
+2008,Asia,Cyprus,79.1,56.8,12.01,0.1,97,1.461
+2008,Asia,Kazakhstan,66.6,47.9,7.6,0.1,99,2.7
+2008,Asia,Georgia,73.9,5.5,7.17,0.1,9,1.821
+2008,Asia,Japan,82.7,25.9,7.11,0.1,98,1.37
+2008,Asia,Thailand,73.5,25.7,5.92,0.3,99,1.553
+2008,Asia,Lao People's Democratic Republic,62.6,16.7,5.1,0.2,6,
+2008,Asia,China,74.5,26.5,4.27,0.1,99,1.581
+2008,Asia,Mongolia,67.4,44.9,4.26,0.1,95,2.434
+2008,Asia,Philippines,67.5,21.6,4.21,0.1,91,3.278
+2008,Asia,Armenia,73.2,5.1,3.96,0.1,91,1.706
+2008,Europe,Estonia,74.2,56.7,16.99,0.1,95,1.72
+2008,Europe,Belarus,70,58.2,14.67,0.1,98,1.488
+2008,Europe,Lithuania,71.1,59.3,13.3,0.1,96,1.45
+2008,Europe,Czechia,77,62.6,13.25,0.1,99,
+2008,Europe,Ireland,79.8,57.4,12.66,0.1,93,2.06
+2008,Europe,Portugal,79,56.5,12.35,0.1,97,1.39
+2008,Europe,Croatia,76,59.4,12.06,0.1,96,1.55
+2008,Europe,Russian Federation,67.5,56.6,12.04,0.3,98,1.502
+2008,Europe,Austria,84,54.2,12,0.1,83,1.42
+2008,Europe,Romania,73.1,55.6,11.9,0.1,95,1.6
+2008,Oceania,Australia,81.3,62.9,10.76,0.1,92,1.984
+2008,Oceania,New Zealand,81,63.8,9.49,0.1,89,2.19
+2008,Oceania,Samoa,72.5,71.4,3.97,0.1,54,4.426
+2008,Oceania,Micronesia (Federated States of),68.4,65.2,1.97,0.1,88,
+2008,Oceania,Fiji,68.7,57.3,1.95,0.1,99,2.735
+2008,Oceania,Vanuatu,75,47.4,1.18,0.1,66,3.608
+2008,Oceania,Tonga,72.6,71.5,1.1,0.1,88,4.012
+2008,Oceania,Solomon Islands,68,44.7,1.09,0.1,94,4.359
+2009,Africa,Uganda,57.5,15.9,9.63,8.1,78,6.247
+2009,Africa,Nigeria,51.6,21.6,9.05,4.9,66,5.872
+2009,Africa,Gabon,61.7,33,8.64,8,74,4.112
+2009,Africa,Namibia,62.4,31,7.99,8.7,83,3.606
+2009,Africa,Equatorial Guinea,55.7,21.7,7.97,7.3,57,5.288
+2009,Africa,South Africa,56.5,46.4,7.6,19,75,2.603
+2009,Africa,Rwanda,61,17.7,7.11,2.8,93,4.644
+2009,Africa,Angola,49.1,19.8,7.01,2.5,63,6.238
+2009,Africa,Cameroon,54.8,25.4,5.89,6.3,79,5.167
+2009,Africa,Botswana,59.2,34.7,5.01,9,96,2.891
+2009,Americas,Saint Lucia,74.3,43,11.09,0.1,95,
+2009,Americas,Bahamas,74.6,6.7,9.29,0.1,97,
+2009,Americas,United States of America,78.5,66.3,8.71,0.1,93,
+2009,Americas,Barbados,74.6,49.9,8.46,0.1,93,1.777
+2009,Americas,Grenada,72.4,43.1,8.42,0.1,99,2.262
+2009,Americas,Canada,81,63.6,8.4,0.1,89,1.668
+2009,Americas,Argentina,75.6,59.2,8.33,0.1,97,2.382
+2009,Americas,Antigua and Barbuda,75.4,43.8,7.82,0.1,98,2.146
+2009,Americas,Chile,79.3,59.9,7.67,0.1,94,1.903
+2009,Americas,Venezuela (Bolivarian Republic of),73.6,58.8,7.59,0.1,75,
+2009,Asia,Cyprus,79.3,57.3,10.8,0.1,99,1.443
+2009,Asia,Japan,83,26.4,7.09,0.1,99,1.37
+2009,Asia,Georgia,73.2,51.3,6.66,0.1,93,1.873
+2009,Asia,Kazakhstan,67.8,48.5,6.64,0.1,99,2.55
+2009,Asia,Thailand,73.7,26.8,5.88,0.3,99,1.551
+2009,Asia,Lao People's Democratic Republic,63.1,17.3,5.18,0.2,67,
+2009,Asia,China,74.9,27.3,4.88,0.1,99,1.586
+2009,Asia,Mongolia,66.9,45.9,4.61,0.1,96,2.539
+2009,Asia,Philippines,68,22.1,4.42,0.1,86,3.214
+2009,Asia,Armenia,73.3,5.7,3.96,0.1,94,1.703
+2009,Europe,Estonia,74.9,57.1,15.04,0.1,95,1.7
+2009,Europe,Belarus,70,58.7,14.09,0.1,98,1.509
+2009,Europe,Czechia,77.1,63.1,13.23,0.1,99,
+2009,Europe,Lithuania,72.2,59.7,12.4,0.1,98,1.5
+2009,Europe,Croatia,76.3,6,12.21,0.1,96,1.58
+2009,Europe,Portugal,79.3,57.3,12.03,0.1,96,1.34
+2009,Europe,France,81.1,59.6,11.8,0.1,98,2
+2009,Europe,Hungary,74.2,61.1,11.46,0.1,99,1.32
+2009,Europe,Luxembourg,83,58.8,11.42,0.1,96,1.59
+2009,Europe,Ireland,79.7,58.2,11.41,0.1,94,2.06
+2009,Oceania,Australia,81.7,63.4,10.62,0.1,92,1.971
+2009,Oceania,New Zealand,85,64.3,9.24,0.1,92,2.13
+2009,Oceania,Samoa,76,72,2.88,0.1,45,4.388
+2009,Oceania,Fiji,68.9,58,2.31,0.1,99,2.701
+2009,Oceania,Micronesia (Federated States of),68.5,65.8,2.06,0.1,81,
+2009,Oceania,Solomon Islands,68.1,45.5,1.21,0.1,98,4.3
+2009,Oceania,Tonga,72.5,72.1,1.08,0.1,86,3.963
+2010,Africa,Uganda,58.4,16.3,10.03,8,79,6.154
+2010,Africa,Equatorial Guinea,56.1,22.1,9.93,7.2,59,5.209
+2010,Africa,Nigeria,52,22.2,8.9,4.8,54,5.839
+2010,Africa,Gabon,62.3,33.5,8.85,7,68,4.083
+2010,Africa,Rwanda,62.8,18.3,7.92,2.3,93,4.515
+2010,Africa,Angola,49.6,2.4,7.8,2.5,81,6.162
+2010,Africa,Namibia,63,31.8,7.58,6.2,83,3.605
+2010,Africa,South Africa,58,47.2,7.28,11,72,2.588
+2010,Africa,Seychelles,72.4,33.5,6.51,0.1,99,2.17
+2010,Africa,Cameroon,55.3,26,6.15,5.5,83,5.111
+2010,Americas,Saint Lucia,74.2,43.8,10.87,0.1,97,
+2010,Americas,Bahamas,75,61.3,9.19,0.2,97,
+2010,Americas,United States of America,78.7,66.9,8.55,0.1,93,
+2010,Americas,Barbados,74.7,5.7,8.41,0.1,9,1.781
+2010,Americas,Canada,81.2,64.1,8.4,0.1,88,1.6269
+2010,Americas,Argentina,75.5,59.8,8.15,0.1,95,2.37
+2010,Americas,Chile,79.1,6.6,7.93,0.1,92,1.879
+2010,Americas,Grenada,72.6,43.9,7.91,0.1,94,2.24
+2010,Americas,Antigua and Barbuda,75.6,44.4,7.84,0.1,99,2.13
+2010,Americas,Guyana,65.9,42.4,7.52,0.4,95,2.655
+2010,Asia,Cyprus,79.5,57.8,11.32,0.1,99,1.424
+2010,Asia,Georgia,73.8,52,7.24,0.1,88,1.918
+2010,Asia,Japan,83,26.9,6.9,0.1,98,1.39
+2010,Asia,Kazakhstan,67.8,49.2,6.83,0.1,98,2.6
+2010,Asia,Thailand,73.9,27.9,5.95,0.2,99,1.547
+2010,Asia,Lao People's Democratic Republic,63.6,18,5.95,0.3,76,
+2010,Asia,Mongolia,66.3,46.9,5.8,0.1,96,2.637
+2010,Asia,China,75,28.1,5.75,0.1,99,1.59
+2010,Asia,Philippines,67.9,22.6,4.85,0.1,78,3.158
+2010,Asia,Armenia,73.5,51.2,4.23,0.1,96,1.693
+2010,Europe,Estonia,75.6,57.6,14.97,0.1,94,1.72
+2010,Europe,Belarus,73,59.3,14.44,0.1,99,1.494
+2010,Europe,Lithuania,72.4,6,12.9,0.1,95,1.5
+2010,Europe,Czechia,77.5,63.6,12.69,0.1,99,
+2010,Europe,Portugal,79.6,58.1,12.25,0.1,97,1.39
+2010,Europe,Croatia,76.6,6.6,12.1,0.1,97,1.55
+2010,Europe,Austria,84,55.2,12.1,0.1,86,1.44
+2010,Europe,Ireland,86,58.9,11.88,0.1,94,2.05
+2010,Europe,France,81.3,6.1,11.7,0.1,99,2.03
+2010,Europe,Luxembourg,86,59.2,11.36,0.1,96,1.63
+2010,Oceania,Australia,81.9,63.9,10.52,0.1,92,1.928
+2010,Oceania,New Zealand,89,64.8,9.62,0.1,93,2.17
+2010,Oceania,Samoa,72.6,72.5,3.01,0.1,57,4.338
+2010,Oceania,Fiji,69.1,58.7,2.25,0.1,99,2.669
+2010,Oceania,Micronesia (Federated States of),68.7,66.4,1.76,0.1,85,
+2010,Oceania,Tonga,72.8,72.7,1.24,0.1,84,3.913
+2010,Oceania,Solomon Islands,68.3,46.4,1.1,0.1,94,4.235
+2011,Africa,Equatorial Guinea,56.2,22.6,10.99,7.7,39,5.126
+2011,Africa,Uganda,59.3,16.7,10.22,6.8,82,6.059
+2011,Africa,Seychelles,72.6,34.2,9.72,0.1,99,2.38
+2011,Africa,Gabon,62.8,34.1,8.9,6,75,4.05
+2011,Africa,Nigeria,52.3,22.8,8.75,4.7,48,5.802
+2011,Africa,Rwanda,63.8,18.9,8.34,1.3,93,4.389
+2011,Africa,Angola,51,21,8.06,2.5,73,6.082
+2011,Africa,Namibia,64.3,32.5,7.84,4.7,85,3.6
+2011,Africa,South Africa,58.9,47.9,7.38,8.5,69,2.572
+2011,Africa,Cameroon,55.6,26.6,6.19,4.9,8,5.049
+2011,Americas,Saint Lucia,74.6,44.5,10.43,0.1,99,
+2011,Americas,Bahamas,75,62,9.34,0.1,97,
+2011,Americas,United States of America,78.7,67.5,8.67,0.1,94,
+2011,Americas,Barbados,74.9,51.4,8.51,0.1,91,1.785
+2011,Americas,Canada,81.5,64.7,8.2,0.1,87,1.61
+2011,Americas,Argentina,75.7,6.4,8.11,0.1,93,2.358
+2011,Americas,Grenada,72.9,44.7,7.84,0.1,95,2.217
+2011,Americas,Antigua and Barbuda,75.7,45.1,7.84,0.1,99,2.115
+2011,Americas,Brazil,74.1,52.8,7.58,0.1,98,1.79
+2011,Americas,Guyana,65.6,43.2,7.56,0.4,93,2.63
+2011,Asia,Cyprus,79.7,58.3,10.69,0.1,99,1.405
+2011,Asia,Georgia,73.9,52.8,8.14,0.1,88,1.954
+2011,Asia,Japan,82.5,27.4,7.39,0.1,96,1.39
+2011,Asia,Kazakhstan,68.5,49.9,6.63,0.1,99,2.59
+2011,Asia,Thailand,74.1,29,6.07,0.2,99,1.542
+2011,Asia,China,75.2,29,5.63,0.1,99,1.594
+2011,Asia,Lao People's Democratic Republic,64,18.7,5.39,0.3,79,
+2011,Asia,Philippines,68,23.1,4.96,0.1,87,3.109
+2011,Asia,Armenia,73.9,51.9,4.09,0.1,96,1.68
+2011,Asia,Viet Nam,75.4,14.7,3.94,0.1,96,
+2011,Europe,Belarus,72,59.9,17.31,0.1,98,1.515
+2011,Europe,Lithuania,72.8,6.5,12.66,0.1,92,1.55
+2011,Europe,Czechia,77.8,64,12.43,0.1,99,
+2011,Europe,Croatia,77,61.3,12.19,0.1,96,1.48
+2011,Europe,Austria,88,55.7,12.04,0.1,89,1.43
+2011,Europe,Portugal,82,58.8,11.92,0.1,97,1.35
+2011,Europe,France,81.7,6.6,11.8,0.1,99,2.01
+2011,Europe,Ireland,84,59.7,11.72,0.1,95,2.03
+2011,Europe,Hungary,74.8,62.4,11.51,0.1,99,1.23
+2011,Europe,Luxembourg,88,59.6,11.5,0.1,96,1.52
+2011,Oceania,Australia,82,64.4,10.3,0.1,92,1.926
+2011,Oceania,New Zealand,86,65.3,9.47,0.1,95,2.09
+2011,Oceania,Samoa,73,72.9,2.15,0.1,6,4.277
+2011,Oceania,Micronesia (Federated States of),68.9,67,1.89,0.1,83,
+2012,Africa,Equatorial Guinea,56.7,23,11.89,8.2,3,5.04
+2012,Africa,Nigeria,52.7,23.5,8.54,4.4,42,5.758
+2012,Africa,Gabon,63.5,34.6,8.3,4.9,8,4.01
+2012,Africa,Angola,56,21.5,8.24,2.6,75,6
+2012,Africa,South Africa,59.2,48.7,7.38,7.6,65,2.554
+2012,Africa,Zimbabwe,56.6,3.3,6.09,8.8,95,3.996
+2012,Africa,Burkina Faso,58.6,17.7,4.75,0.8,9,5.693
+2012,Africa,Côte d'Ivoire,52,26.2,3.24,2.9,83,
+2012,Africa,Zambia,59.2,21.7,2.59,5.6,7,5.242
+2012,Africa,Ethiopia,63.3,16.4,1.84,1.2,7,4.677
+2012,Americas,Saint Lucia,74.7,45.2,9.99,0.1,98,
+2012,Americas,Bahamas,74.9,62.6,9.5,0.2,99,
+2012,Americas,United States of America,78.8,68,8.82,0.1,93,
+2012,Americas,Barbados,75.1,52.2,8.61,0.1,88,1.788
+2012,Americas,Argentina,75.9,61,8.35,0.1,99,2.347
+2012,Americas,Canada,81.6,65.3,8.3,0.1,99,1.6142
+2012,Americas,Antigua and Barbuda,75.9,45.7,8.18,0.2,97,2.102
+2012,Americas,Grenada,73.1,45.6,8.07,0.1,98,2.194
+2012,Americas,Guyana,65.8,44.1,7.57,0.3,97,2.606
+2012,Americas,Brazil,74.5,53.6,7.55,0.1,96,1.777
+2012,Asia,Cyprus,80,58.7,10.55,0.1,99,1.388
+2012,Asia,Georgia,74.2,53.6,7.71,0.1,93,1.98
+2012,Asia,Japan,83.3,27.8,7.39,0.1,99,1.41
+2012,Asia,Kazakhstan,69.1,5.6,6.82,0.1,98,2.62
+2012,Asia,Thailand,74.3,3.1,6.56,0.1,99,1.534
+2012,Asia,China,75.4,3,5.74,0.1,99,1.599
+2012,Asia,Philippines,68.1,23.7,5.02,0.1,88,3.067
+2012,Asia,Viet Nam,75.6,15.3,4.12,0.1,97,
+2012,Asia,Armenia,74.4,52.6,3.89,0.1,96,1.664
+2012,Asia,India,67.3,17,3.1,0.2,79,2.475
+2012,Europe,Belarus,71.9,6.5,16.35,0.1,98,1.62
+2012,Europe,Lithuania,73,6.9,15.14,0.1,93,1.6
+2012,Europe,Czechia,78,64.5,12.71,0.1,99,
+2012,Europe,Austria,88,56.1,12.26,0.1,92,1.44
+2012,Europe,Portugal,83,59.5,11.96,0.1,98,1.28
+2012,Europe,France,81.5,61.1,11.5,0.1,99,2.01
+2012,Europe,Ireland,85,6.5,11.49,0.1,95,2
+2012,Europe,Croatia,77.1,61.9,11.49,0.1,96,1.51
+2012,Europe,Luxembourg,81.1,6.1,11.34,0.1,99,1.57
+2012,Europe,Hungary,75,63,11.27,0.1,99,1.34
+2012,Oceania,Australia,82.3,65,10.03,0.1,92,1.917
+2012,Oceania,New Zealand,81.1,65.9,9.2,0.1,93,2.1
+2012,Oceania,Micronesia (Federated States of),69,67.5,2.98,0.1,81,
+2013,Africa,Equatorial Guinea,57.4,23.5,10.72,5.7,3,4.952
+2013,Africa,Gabon,64.6,35.2,8.86,3.7,77,3.963
+2013,Africa,Nigeria,53.2,24.1,8.3,3.9,46,5.709
+2013,Africa,Angola,51.1,22.1,8.1,2.3,67,5.92
+2013,Africa,South Africa,69,49.5,7.34,4.5,73,2.533
+2013,Africa,Zimbabwe,58,3.8,6.39,6.8,95,3.957
+2013,Africa,Burkina Faso,59,18.2,4.64,0.7,89,5.607
+2013,Africa,Côte d'Ivoire,52.3,26.8,3.15,2.4,79,
+2013,Africa,Zambia,63,22.3,2.41,4.8,74,5.171
+2013,Africa,Ethiopia,63.7,16.8,1.86,0.9,7,4.556
+2013,Americas,Saint Lucia,74.8,45.9,9.73,0.1,99,
+2013,Americas,Bahamas,74.8,63.2,9.42,0.1,97,
+2013,Americas,United States of America,78.9,68.6,8.82,0.1,93,
+2013,Americas,Barbados,75.2,53,8.74,0.1,91,1.791
+2013,Americas,Antigua and Barbuda,76.1,46.4,8.58,0.2,98,2.089
+2013,Americas,Saint Kitts and Nevis,,5.2,8.54,0.1,96,
+2013,Americas,Argentina,76,61.6,8.28,0.1,99,2.335
+2013,Americas,Grenada,73.3,46.5,8.25,0.1,98,2.171
+2013,Americas,Canada,81.8,65.8,8.2,0.1,91,1.587
+2013,Americas,Guyana,65.9,45,7.56,0.3,98,2.582
+2013,Asia,Cyprus,81,59.2,9.04,0.1,99,1.373
+2013,Asia,Japan,83.5,28.2,7.55,0.1,99,1.43
+2013,Asia,Thailand,74.5,31.3,6.5,0.1,99,1.524
+2013,Asia,Kazakhstan,69.5,51.4,6.48,0.1,98,2.64
+2013,Asia,Georgia,74.5,54.4,5.91,0.1,94,1.996
+2013,Asia,China,75.6,3.9,5.79,0.1,99,1.604
+2013,Asia,Philippines,68.1,24.3,4.61,0.1,84,3.028
+2013,Asia,Viet Nam,75.7,16,4,0.1,93,
+2013,Asia,Armenia,74.4,53.3,3.79,0.1,96,1.648
+2013,Asia,India,67.6,17.5,3.11,0.2,82,2.425
+2013,Europe,Lithuania,73,61.4,15.04,0.1,93,1.59
+2013,Europe,Belarus,71.7,61.1,14.66,0.1,98,1.668
+2013,Europe,Czechia,78.2,65.1,12.45,0.1,99,
+2013,Europe,Croatia,77.7,62.5,12.39,0.1,96,1.46
+2013,Europe,Bulgaria,74.1,64.5,12.06,0.1,95,1.48
+2013,Europe,Austria,81.1,56.6,11.82,0.1,95,1.44
+2013,Europe,Belgium,87,63,11.77,0.1,99,1.75
+2013,Europe,Poland,77.1,6.4,11.63,0.1,95,1.29
+2013,Europe,France,82,61.6,11.1,0.1,99,1.99
+2013,Europe,Luxembourg,81.4,6.5,11.02,0.1,99,1.55
+2013,Oceania,Australia,82.5,65.5,9.87,0.1,91,1.851
+2013,Oceania,New Zealand,81.3,66.4,9.18,0.1,92,2.01
+2013,Oceania,Micronesia (Federated States of),69.2,68.1,1.67,0.1,81,
+2014,Africa,Angola,51.7,22.7,8.33,2,68,5.841
+2014,Africa,South Africa,62,5.3,7.38,3.7,77,2.51
+2014,Africa,Zimbabwe,59.2,31.3,6.5,6.3,92,3.903
+2014,Africa,Tunisia,75.1,6.2,1.39,0.1,98,2.234
+2014,Americas,Saint Lucia,75,46.7,9.97,0.1,99,
+2014,Americas,Bahamas,75.4,63.8,9.45,0.1,96,
+2014,Americas,United States of America,79.1,69.1,8.82,0.1,93,
+2014,Americas,Barbados,75.4,53.7,8.82,0.1,95,1.794
+2014,Americas,Antigua and Barbuda,76.2,47,8.56,0.2,96,2.076
+2014,Americas,Grenada,73.5,47.4,8.42,0.1,81,2.148
+2014,Americas,Canada,82,66.4,8.1,0.1,91,1.5818
+2014,Americas,Argentina,76.2,62.2,7.93,0.1,92,2.322
+2014,Americas,Guyana,66,45.9,7.64,0.3,97,2.559
+2014,Americas,Brazil,74.8,55.3,7.32,0.1,96,1.753
+2014,Asia,Thailand,74.6,32.4,6.41,0.1,99,1.512
+2014,Asia,Kazakhstan,69.9,52.3,6.29,0.1,95,2.74
+2014,Asia,Georgia,74.5,55.3,6.13,0.1,91,2.003
+2014,Asia,China,75.8,31.9,5.78,0.1,99,1.61
+2014,Asia,Philippines,68.4,24.8,4.52,0.1,77,2.992
+2014,Asia,Viet Nam,75.9,16.7,4.09,0.1,96,
+2014,Asia,Armenia,74.6,54.1,3.91,0.1,95,1.634
+2014,Asia,India,68,18.1,3.07,0.2,84,2.384
+2014,Asia,Turkmenistan,66,47.7,2.9,0.1,98,2.956
+2014,Asia,Israel,82.2,64.6,2.62,0.1,95,3.08
+2014,Europe,Lithuania,73.4,61.9,15.19,0.1,93,1.63
+2014,Europe,Belarus,72,61.7,13.94,0.1,97,1.696
+2014,Europe,Czechia,78.6,65.6,12.68,0.1,99,
+2014,Europe,Belgium,89,63.4,12.6,0.1,99,1.74
+2014,Europe,Austria,81.4,57.1,12.32,0.1,98,1.47
+2014,Europe,Croatia,77.8,63.1,12.14,0.1,95,1.46
+2014,Europe,Bulgaria,74.3,65.1,12.03,0.1,88,1.53
+2014,Europe,France,82.2,62,11.5,0.1,98,2.01
+2014,Europe,Luxembourg,81.7,6.9,11.12,0.1,99,1.5
+2014,Europe,Germany,89,61.9,11.03,0.1,94,1.47
+2014,Oceania,Australia,82.7,66.1,9.71,0.1,92,1.821
+2014,Oceania,New Zealand,81.5,66.9,9.07,0.1,93,1.92
+2014,Oceania,Micronesia (Federated States of),69.4,68.7,1.58,0.1,76,
+2015,Asia,Singapore,83.1,33.2,1.79,0.1,96,1.24
+2015,Europe,United Kingdom of Great Britain and Northern Ireland,81.2,66.6,10.66,0.1,96,
+2015,Europe,Norway,81.8,61.2,5.97,0.1,95,1.72
+2015,Europe,Albania,77.8,58,4.6,0.1,99,1.714
+2015,Oceania,New Zealand,81.6,67.5,8.7,0.1,92,1.99
