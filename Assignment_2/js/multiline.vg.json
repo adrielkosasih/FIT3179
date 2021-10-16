@@ -1,5 +1,5 @@
 {
-  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "background": "#d6dee3",
   "width": "container",
   "height": 350,
@@ -110,12 +110,20 @@
       "mark": {
         "type": "line",
         "strokeWidth": 8,
-        "stroke": "transparent"
+        "stroke": "transparent",
+        "point": {
+          "filled": false,
+          "fill": "white"
+        }
       }
     },
     {
       "mark": {
-        "type": "line"
+        "type": "line",
+        "point": {
+          "filled": false,
+          "fill": "white"
+        }
       }
     },
     {
