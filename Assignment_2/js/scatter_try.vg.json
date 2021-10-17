@@ -207,7 +207,23 @@
             },
             "color": {
               "field": "region",
-              "title": "Region"
+              "title": "Region",
+            "scale": {
+            "domain": [
+              "Africa",
+              "Americas",
+              "Asia",
+              "Europe",
+              "Oceania"
+            ],
+            "range": [
+              "#d55e00",
+              "#cc79a7",
+              "#0072b2",
+              "#009e73",
+              "#f0e442"
+            ]
+          }
             }
           }
         },
