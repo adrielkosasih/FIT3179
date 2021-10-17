@@ -171,7 +171,7 @@ year,country,Life_exp
 2000,Uganda,46.6
 2000,Ukraine,67.5
 2000,United Arab Emirates,74.2
-2000,United Kingdom of Great Britain and Northern Ireland,77.8
+2000,United Kingdom,77.8
 2000,United Republic of Tanzania,49.2
 2000,United States of America,76.8
 2000,Uruguay,75.1
@@ -354,7 +354,7 @@ year,country,Life_exp
 2001,Uganda,47.7
 2001,Ukraine,67.7
 2001,United Arab Emirates,74.5
-2001,United Kingdom of Great Britain and Northern Ireland,78
+2001,United Kingdom,78
 2001,United Republic of Tanzania,49.6
 2001,United States of America,76.9
 2001,Uruguay,75.2
@@ -537,7 +537,7 @@ year,country,Life_exp
 2002,Uganda,48.8
 2002,Ukraine,67.6
 2002,United Arab Emirates,74.7
-2002,United Kingdom of Great Britain and Northern Ireland,78.2
+2002,United Kingdom,78.2
 2002,United Republic of Tanzania,52
 2002,United States of America,77
 2002,Uruguay,75.4
@@ -720,7 +720,7 @@ year,country,Life_exp
 2003,Uganda,51
 2003,Ukraine,67.6
 2003,United Arab Emirates,74.9
-2003,United Kingdom of Great Britain and Northern Ireland,78.3
+2003,United Kingdom,78.3
 2003,United Republic of Tanzania,58
 2003,United States of America,77.2
 2003,Uruguay,75.4
@@ -903,7 +903,7 @@ year,country,Life_exp
 2004,Uganda,51.3
 2004,Ukraine,67.4
 2004,United Arab Emirates,75.1
-2004,United Kingdom of Great Britain and Northern Ireland,78.8
+2004,United Kingdom,78.8
 2004,United Republic of Tanzania,51.5
 2004,United States of America,77.5
 2004,Uruguay,75.4
@@ -1086,7 +1086,7 @@ year,country,Life_exp
 2005,Uganda,53.2
 2005,Ukraine,67
 2005,United Arab Emirates,75.3
-2005,United Kingdom of Great Britain and Northern Ireland,79
+2005,United Kingdom,79
 2005,United Republic of Tanzania,52.2
 2005,United States of America,77.5
 2005,Uruguay,75.7
@@ -1269,7 +1269,7 @@ year,country,Life_exp
 2006,Uganda,54.9
 2006,Ukraine,67.7
 2006,United Arab Emirates,75.4
-2006,United Kingdom of Great Britain and Northern Ireland,79.3
+2006,United Kingdom,79.3
 2006,United Republic of Tanzania,53.1
 2006,United States of America,77.8
 2006,Uruguay,76.2
@@ -1452,7 +1452,7 @@ year,country,Life_exp
 2007,Uganda,55.5
 2007,Ukraine,67.5
 2007,United Arab Emirates,75.6
-2007,United Kingdom of Great Britain and Northern Ireland,79.5
+2007,United Kingdom,79.5
 2007,United Republic of Tanzania,54.5
 2007,United States of America,78.1
 2007,Uruguay,75.4
@@ -1635,7 +1635,7 @@ year,country,Life_exp
 2008,Uganda,56.3
 2008,Ukraine,67.7
 2008,United Arab Emirates,75.8
-2008,United Kingdom of Great Britain and Northern Ireland,79.6
+2008,United Kingdom,79.6
 2008,United Republic of Tanzania,56.2
 2008,United States of America,78.2
 2008,Uruguay,76.4
@@ -1818,7 +1818,7 @@ year,country,Life_exp
 2009,Uganda,57.5
 2009,Ukraine,69.2
 2009,United Arab Emirates,76
-2009,United Kingdom of Great Britain and Northern Ireland,81
+2009,United Kingdom,81
 2009,United Republic of Tanzania,56.9
 2009,United States of America,78.5
 2009,Uruguay,76.6
@@ -2001,7 +2001,7 @@ year,country,Life_exp
 2010,Uganda,58.4
 2010,Ukraine,69.8
 2010,United Arab Emirates,76.2
-2010,United Kingdom of Great Britain and Northern Ireland,82
+2010,United Kingdom,82
 2010,United Republic of Tanzania,57.5
 2010,United States of America,78.7
 2010,Uruguay,76.3
@@ -2184,7 +2184,7 @@ year,country,Life_exp
 2011,Uganda,59.3
 2011,Ukraine,75
 2011,United Arab Emirates,76.3
-2011,United Kingdom of Great Britain and Northern Ireland,86
+2011,United Kingdom,86
 2011,United Republic of Tanzania,58.3
 2011,United States of America,78.7
 2011,Uruguay,77
@@ -2367,7 +2367,7 @@ year,country,Life_exp
 2012,Uganda,60
 2012,Ukraine,77
 2012,United Arab Emirates,76.5
-2012,United Kingdom of Great Britain and Northern Ireland,86
+2012,United Kingdom,86
 2012,United Republic of Tanzania,58.6
 2012,United States of America,78.8
 2012,Uruguay,76.5
@@ -2560,7 +2560,7 @@ year,country,Life_exp
 2013,Uganda,67
 2013,Ukraine,71
 2013,United Arab Emirates,76.7
-2013,United Kingdom of Great Britain and Northern Ireland,87
+2013,United Kingdom,87
 2013,United Republic of Tanzania,59.7
 2013,United States of America,78.9
 2013,Uruguay,76.8
@@ -2743,7 +2743,7 @@ year,country,Life_exp
 2014,Uganda,61.5
 2014,Ukraine,78
 2014,United Arab Emirates,76.9
-2014,United Kingdom of Great Britain and Northern Ireland,81
+2014,United Kingdom,81
 2014,United Republic of Tanzania,67
 2014,United States of America,79.1
 2014,Uruguay,76.8
@@ -2926,7 +2926,7 @@ year,country,Life_exp
 2015,Uganda,62.3
 2015,Ukraine,71.3
 2015,United Arab Emirates,77.1
-2015,United Kingdom of Great Britain and Northern Ireland,81.2
+2015,United Kingdom,81.2
 2015,United Republic of Tanzania,61.8
 2015,United States of America,79.3
 2015,Uruguay,77
