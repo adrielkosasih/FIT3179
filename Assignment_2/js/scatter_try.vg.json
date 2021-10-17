@@ -32,8 +32,8 @@
       "mark": {
         "type": "text",
         "fontSize": 100,
-        "x": 250,
-        "y": 130,
+        "x": 300,
+        "y": 150,
         "opacity": 0.06
       },
       "encoding": {
