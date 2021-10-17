@@ -32,8 +32,8 @@
       "mark": {
         "type": "text",
         "fontSize": 100,
-        "x": 400,
-        "y": 250,
+        "x": 200,
+        "y": 100,
         "opacity": 0.06
       },
       "encoding": {
@@ -197,8 +197,8 @@
           ],
           "mark": {
             "type": "text",
-            "yOffset": -5,
-            "fontSize": 5,
+            "yOffset": -12,
+            "fontSize": 12,
             "fontWeight": "bold"
           },
           "encoding": {
