@@ -197,8 +197,8 @@
           ],
           "mark": {
             "type": "text",
-            "yOffset": -12,
-            "fontSize": 12,
+            "yOffset": -5,
+            "fontSize": 5,
             "fontWeight": "bold"
           },
           "encoding": {
