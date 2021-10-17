@@ -1,561 +1,561 @@
 year,region,country,Life_exp,GDP
-2000,Africa,Seychelles,71.8,"7,578.85"
-2000,Africa,Libya,78,"7,145.63"
-2000,Africa,Gabon,61,"4,116.47"
-2000,Africa,Mauritius,71,"3,861.32"
-2000,Africa,Botswana,47.8,"3,349.69"
-2000,Africa,Tunisia,72.9,"2,213.91"
-2000,Africa,Algeria,71.3,"1,757.18"
-2000,Americas,Canada,79.1,"24,124.17"
-2000,Americas,Barbados,73.3,"11,568.11"
-2000,Americas,Antigua and Barbuda,73.6,"9,875.16"
-2000,Americas,Argentina,74.1,"7,669.27"
-2000,Americas,Uruguay,75.1,"6,871.90"
-2000,Americas,Grenada,74,"5,117.59"
-2000,Americas,Brazil,75,"3,739.12"
-2000,Asia,Japan,81.1,"38,532.49"
-2000,Asia,Qatar,76.2,"29,986.29"
-2000,Asia,Singapore,78.3,"23,792.68"
-2000,Asia,Kuwait,73.2,"18,389.38"
-2000,Asia,Cyprus,78.1,"14,672.88"
-2000,Asia,Bahrain,74.5,"13,636.35"
-2000,Asia,Saudi Arabia,72.6,"9,126.95"
-2000,Europe,Luxembourg,77.8,"48,736.00"
-2000,Europe,Norway,78.5,"38,146.72"
-2000,Europe,Switzerland,79.7,"37,813.23"
-2000,Europe,Iceland,79.7,"31,813.37"
-2000,Europe,Sweden,79.6,"29,283.55"
-2000,Europe,Ireland,76.4,"26,241.92"
-2000,Europe,Netherlands,78.1,"25,921.13"
-2000,Oceania,New Zealand,78.6,"13,641.13"
-2000,Oceania,Australia,79.5,"2,169.92"
-2000,Oceania,Vanuatu,69,"1,469.85"
+2000,Africa,Seychelles,71.8,7578.85153
+2000,Africa,Libya,78,7145.628494
+2000,Africa,Gabon,61,4116.46693
+2000,Africa,Mauritius,71,3861.32414
+2000,Africa,Botswana,47.8,3349.68823
+2000,Africa,Tunisia,72.9,2213.91488
+2000,Africa,Algeria,71.3,1757.17797
+2000,Americas,Canada,79.1,24124.16917
+2000,Americas,Barbados,73.3,11568.1111
+2000,Americas,Antigua and Barbuda,73.6,9875.161736
+2000,Americas,Argentina,74.1,7669.273916
+2000,Americas,Uruguay,75.1,6871.897677
+2000,Americas,Grenada,74,5117.589923
+2000,Americas,Brazil,75,3739.11936
+2000,Asia,Japan,81.1,38532.488
+2000,Asia,Qatar,76.2,29986.2915
+2000,Asia,Singapore,78.3,23792.677
+2000,Asia,Kuwait,73.2,18389.38433
+2000,Asia,Cyprus,78.1,14672.8826
+2000,Asia,Bahrain,74.5,13636.34668
+2000,Asia,Saudi Arabia,72.6,9126.954277
+2000,Europe,Luxembourg,77.8,48735.99549
+2000,Europe,Norway,78.5,38146.71539
+2000,Europe,Switzerland,79.7,37813.23426
+2000,Europe,Iceland,79.7,31813.37344
+2000,Europe,Sweden,79.6,29283.55
+2000,Europe,Ireland,76.4,26241.91883
+2000,Europe,Netherlands,78.1,25921.12794
+2000,Oceania,New Zealand,78.6,13641.1272
+2000,Oceania,Australia,79.5,2169.921
+2000,Oceania,Vanuatu,69,1469.849149
 2000,Oceania,Kiribati,64.1,796.7937634
 2000,Oceania,Papua New Guinea,58.9,631.9468526
 2000,Oceania,Fiji,67.7,276.1338
 2000,Oceania,Tonga,71.6,263.27236
-2001,Africa,Seychelles,72,"7,663.14"
-2001,Africa,Libya,71,"6,269.58"
-2001,Africa,Gabon,59.8,"3,976.15"
-2001,Africa,Mauritius,71.5,"3,792.18"
-2001,Africa,Botswana,46.7,"3,128.98"
-2001,Africa,South Africa,56,"2,681.78"
-2001,Africa,Equatorial Guinea,53.1,"2,283.88"
-2001,Americas,Canada,79.4,"23,691.59"
-2001,Americas,Barbados,73.4,"11,513.87"
-2001,Americas,Antigua and Barbuda,73.8,"9,358.15"
-2001,Americas,Trinidad and Tobago,69.1,"6,935.72"
-2001,Americas,Uruguay,75.2,"6,281.38"
-2001,Americas,Chile,77.3,"4,595.67"
-2001,Americas,Costa Rica,77.5,"3,981.53"
-2001,Asia,Japan,81.5,"33,846.47"
-2001,Asia,Singapore,78.7,"21,577.78"
-2001,Asia,Brunei Darussalam,74.7,"16,468.13"
-2001,Asia,Bahrain,74.7,"12,868.21"
-2001,Asia,Saudi Arabia,72.8,"8,643.49"
-2001,Asia,Oman,72.9,"8,476.62"
-2001,Asia,Lebanon,73,"5,253.12"
-2001,Europe,Luxembourg,78,"48,179.43"
-2001,Europe,Norway,78.8,"38,549.59"
-2001,Europe,Switzerland,82,"38,538.64"
-2001,Europe,Iceland,80,"28,585.93"
-2001,Europe,Ireland,77,"28,223.56"
-2001,Europe,Sweden,79.8,"26,969.24"
-2001,Europe,Netherlands,78.3,"26,584.12"
-2001,Oceania,Australia,79.9,"19,517.84"
-2001,Oceania,New Zealand,78.5,"13,882.86"
-2001,Oceania,Tonga,71.8,"1,837.98"
-2001,Oceania,Samoa,75,"1,555.47"
-2001,Oceania,Vanuatu,69.1,"1,362.62"
+2001,Africa,Seychelles,72,7663.1378
+2001,Africa,Libya,71,6269.58123
+2001,Africa,Gabon,59.8,3976.14887
+2001,Africa,Mauritius,71.5,3792.182152
+2001,Africa,Botswana,46.7,3128.97793
+2001,Africa,South Africa,56,2681.781
+2001,Africa,Equatorial Guinea,53.1,2283.87939
+2001,Americas,Canada,79.4,23691.59472
+2001,Americas,Barbados,73.4,11513.87189
+2001,Americas,Antigua and Barbuda,73.8,9358.154162
+2001,Americas,Trinidad and Tobago,69.1,6935.721451
+2001,Americas,Uruguay,75.2,6281.37747
+2001,Americas,Chile,77.3,4595.666327
+2001,Americas,Costa Rica,77.5,3981.52847
+2001,Asia,Japan,81.5,33846.46564
+2001,Asia,Singapore,78.7,21577.7823
+2001,Asia,Brunei Darussalam,74.7,16468.12886
+2001,Asia,Bahrain,74.7,12868.211
+2001,Asia,Saudi Arabia,72.8,8643.4944
+2001,Asia,Oman,72.9,8476.61511
+2001,Asia,Lebanon,73,5253.122599
+2001,Europe,Luxembourg,78,48179.4285
+2001,Europe,Norway,78.8,38549.58934
+2001,Europe,Switzerland,82,38538.64447
+2001,Europe,Iceland,80,28585.9254
+2001,Europe,Ireland,77,28223.55528
+2001,Europe,Sweden,79.8,26969.24457
+2001,Europe,Netherlands,78.3,26584.12169
+2001,Oceania,Australia,79.9,19517.84168
+2001,Oceania,New Zealand,78.5,13882.85683
+2001,Oceania,Tonga,71.8,1837.977391
+2001,Oceania,Samoa,75,1555.47451
+2001,Oceania,Vanuatu,69.1,1362.61731
 2001,Oceania,Solomon Islands,66.2,944.81684
 2001,Oceania,Kiribati,64.3,734.9492461
-2002,Africa,Seychelles,72.1,"8,331.26"
-2002,Africa,Mauritius,71.5,"3,957.51"
-2002,Africa,Equatorial Guinea,53.5,"2,711.17"
-2002,Africa,South Africa,54.9,"2,518.40"
-2002,Africa,Tunisia,73.5,"2,346.59"
-2002,Africa,Algeria,71.6,"1,774.34"
-2002,Africa,Namibia,55.7,"1,713.48"
-2002,Americas,Canada,79.5,"24,167.84"
-2002,Americas,Barbados,73.5,"11,675.39"
-2002,Americas,Antigua and Barbuda,74,"9,386.72"
-2002,Americas,Grenada,79,"5,292.23"
-2002,Americas,Chile,77.8,"4,463.55"
-2002,Americas,Panama,75.7,"4,126.15"
-2002,Americas,Jamaica,73,"3,596.50"
-2002,Asia,Japan,81.8,"32,289.36"
-2002,Asia,United Arab Emirates,74.7,"31,311.36"
-2002,Asia,Israel,79.3,"18,431.16"
-2002,Asia,Kuwait,73.3,"17,789.42"
-2002,Asia,Brunei Darussalam,74.8,"16,846.22"
-2002,Asia,Cyprus,78.4,"16,372.29"
-2002,Asia,Saudi Arabia,72.9,"8,655.31"
-2002,Europe,Switzerland,84,"41,336.72"
-2002,Europe,Denmark,77,"33,228.69"
-2002,Europe,Ireland,77.4,"32,539.19"
-2002,Europe,Iceland,84,"31,996.22"
-2002,Europe,Sweden,79.9,"29,571.74"
-2002,Europe,Netherlands,78.4,"28,817.32"
-2002,Europe,Finland,78.1,"26,834.26"
-2002,Oceania,New Zealand,78.7,"16,874.31"
-2002,Oceania,Fiji,67.9,"2,259.56"
-2002,Oceania,Tonga,71.9,"1,842.44"
-2002,Oceania,Samoa,76,"1,631.42"
-2002,Oceania,Vanuatu,69.3,"1,353.93"
+2002,Africa,Seychelles,72.1,8331.261997
+2002,Africa,Mauritius,71.5,3957.51296
+2002,Africa,Equatorial Guinea,53.5,2711.17114
+2002,Africa,South Africa,54.9,2518.398261
+2002,Africa,Tunisia,73.5,2346.5937
+2002,Africa,Algeria,71.6,1774.33673
+2002,Africa,Namibia,55.7,1713.47594
+2002,Americas,Canada,79.5,24167.8431
+2002,Americas,Barbados,73.5,11675.39395
+2002,Americas,Antigua and Barbuda,74,9386.716452
+2002,Americas,Grenada,79,5292.232379
+2002,Americas,Chile,77.8,4463.545867
+2002,Americas,Panama,75.7,4126.14671
+2002,Americas,Jamaica,73,3596.496282
+2002,Asia,Japan,81.8,32289.3554
+2002,Asia,United Arab Emirates,74.7,31311.35936
+2002,Asia,Israel,79.3,18431.15696
+2002,Asia,Kuwait,73.3,17789.41981
+2002,Asia,Brunei Darussalam,74.8,16846.2198
+2002,Asia,Cyprus,78.4,16372.29152
+2002,Asia,Saudi Arabia,72.9,8655.311531
+2002,Europe,Switzerland,84,41336.72192
+2002,Europe,Denmark,77,33228.69291
+2002,Europe,Ireland,77.4,32539.1937
+2002,Europe,Iceland,84,31996.2172
+2002,Europe,Sweden,79.9,29571.7446
+2002,Europe,Netherlands,78.4,28817.32321
+2002,Europe,Finland,78.1,26834.2625
+2002,Oceania,New Zealand,78.7,16874.31232
+2002,Oceania,Fiji,67.9,2259.55796
+2002,Oceania,Tonga,71.9,1842.44421
+2002,Oceania,Samoa,76,1631.41727
+2002,Oceania,Vanuatu,69.3,1353.934819
 2002,Oceania,Kiribati,64.6,826.58554
 2002,Oceania,Solomon Islands,66.5,784.9562874
-2003,Africa,Seychelles,72.1,"8,524.96"
-2003,Africa,Gabon,59.7,"4,892.12"
-2003,Africa,Libya,71.3,"4,676.97"
-2003,Africa,Mauritius,71.5,"4,623.35"
-2003,Africa,Botswana,46.4,"4,163.66"
-2003,Africa,South Africa,54,"3,775.68"
-2003,Africa,Equatorial Guinea,53.8,"3,577.18"
-2003,Americas,Canada,79.7,"28,172.15"
-2003,Americas,Antigua and Barbuda,74.2,"9,739.83"
-2003,Americas,Mexico,75,"6,752.00"
-2003,Americas,Grenada,71.1,"5,773.74"
-2003,Americas,Chile,77.9,"4,787.70"
-2003,Americas,Panama,75.5,"4,267.14"
-2003,Americas,Costa Rica,78,"4,167.71"
-2003,Asia,Qatar,76.5,"34,176.98"
-2003,Asia,Singapore,79.3,"23,573.63"
-2003,Asia,Israel,79.7,"18,947.00"
-2003,Asia,Brunei Darussalam,76,"18,555.57"
-2003,Asia,Bahrain,75,"14,221.99"
-2003,Asia,Saudi Arabia,73,"9,567.46"
-2003,Asia,Lebanon,73.5,"5,425.67"
-2003,Europe,Luxembourg,78.6,"65,445.89"
-2003,Europe,Sweden,82,"36,961.43"
-2003,Europe,Netherlands,78.7,"35,245.16"
-2003,Europe,Finland,78.4,"32,816.17"
-2003,Europe,France,79.3,"29,691.18"
-2003,Europe,Italy,79.9,"27,387.23"
-2003,Europe,Spain,79.4,"21,495.77"
-2003,Oceania,Australia,83,"23,465.39"
-2003,Oceania,New Zealand,79.1,"21,913.78"
-2003,Oceania,Fiji,68,"2,835.97"
+2003,Africa,Seychelles,72.1,8524.961236
+2003,Africa,Gabon,59.7,4892.11618
+2003,Africa,Libya,71.3,4676.96753
+2003,Africa,Mauritius,71.5,4623.347642
+2003,Africa,Botswana,46.4,4163.6596
+2003,Africa,South Africa,54,3775.68275
+2003,Africa,Equatorial Guinea,53.8,3577.176197
+2003,Americas,Canada,79.7,28172.14883
+2003,Americas,Antigua and Barbuda,74.2,9739.82556
+2003,Americas,Mexico,75,6751.998987
+2003,Americas,Grenada,71.1,5773.73577
+2003,Americas,Chile,77.9,4787.699532
+2003,Americas,Panama,75.5,4267.13578
+2003,Americas,Costa Rica,78,4167.71417
+2003,Asia,Qatar,76.5,34176.98183
+2003,Asia,Singapore,79.3,23573.6284
+2003,Asia,Israel,79.7,18946.99942
+2003,Asia,Brunei Darussalam,76,18555.56649
+2003,Asia,Bahrain,75,14221.99259
+2003,Asia,Saudi Arabia,73,9567.458285
+2003,Asia,Lebanon,73.5,5425.6697
+2003,Europe,Luxembourg,78.6,65445.8853
+2003,Europe,Sweden,82,36961.42537
+2003,Europe,Netherlands,78.7,35245.1647
+2003,Europe,Finland,78.4,32816.1688
+2003,Europe,France,79.3,29691.18158
+2003,Europe,Italy,79.9,27387.2258
+2003,Europe,Spain,79.4,21495.7741
+2003,Oceania,Australia,83,23465.38559
+2003,Oceania,New Zealand,79.1,21913.7817
+2003,Oceania,Fiji,68,2835.973972
 2003,Oceania,Solomon Islands,66.8,744.7657423
 2003,Oceania,Papua New Guinea,59.6,588.3582595
 2003,Oceania,Tonga,72,229.714718
 2003,Oceania,Samoa,79,197.29417
-2004,Africa,Gabon,59.7,"5,685.58"
-2004,Africa,Mauritius,71.9,"5,229.88"
-2004,Africa,Botswana,48.1,"4,896.58"
-2004,Africa,South Africa,53.7,"4,863.52"
-2004,Africa,Namibia,54.7,"3,288.26"
-2004,Africa,Tunisia,74,"3,112.84"
-2004,Africa,Algeria,72.3,"2,598.98"
-2004,Americas,Canada,80,"31,979.87"
-2004,Americas,Barbados,73.8,"12,868.86"
-2004,Americas,Mexico,75.4,"7,199.60"
-2004,Americas,Grenada,73,"5,836.18"
-2004,Americas,Panama,75.8,"4,591.89"
-2004,Americas,Costa Rica,77.7,"4,425.57"
-2004,Americas,Argentina,74.7,"4,251.57"
-2004,Asia,Qatar,76.6,"41,818.35"
-2004,Asia,Japan,82.1,"37,688.72"
-2004,Asia,United Arab Emirates,75.1,"36,161.18"
-2004,Asia,Kuwait,73.5,"26,921.83"
-2004,Asia,Cyprus,78.6,"23,932.49"
-2004,Asia,Brunei Darussalam,76.4,"21,896.65"
-2004,Asia,Israel,81,"19,888.17"
-2004,Europe,Luxembourg,78.7,"75,716.35"
-2004,Europe,Switzerland,81,"53,255.98"
-2004,Europe,Ireland,78.3,"47,631.64"
-2004,Europe,Iceland,88,"46,917.27"
-2004,Europe,Denmark,77.7,"46,511.65"
-2004,Europe,Sweden,83,"42,442.22"
-2004,Europe,Netherlands,79.2,"39,954.64"
-2004,Oceania,Australia,86,"3,472.38"
-2004,Oceania,Fiji,68.1,"3,332.92"
-2004,Oceania,New Zealand,79.2,"2,542.40"
-2004,Oceania,Samoa,71.4,"2,351.34"
-2004,Oceania,Tonga,72.2,"2,284.38"
-2004,Oceania,Vanuatu,69.6,"1,787.95"
+2004,Africa,Gabon,59.7,5685.577736
+2004,Africa,Mauritius,71.9,5229.876738
+2004,Africa,Botswana,48.1,4896.583835
+2004,Africa,South Africa,53.7,4863.51688
+2004,Africa,Namibia,54.7,3288.257373
+2004,Africa,Tunisia,74,3112.83529
+2004,Africa,Algeria,72.3,2598.9823
+2004,Americas,Canada,80,31979.87195
+2004,Americas,Barbados,73.8,12868.8639
+2004,Americas,Mexico,75.4,7199.59665
+2004,Americas,Grenada,73,5836.17763
+2004,Americas,Panama,75.8,4591.892776
+2004,Americas,Costa Rica,77.7,4425.57467
+2004,Americas,Argentina,74.7,4251.574348
+2004,Asia,Qatar,76.6,41818.35256
+2004,Asia,Japan,82.1,37688.72234
+2004,Asia,United Arab Emirates,75.1,36161.1761
+2004,Asia,Kuwait,73.5,26921.8278
+2004,Asia,Cyprus,78.6,23932.49128
+2004,Asia,Brunei Darussalam,76.4,21896.6527
+2004,Asia,Israel,81,19888.172
+2004,Europe,Luxembourg,78.7,75716.3518
+2004,Europe,Switzerland,81,53255.97631
+2004,Europe,Ireland,78.3,47631.6377
+2004,Europe,Iceland,88,46917.27216
+2004,Europe,Denmark,77.7,46511.6457
+2004,Europe,Sweden,83,42442.2245
+2004,Europe,Netherlands,79.2,39954.64222
+2004,Oceania,Australia,86,3472.37977
+2004,Oceania,Fiji,68.1,3332.918533
+2004,Oceania,New Zealand,79.2,2542.39935
+2004,Oceania,Samoa,71.4,2351.33814
+2004,Oceania,Tonga,72.2,2284.37858
+2004,Oceania,Vanuatu,69.6,1787.94723
 2004,Oceania,Solomon Islands,67.1,818.442619
-2005,Africa,Libya,71.9,"8,171.36"
-2005,Africa,Gabon,65,"6,741.29"
-2005,Africa,South Africa,53.8,"5,414.63"
-2005,Africa,Botswana,51.7,"5,351.25"
-2005,Africa,Mauritius,72.1,"5,116.45"
-2005,Africa,Namibia,55.1,"3,573.15"
-2005,Africa,Tunisia,74.2,"3,194.56"
-2005,Americas,Canada,81,"36,189.59"
-2005,Americas,Barbados,73.9,"14,223.87"
-2005,Americas,Trinidad and Tobago,69.5,"12,323.13"
-2005,Americas,Antigua and Barbuda,74.6,"11,371.94"
-2005,Americas,Mexico,75.3,"7,986.80"
-2005,Americas,Chile,78.4,"7,615.35"
-2005,Americas,Grenada,71.5,"6,754.51"
-2005,Asia,Qatar,76.6,"51,488.50"
-2005,Asia,United Arab Emirates,75.3,"39,439.82"
-2005,Asia,Japan,82,"37,217.65"
-2005,Asia,Singapore,82,"29,869.85"
-2005,Asia,Cyprus,78.7,"25,324.49"
-2005,Asia,Bahrain,75.3,"17,959.18"
-2005,Asia,Saudi Arabia,73.1,"13,739.83"
-2005,Europe,Norway,81,"66,775.39"
-2005,Europe,Iceland,81,"56,249.76"
-2005,Europe,Switzerland,81.1,"54,797.55"
-2005,Europe,Denmark,78.1,"48,799.82"
-2005,Europe,Netherlands,79.4,"41,577.17"
-2005,Europe,Finland,78.9,"38,969.17"
-2005,Europe,Austria,79.4,"38,242.43"
-2005,Oceania,Fiji,68.3,"3,658.64"
-2005,Oceania,Australia,81,"3,416.71"
-2005,Oceania,New Zealand,79.9,"2,775.90"
-2005,Oceania,Tonga,72.3,"2,594.75"
-2005,Oceania,Samoa,71.6,"2,571.26"
-2005,Oceania,Vanuatu,69.9,"1,886.43"
-2005,Oceania,Kiribati,64.9,"1,214.56"
-2006,Africa,Equatorial Guinea,54.8,"12,732.28"
-2006,Africa,Libya,72.2,"9,344.99"
-2006,Africa,Mauritius,71.8,"5,695.97"
-2006,Africa,South Africa,54,"5,631.73"
-2006,Africa,Botswana,54.8,"5,374.55"
-2006,Africa,Namibia,57,"3,881.30"
-2006,Africa,Algeria,73.4,"3,464.62"
-2006,Americas,Barbados,74.1,"15,646.56"
-2006,Americas,Antigua and Barbuda,74.8,"12,724.39"
-2006,Americas,Chile,78.9,"9,484.68"
-2006,Americas,Mexico,75.8,"8,767.92"
-2006,Americas,Grenada,71.7,"6,764.72"
-2006,Americas,Argentina,75.2,"5,878.76"
-2006,Americas,Uruguay,76.2,"5,877.88"
-2006,Asia,Kuwait,73.6,"42,717.56"
-2006,Asia,United Arab Emirates,75.4,"42,372.22"
-2006,Asia,Japan,82.4,"35,433.99"
-2006,Asia,Singapore,87,"33,579.86"
-2006,Asia,Cyprus,78.8,"27,169.99"
-2006,Asia,Saudi Arabia,73.2,"15,334.67"
-2006,Asia,Qatar,76.6,"6,256.56"
-2006,Europe,Luxembourg,79.4,"89,739.71"
-2006,Europe,Norway,84,"74,114.70"
-2006,Europe,Switzerland,81.5,"57,348.93"
-2006,Europe,Ireland,79,"54,326.97"
-2006,Europe,Sweden,88,"46,256.47"
-2006,Europe,Netherlands,79.8,"44,453.97"
-2006,Europe,Belgium,79.4,"38,852.36"
-2006,Oceania,Australia,81.2,"36,118.28"
-2006,Oceania,Fiji,68.5,"3,749.94"
-2006,Oceania,Tonga,72.4,"2,892.52"
-2006,Oceania,New Zealand,79.9,"2,667.86"
-2006,Oceania,Kiribati,65,"1,151.56"
+2005,Africa,Libya,71.9,8171.361651
+2005,Africa,Gabon,65,6741.293948
+2005,Africa,South Africa,53.8,5414.634326
+2005,Africa,Botswana,51.7,5351.253732
+2005,Africa,Mauritius,72.1,5116.45424
+2005,Africa,Namibia,55.1,3573.146387
+2005,Africa,Tunisia,74.2,3194.562243
+2005,Americas,Canada,81,36189.58838
+2005,Americas,Barbados,73.9,14223.86576
+2005,Americas,Trinidad and Tobago,69.5,12323.1275
+2005,Americas,Antigua and Barbuda,74.6,11371.93895
+2005,Americas,Mexico,75.3,7986.798439
+2005,Americas,Chile,78.4,7615.3468
+2005,Americas,Grenada,71.5,6754.512393
+2005,Asia,Qatar,76.6,51488.49529
+2005,Asia,United Arab Emirates,75.3,39439.8197
+2005,Asia,Japan,82,37217.64873
+2005,Asia,Singapore,82,29869.85398
+2005,Asia,Cyprus,78.7,25324.48666
+2005,Asia,Bahrain,75.3,17959.17854
+2005,Asia,Saudi Arabia,73.1,13739.82945
+2005,Europe,Norway,81,66775.3944
+2005,Europe,Iceland,81,56249.7555
+2005,Europe,Switzerland,81.1,54797.54663
+2005,Europe,Denmark,78.1,48799.8237
+2005,Europe,Netherlands,79.4,41577.169
+2005,Europe,Finland,78.9,38969.17163
+2005,Europe,Austria,79.4,38242.4252
+2005,Oceania,Fiji,68.3,3658.63832
+2005,Oceania,Australia,81,3416.71483
+2005,Oceania,New Zealand,79.9,2775.89515
+2005,Oceania,Tonga,72.3,2594.74999
+2005,Oceania,Samoa,71.6,2571.262348
+2005,Oceania,Vanuatu,69.9,1886.433359
+2005,Oceania,Kiribati,64.9,1214.556667
+2006,Africa,Equatorial Guinea,54.8,12732.2759
+2006,Africa,Libya,72.2,9344.987518
+2006,Africa,Mauritius,71.8,5695.969327
+2006,Africa,South Africa,54,5631.73485
+2006,Africa,Botswana,54.8,5374.554867
+2006,Africa,Namibia,57,3881.29535
+2006,Africa,Algeria,73.4,3464.6179
+2006,Americas,Barbados,74.1,15646.5591
+2006,Americas,Antigua and Barbuda,74.8,12724.39377
+2006,Americas,Chile,78.9,9484.681227
+2006,Americas,Mexico,75.8,8767.92258
+2006,Americas,Grenada,71.7,6764.722867
+2006,Americas,Argentina,75.2,5878.76127
+2006,Americas,Uruguay,76.2,5877.87678
+2006,Asia,Kuwait,73.6,42717.55725
+2006,Asia,United Arab Emirates,75.4,42372.22166
+2006,Asia,Japan,82.4,35433.98896
+2006,Asia,Singapore,87,33579.85948
+2006,Asia,Cyprus,78.8,27169.99256
+2006,Asia,Saudi Arabia,73.2,15334.66994
+2006,Asia,Qatar,76.6,6256.55926
+2006,Europe,Luxembourg,79.4,89739.7117
+2006,Europe,Norway,84,74114.69715
+2006,Europe,Switzerland,81.5,57348.92788
+2006,Europe,Ireland,79,54326.9713
+2006,Europe,Sweden,88,46256.4716
+2006,Europe,Netherlands,79.8,44453.97119
+2006,Europe,Belgium,79.4,38852.3613
+2006,Oceania,Australia,81.2,36118.28381
+2006,Oceania,Fiji,68.5,3749.939813
+2006,Oceania,Tonga,72.4,2892.522663
+2006,Oceania,New Zealand,79.9,2667.86452
+2006,Oceania,Kiribati,65,1151.555618
 2006,Oceania,Solomon Islands,67.6,948.6592511
 2006,Oceania,Papua New Guinea,68,854.346921
-2007,Africa,Equatorial Guinea,55,"15,761.84"
-2007,Africa,Seychelles,72.2,"12,154.83"
-2007,Africa,Gabon,61.6,"8,352.82"
-2007,Africa,Mauritius,72.9,"6,574.65"
-2007,Africa,South Africa,54.5,"6,125.40"
-2007,Africa,Botswana,56.9,"5,714.48"
-2007,Africa,Algeria,73.8,"3,935.18"
-2007,Americas,Canada,85,"44,544.53"
-2007,Americas,Barbados,74.2,"16,462.49"
-2007,Americas,Antigua and Barbuda,75,"14,252.29"
-2007,Americas,Grenada,71.9,"7,322.60"
-2007,Americas,Brazil,73.3,"7,313.56"
-2007,Americas,Argentina,74.8,"7,193.62"
-2007,Americas,Suriname,69.5,"5,761.40"
-2007,Asia,Kuwait,73.7,"45,793.98"
-2007,Asia,United Arab Emirates,75.6,"42,672.61"
-2007,Asia,Singapore,81.1,"39,223.58"
-2007,Asia,Japan,82.6,"35,275.23"
-2007,Asia,Brunei Darussalam,76,"32,672.37"
-2007,Asia,Cyprus,78.9,"31,386.63"
-2007,Asia,Saudi Arabia,73.2,"16,472.17"
-2007,Europe,Norway,85,"85,128.66"
-2007,Europe,Iceland,81.3,"68,348.32"
-2007,Europe,Switzerland,81.7,"63,223.47"
-2007,Europe,Ireland,79.5,"61,388.17"
-2007,Europe,Denmark,78.4,"58,487.45"
-2007,Europe,Sweden,89,"53,324.38"
-2007,Europe,Netherlands,82,"51,241.32"
-2007,Oceania,Australia,81.3,"4,991.98"
-2007,Oceania,New Zealand,81,"3,259.73"
-2007,Oceania,Tonga,72.5,"2,932.32"
-2007,Oceania,Vanuatu,73,"2,393.37"
-2007,Oceania,Kiribati,65,"1,357.63"
+2007,Africa,Equatorial Guinea,55,15761.83913
+2007,Africa,Seychelles,72.2,12154.82994
+2007,Africa,Gabon,61.6,8352.81711
+2007,Africa,Mauritius,72.9,6574.654338
+2007,Africa,South Africa,54.5,6125.39984
+2007,Africa,Botswana,56.9,5714.47937
+2007,Africa,Algeria,73.8,3935.183343
+2007,Americas,Canada,85,44544.5268
+2007,Americas,Barbados,74.2,16462.48556
+2007,Americas,Antigua and Barbuda,75,14252.29452
+2007,Americas,Grenada,71.9,7322.596862
+2007,Americas,Brazil,73.3,7313.557962
+2007,Americas,Argentina,74.8,7193.61764
+2007,Americas,Suriname,69.5,5761.39536
+2007,Asia,Kuwait,73.7,45793.97614
+2007,Asia,United Arab Emirates,75.6,42672.61323
+2007,Asia,Singapore,81.1,39223.58187
+2007,Asia,Japan,82.6,35275.22843
+2007,Asia,Brunei Darussalam,76,32672.36717
+2007,Asia,Cyprus,78.9,31386.63265
+2007,Asia,Saudi Arabia,73.2,16472.1665
+2007,Europe,Norway,85,85128.65759
+2007,Europe,Iceland,81.3,68348.31817
+2007,Europe,Switzerland,81.7,63223.46778
+2007,Europe,Ireland,79.5,61388.17457
+2007,Europe,Denmark,78.4,58487.451
+2007,Europe,Sweden,89,53324.37937
+2007,Europe,Netherlands,82,51241.31562
+2007,Oceania,Australia,81.3,4991.98289
+2007,Oceania,New Zealand,81,3259.73471
+2007,Oceania,Tonga,72.5,2932.315883
+2007,Oceania,Vanuatu,73,2393.367265
+2007,Oceania,Kiribati,65,1357.632211
 2007,Oceania,Papua New Guinea,61.1,956.668952
 2007,Oceania,Fiji,68.6,478.82327
-2008,Africa,Equatorial Guinea,55.4,"22,742.38"
-2008,Africa,Libya,72.6,"14,396.49"
-2008,Africa,Seychelles,72.2,"11,122.86"
-2008,Africa,South Africa,55.3,"5,786.60"
-2008,Africa,Botswana,57.5,"5,623.38"
-2008,Africa,Angola,48.7,"3,868.58"
-2008,Africa,Cabo Verde,72.4,"3,638.96"
-2008,Americas,Canada,87,"46,596.34"
-2008,Americas,Trinidad and Tobago,69.9,"21,188.12"
-2008,Americas,Mexico,75.6,"9,689.53"
-2008,Americas,Argentina,75.4,"8,953.36"
-2008,Americas,Brazil,73.4,"8,787.61"
-2008,Americas,Grenada,72.1,"7,946.94"
-2008,Americas,Panama,76.5,"6,973.93"
-2008,Asia,Qatar,76.8,"82,967.37"
-2008,Asia,Kuwait,73.8,"55,572.00"
-2008,Asia,United Arab Emirates,75.8,"45,758.96"
-2008,Asia,Singapore,81.4,"39,721.48"
-2008,Asia,Japan,82.7,"39,339.30"
-2008,Asia,Brunei Darussalam,77.2,"37,951.29"
-2008,Asia,Israel,81,"29,657.44"
-2008,Europe,Luxembourg,80,"114,293.84"
-2008,Europe,Switzerland,82,"72,119.57"
-2008,Europe,Denmark,78.8,"64,322.67"
-2008,Europe,Ireland,79.8,"61,235.42"
-2008,Europe,Netherlands,83,"56,928.82"
-2008,Europe,Sweden,81.1,"55,746.84"
-2008,Europe,Iceland,81.4,"55,575.29"
-2008,Oceania,Australia,81.3,"49,664.69"
-2008,Oceania,New Zealand,81,"31,287.78"
-2008,Oceania,Fiji,68.7,"4,177.66"
-2008,Oceania,Tonga,72.6,"3,392.65"
-2008,Oceania,Vanuatu,75,"2,697.96"
-2008,Oceania,Kiribati,65.1,"1,413.32"
-2008,Oceania,Papua New Guinea,61.4,"1,178.72"
-2009,Africa,Mauritius,72.8,"7,318.13"
-2009,Africa,South Africa,56.5,"5,888.63"
-2009,Africa,Botswana,59.2,"5,185.73"
-2009,Africa,Namibia,62.4,"4,153.50"
-2009,Africa,Tunisia,74.7,"4,129.98"
-2009,Africa,Algeria,74.4,"3,868.83"
-2009,Africa,Cabo Verde,72.4,"3,444.56"
-2009,Americas,Barbados,74.6,"16,523.32"
-2009,Americas,Uruguay,76.6,"9,415.17"
-2009,Americas,Brazil,73.6,"8,553.38"
-2009,Americas,Argentina,75.6,"8,161.37"
-2009,Americas,Mexico,75.7,"7,748.12"
-2009,Americas,Suriname,70,"7,443.85"
-2009,Americas,Panama,76.8,"7,429.63"
-2009,Asia,Qatar,77,"61,478.24"
-2009,Asia,Singapore,81.7,"38,577.56"
-2009,Asia,Kuwait,73.9,"37,567.31"
-2009,Asia,Brunei Darussalam,76.8,"27,965.48"
-2009,Asia,Israel,81.5,"27,795.88"
-2009,Asia,Bahrain,76,"19,356.67"
-2009,Asia,Oman,75.4,"16,784.35"
-2009,Europe,Switzerland,82.1,"69,672.47"
-2009,Europe,Denmark,78.9,"58,163.29"
-2009,Europe,Ireland,79.7,"51,983.79"
-2009,Europe,Austria,82,"47,654.19"
-2009,Europe,Germany,80,"41,732.77"
-2009,Europe,France,81.1,"41,631.13"
-2009,Europe,Italy,81.6,"36,976.85"
-2009,Oceania,Australia,81.7,"42,743.00"
-2009,Oceania,Fiji,68.9,"3,369.48"
-2009,Oceania,Vanuatu,78,"2,643.44"
-2009,Oceania,Kiribati,65.2,"1,297.29"
-2009,Oceania,Papua New Guinea,61.6,"1,166.66"
-2009,Oceania,Solomon Islands,68.1,"1,158.28"
+2008,Africa,Equatorial Guinea,55.4,22742.38159
+2008,Africa,Libya,72.6,14396.4865
+2008,Africa,Seychelles,72.2,11122.8627
+2008,Africa,South Africa,55.3,5786.59972
+2008,Africa,Botswana,57.5,5623.379566
+2008,Africa,Angola,48.7,3868.578883
+2008,Africa,Cabo Verde,72.4,3638.95946
+2008,Americas,Canada,87,46596.33599
+2008,Americas,Trinidad and Tobago,69.9,21188.11857
+2008,Americas,Mexico,75.6,9689.52887
+2008,Americas,Argentina,75.4,8953.359275
+2008,Americas,Brazil,73.4,8787.61375
+2008,Americas,Grenada,72.1,7946.944346
+2008,Americas,Panama,76.5,6973.9284
+2008,Asia,Qatar,76.8,82967.37228
+2008,Asia,Kuwait,73.8,55571.9986
+2008,Asia,United Arab Emirates,75.8,45758.9554
+2008,Asia,Singapore,81.4,39721.4818
+2008,Asia,Japan,82.7,39339.29757
+2008,Asia,Brunei Darussalam,77.2,37951.286
+2008,Asia,Israel,81,29657.4421
+2008,Europe,Luxembourg,80,114293.8433
+2008,Europe,Switzerland,82,72119.5687
+2008,Europe,Denmark,78.8,64322.6664
+2008,Europe,Ireland,79.8,61235.415
+2008,Europe,Netherlands,83,56928.8248
+2008,Europe,Sweden,81.1,55746.84238
+2008,Europe,Iceland,81.4,55575.29196
+2008,Oceania,Australia,81.3,49664.6854
+2008,Oceania,New Zealand,81,31287.77865
+2008,Oceania,Fiji,68.7,4177.657789
+2008,Oceania,Tonga,72.6,3392.64743
+2008,Oceania,Vanuatu,75,2697.961375
+2008,Oceania,Kiribati,65.1,1413.3234
+2008,Oceania,Papua New Guinea,61.4,1178.72469
+2009,Africa,Mauritius,72.8,7318.12641
+2009,Africa,South Africa,56.5,5888.6284
+2009,Africa,Botswana,59.2,5185.729845
+2009,Africa,Namibia,62.4,4153.497885
+2009,Africa,Tunisia,74.7,4129.977335
+2009,Africa,Algeria,74.4,3868.83123
+2009,Africa,Cabo Verde,72.4,3444.5566
+2009,Americas,Barbados,74.6,16523.32388
+2009,Americas,Uruguay,76.6,9415.17386
+2009,Americas,Brazil,73.6,8553.3847
+2009,Americas,Argentina,75.6,8161.36966
+2009,Americas,Mexico,75.7,7748.12331
+2009,Americas,Suriname,70,7443.85178
+2009,Americas,Panama,76.8,7429.628274
+2009,Asia,Qatar,77,61478.23813
+2009,Asia,Singapore,81.7,38577.55822
+2009,Asia,Kuwait,73.9,37567.3121
+2009,Asia,Brunei Darussalam,76.8,27965.4754
+2009,Asia,Israel,81.5,27795.87671
+2009,Asia,Bahrain,76,19356.67236
+2009,Asia,Oman,75.4,16784.34616
+2009,Europe,Switzerland,82.1,69672.471
+2009,Europe,Denmark,78.9,58163.29359
+2009,Europe,Ireland,79.7,51983.78892
+2009,Europe,Austria,82,47654.18721
+2009,Europe,Germany,80,41732.7725
+2009,Europe,France,81.1,41631.13141
+2009,Europe,Italy,81.6,36976.84512
+2009,Oceania,Australia,81.7,42742.99898
+2009,Oceania,Fiji,68.9,3369.48247
+2009,Oceania,Vanuatu,78,2643.441423
+2009,Oceania,Kiribati,65.2,1297.285141
+2009,Oceania,Papua New Guinea,61.6,1166.66337
+2009,Oceania,Solomon Islands,68.1,1158.282672
 2009,Oceania,Samoa,76,335.112838
-2010,Africa,Equatorial Guinea,56.1,"17,136.45"
-2010,Africa,Gabon,62.3,"8,754.11"
-2010,Africa,South Africa,58,"7,362.76"
-2010,Africa,Botswana,61.1,"6,346.16"
-2010,Africa,Namibia,63,"5,191.58"
-2010,Africa,Algeria,74.7,"4,463.39"
-2010,Africa,Angola,49.6,"3,529.53"
-2010,Americas,Canada,81.2,"47,447.48"
-2010,Americas,Trinidad and Tobago,74,"16,683.95"
-2010,Americas,Antigua and Barbuda,75.6,"12,126.88"
-2010,Americas,Uruguay,76.3,"11,938.21"
-2010,Americas,Brazil,73.8,"11,224.15"
-2010,Americas,Mexico,75.6,"8,959.58"
-2010,Americas,Costa Rica,78.1,"8,199.41"
-2010,Asia,Singapore,82,"46,569.68"
-2010,Asia,Kuwait,74,"38,497.62"
-2010,Asia,Brunei Darussalam,76.9,"35,268.11"
-2010,Asia,Saudi Arabia,73.7,"19,259.59"
-2010,Asia,Lebanon,74.9,"8,763.83"
-2010,Asia,Azerbaijan,71.1,"5,842.86"
-2010,Asia,Japan,83,"4,457.68"
-2010,Europe,Norway,81,"87,646.75"
-2010,Europe,Switzerland,82.3,"74,276.72"
-2010,Europe,Ireland,86,"48,538.59"
-2010,Europe,Austria,84,"46,657.63"
-2010,Europe,Germany,81,"41,785.56"
-2010,Europe,Iceland,81.8,"41,676.45"
-2010,Europe,Italy,81.8,"35,849.37"
-2010,Oceania,Australia,81.9,"51,874.85"
-2010,Oceania,New Zealand,89,"33,691.35"
-2010,Oceania,Fiji,69.1,"3,651.97"
-2010,Oceania,Tonga,72.8,"3,547.60"
-2010,Oceania,Samoa,72.6,"3,453.49"
-2010,Oceania,Vanuatu,71,"2,965.82"
-2010,Oceania,Kiribati,65.3,"1,493.17"
-2011,Africa,Equatorial Guinea,56.2,"21,451.89"
-2011,Africa,Seychelles,72.6,"12,189.95"
-2011,Africa,Mauritius,73.6,"9,197.27"
-2011,Africa,Botswana,62.2,"7,645.21"
-2011,Africa,Algeria,74.9,"5,432.25"
-2011,Africa,Angola,51,"4,299.13"
-2011,Africa,Tunisia,74.8,"4,256.91"
-2011,Americas,Barbados,74.9,"15,534.16"
-2011,Americas,Uruguay,77,"14,166.50"
-2011,Americas,Brazil,74.1,"13,167.47"
-2011,Americas,Argentina,75.7,"12,726.98"
-2011,Americas,Antigua and Barbuda,75.7,"11,929.35"
-2011,Americas,Mexico,76.1,"9,834.47"
-2011,Americas,Costa Rica,79,"9,186.60"
-2011,Asia,Qatar,77.5,"85,948.75"
-2011,Asia,Singapore,82.2,"53,166.68"
-2011,Asia,Kuwait,74.2,"48,268.59"
-2011,Asia,Japan,82.5,"48,168.00"
-2011,Asia,Israel,81.8,"33,657.16"
-2011,Asia,Cyprus,79.7,"32,233.84"
-2011,Asia,Kazakhstan,68.5,"11,634.42"
-2011,Europe,Luxembourg,88,"115,761.58"
-2011,Europe,Switzerland,82.6,"87,998.44"
-2011,Europe,Denmark,79.7,"61,753.67"
-2011,Europe,Sweden,81.7,"59,593.29"
-2011,Europe,Ireland,84,"52,567.53"
-2011,Europe,Austria,88,"51,126.74"
-2011,Europe,Italy,82,"38,334.68"
-2011,Oceania,Australia,82,"62,245.13"
-2011,Oceania,New Zealand,86,"38,426.56"
-2011,Oceania,Fiji,69.2,"4,353.12"
-2011,Oceania,Samoa,73,"3,942.98"
-2011,Oceania,Vanuatu,71.2,"3,275.92"
-2011,Oceania,Kiribati,65.5,"1,692.61"
-2011,Oceania,Solomon Islands,68.5,"1,642.84"
-2012,Africa,Equatorial Guinea,56.7,"21,557.65"
-2012,Africa,Seychelles,72.7,"12,845.17"
-2012,Africa,Gabon,63.5,"9,774.18"
-2012,Africa,Mauritius,73.9,"9,291.23"
-2012,Africa,South Africa,59.2,"7,548.16"
-2012,Africa,Namibia,65.8,"5,749.45"
-2012,Africa,Algeria,75.1,"5,564.83"
-2012,Americas,Canada,81.6,"52,496.69"
-2012,Americas,Trinidad and Tobago,78,"19,152.53"
-2012,Americas,Chile,79.9,"15,431.93"
-2012,Americas,Barbados,75.1,"15,384.87"
-2012,Americas,Argentina,75.9,"12,969.77"
-2012,Americas,Antigua and Barbuda,75.9,"12,565.44"
-2012,Americas,Brazil,74.5,"12,291.47"
-2012,Asia,Qatar,77.8,"88,564.82"
-2012,Asia,Singapore,82.5,"54,431.16"
-2012,Asia,Kuwait,74.3,"51,264.71"
-2012,Asia,Brunei Darussalam,78.3,"47,651.26"
-2012,Asia,United Arab Emirates,76.5,"42,112.24"
-2012,Asia,Israel,81.8,"32,569.60"
-2012,Asia,Cyprus,80,"28,951.16"
-2012,Europe,Switzerland,82.7,"83,164.39"
-2012,Europe,Sweden,81.7,"57,134.78"
-2012,Europe,Netherlands,81.1,"49,474.76"
-2012,Europe,Ireland,85,"49,231.36"
-2012,Europe,Austria,88,"48,333.57"
-2012,Europe,Finland,84,"47,415.56"
-2012,Europe,Iceland,82.5,"44,333.85"
-2012,Oceania,Australia,82.3,"67,677.63"
-2012,Oceania,Fiji,69.4,"4,546.74"
-2012,Oceania,Samoa,73.2,"4,234.55"
-2012,Oceania,New Zealand,81.1,"3,997.26"
-2012,Oceania,Vanuatu,71.4,"3,158.59"
-2012,Oceania,Solomon Islands,68.7,"1,858.69"
-2012,Oceania,Kiribati,65.7,"1,763.82"
-2013,Africa,Seychelles,72.9,"15,687.35"
-2013,Africa,Gabon,64.6,"9,679.74"
-2013,Africa,Mauritius,74.1,"9,637.27"
-2013,Africa,South Africa,69,"6,876.95"
-2013,Africa,Namibia,66.1,"5,488.13"
-2013,Africa,Algeria,75.3,"5,471.87"
-2013,Africa,Tunisia,74.9,"4,199.47"
-2013,Americas,Canada,81.8,"52,413.72"
-2013,Americas,Uruguay,76.8,"16,881.26"
-2013,Americas,Chile,81,"15,941.40"
-2013,Americas,Barbados,75.2,"15,472.78"
-2013,Americas,Argentina,76,"12,976.64"
-2013,Americas,Antigua and Barbuda,76.1,"12,224.86"
-2013,Americas,Brazil,74.7,"12,216.94"
-2013,Asia,Kuwait,74.5,"48,399.96"
-2013,Asia,Brunei Darussalam,77.1,"44,597.28"
-2013,Asia,Israel,82.1,"36,393.67"
-2013,Asia,Saudi Arabia,74.3,"24,934.39"
-2013,Asia,Oman,76.2,"21,268.76"
-2013,Asia,Turkey,75.2,"12,542.94"
-2013,Asia,Qatar,77.9,"8,834.88"
-2013,Europe,Luxembourg,81.4,"113,751.85"
-2013,Europe,Switzerland,83,"84,658.89"
-2013,Europe,Denmark,81,"61,191.19"
-2013,Europe,Netherlands,81.4,"51,574.49"
-2013,Europe,Finland,87,"49,638.77"
-2013,Europe,France,82,"42,554.12"
-2013,Europe,Greece,86,"21,874.82"
-2013,Oceania,Australia,82.5,"67,792.34"
-2013,Oceania,New Zealand,81.3,"42,889.88"
-2013,Oceania,Fiji,69.6,"4,763.69"
-2013,Oceania,Tonga,73.2,"4,266.56"
-2013,Oceania,Samoa,73.6,"4,219.65"
-2013,Oceania,Marshall Islands,,"3,617.75"
-2013,Oceania,Tuvalu,,"3,542.14"
-2014,Africa,Gabon,65.5,"9,692.16"
-2014,Africa,Botswana,65.1,"7,497.76"
-2014,Africa,South Africa,62,"6,479.63"
-2014,Africa,Namibia,65.9,"5,421.34"
-2014,Africa,Tunisia,75.1,"4,271.68"
-2014,Africa,Cabo Verde,73,"3,529.62"
-2014,Africa,Nigeria,53.6,"3,221.68"
-2014,Americas,Trinidad and Tobago,71.1,"19,325.24"
-2014,Americas,Uruguay,76.8,"16,737.90"
-2014,Americas,Barbados,75.4,"15,359.67"
-2014,Americas,Chile,83,"14,817.38"
-2014,Americas,Antigua and Barbuda,76.2,"12,888.30"
-2014,Americas,Panama,77.6,"12,593.74"
-2014,Americas,Argentina,76.2,"12,245.26"
-2014,Asia,Qatar,78.1,"86,852.71"
-2014,Asia,Singapore,82.9,"56,336.72"
-2014,Asia,United Arab Emirates,76.9,"44,449.74"
-2014,Asia,Kuwait,74.6,"42,996.48"
-2014,Asia,Israel,82.2,"37,582.85"
-2014,Asia,Bahrain,76.8,"24,983.38"
-2014,Asia,Saudi Arabia,74.4,"24,575.43"
-2014,Europe,Luxembourg,81.7,"119,172.74"
-2014,Europe,Switzerland,83.2,"85,814.59"
-2014,Europe,Denmark,84,"62,425.54"
-2014,Europe,Iceland,82.5,"52,473.11"
-2014,Europe,Netherlands,81.7,"52,157.47"
-2014,Europe,Austria,81.4,"51,322.64"
-2014,Europe,Finland,89,"49,914.62"
-2014,Oceania,Australia,82.7,"62,214.69"
-2014,Oceania,New Zealand,81.5,"4,453.25"
-2014,Oceania,Tonga,73.3,"4,192.35"
-2014,Oceania,Samoa,73.8,"4,178.97"
-2014,Oceania,Vanuatu,71.7,"3,148.37"
-2014,Oceania,Papua New Guinea,62.7,"2,182.72"
-2014,Oceania,Kiribati,66.1,"1,684.54"
-2015,Africa,Mauritius,74.6,"9,252.12"
-2015,Africa,Gabon,66,"7,388.98"
-2015,Africa,Botswana,65.7,"6,532.65"
-2015,Africa,South Africa,62.9,"5,769.77"
-2015,Africa,Namibia,65.8,"4,737.67"
-2015,Africa,Algeria,75.6,"4,132.76"
-2015,Africa,Tunisia,75.3,"3,828.92"
-2015,Americas,Canada,82.2,"43,315.74"
-2015,Americas,Trinidad and Tobago,71.2,"17,321.83"
-2015,Americas,Barbados,75.5,"15,557.84"
-2015,Americas,Uruguay,77,"15,524.84"
-2015,Americas,Chile,85,"13,653.23"
-2015,Americas,Antigua and Barbuda,76.4,"13,566.95"
-2015,Americas,Argentina,76.3,"13,467.12"
-2015,Asia,Qatar,78.2,"66,346.52"
-2015,Asia,Singapore,83.1,"53,629.74"
-2015,Asia,Israel,82.5,"35,729.37"
-2015,Asia,Japan,83.7,"34,474.14"
-2015,Asia,Kuwait,74.7,"28,975.42"
-2015,Asia,Bahrain,76.9,"22,688.88"
-2015,Asia,Oman,76.6,"16,627.36"
-2015,Europe,Netherlands,81.9,"44,292.88"
-2015,Europe,Austria,81.5,"43,665.95"
-2015,Europe,Germany,81,"41,176.88"
-2015,Europe,France,82.4,"36,526.77"
-2015,Europe,Spain,82.8,"25,683.85"
-2015,Europe,Malta,81.7,"23,819.46"
-2015,Europe,Lithuania,73.6,"14,252.43"
-2015,Oceania,Australia,82.8,"56,554.39"
-2015,Oceania,Fiji,69.9,"4,921.90"
-2015,Oceania,Samoa,74,"4,149.36"
-2015,Oceania,New Zealand,81.6,"3,821.89"
-2015,Oceania,Solomon Islands,69.2,"1,922.41"
-2015,Oceania,Kiribati,66.3,"1,424.48"
+2010,Africa,Equatorial Guinea,56.1,17136.44568
+2010,Africa,Gabon,62.3,8754.113376
+2010,Africa,South Africa,58,7362.76139
+2010,Africa,Botswana,61.1,6346.15624
+2010,Africa,Namibia,63,5191.58381
+2010,Africa,Algeria,74.7,4463.394675
+2010,Africa,Angola,49.6,3529.53482
+2010,Americas,Canada,81.2,47447.4762
+2010,Americas,Trinidad and Tobago,74,16683.94578
+2010,Americas,Antigua and Barbuda,75.6,12126.87614
+2010,Americas,Uruguay,76.3,11938.212
+2010,Americas,Brazil,73.8,11224.1548
+2010,Americas,Mexico,75.6,8959.581416
+2010,Americas,Costa Rica,78.1,8199.414621
+2010,Asia,Singapore,82,46569.67951
+2010,Asia,Kuwait,74,38497.61696
+2010,Asia,Brunei Darussalam,76.9,35268.1117
+2010,Asia,Saudi Arabia,73.7,19259.58726
+2010,Asia,Lebanon,74.9,8763.826274
+2010,Asia,Azerbaijan,71.1,5842.85784
+2010,Asia,Japan,83,4457.67639
+2010,Europe,Norway,81,87646.75346
+2010,Europe,Switzerland,82.3,74276.71842
+2010,Europe,Ireland,86,48538.58776
+2010,Europe,Austria,84,46657.629
+2010,Europe,Germany,81,41785.55691
+2010,Europe,Iceland,81.8,41676.44527
+2010,Europe,Italy,81.8,35849.37364
+2010,Oceania,Australia,81.9,51874.848
+2010,Oceania,New Zealand,89,33691.34837
+2010,Oceania,Fiji,69.1,3651.966784
+2010,Oceania,Tonga,72.8,3547.59975
+2010,Oceania,Samoa,72.6,3453.487434
+2010,Oceania,Vanuatu,71,2965.82434
+2010,Oceania,Kiribati,65.3,1493.1651
+2011,Africa,Equatorial Guinea,56.2,21451.88617
+2011,Africa,Seychelles,72.6,12189.9516
+2011,Africa,Mauritius,73.6,9197.26972
+2011,Africa,Botswana,62.2,7645.21469
+2011,Africa,Algeria,74.9,5432.2523
+2011,Africa,Angola,51,4299.12889
+2011,Africa,Tunisia,74.8,4256.91279
+2011,Americas,Barbados,74.9,15534.1574
+2011,Americas,Uruguay,77,14166.4998
+2011,Americas,Brazil,74.1,13167.47289
+2011,Americas,Argentina,75.7,12726.9836
+2011,Americas,Antigua and Barbuda,75.7,11929.34991
+2011,Americas,Mexico,76.1,9834.472689
+2011,Americas,Costa Rica,79,9186.59639
+2011,Asia,Qatar,77.5,85948.746
+2011,Asia,Singapore,82.2,53166.67581
+2011,Asia,Kuwait,74.2,48268.5912
+2011,Asia,Japan,82.5,48167.99727
+2011,Asia,Israel,81.8,33657.15727
+2011,Asia,Cyprus,79.7,32233.83942
+2011,Asia,Kazakhstan,68.5,11634.42422
+2011,Europe,Luxembourg,88,115761.577
+2011,Europe,Switzerland,82.6,87998.44468
+2011,Europe,Denmark,79.7,61753.667
+2011,Europe,Sweden,81.7,59593.28711
+2011,Europe,Ireland,84,52567.52568
+2011,Europe,Austria,88,51126.74139
+2011,Europe,Italy,82,38334.68477
+2011,Oceania,Australia,82,62245.129
+2011,Oceania,New Zealand,86,38426.5581
+2011,Oceania,Fiji,69.2,4353.121392
+2011,Oceania,Samoa,73,3942.9827
+2011,Oceania,Vanuatu,71.2,3275.91684
+2011,Oceania,Kiribati,65.5,1692.613277
+2011,Oceania,Solomon Islands,68.5,1642.837974
+2012,Africa,Equatorial Guinea,56.7,21557.6528
+2012,Africa,Seychelles,72.7,12845.17363
+2012,Africa,Gabon,63.5,9774.18117
+2012,Africa,Mauritius,73.9,9291.227619
+2012,Africa,South Africa,59.2,7548.163698
+2012,Africa,Namibia,65.8,5749.44752
+2012,Africa,Algeria,75.1,5564.82566
+2012,Americas,Canada,81.6,52496.69487
+2012,Americas,Trinidad and Tobago,78,19152.531
+2012,Americas,Chile,79.9,15431.9293
+2012,Americas,Barbados,75.1,15384.8749
+2012,Americas,Argentina,75.9,12969.7712
+2012,Americas,Antigua and Barbuda,75.9,12565.44197
+2012,Americas,Brazil,74.5,12291.46685
+2012,Asia,Qatar,77.8,88564.82298
+2012,Asia,Singapore,82.5,54431.16199
+2012,Asia,Kuwait,74.3,51264.7134
+2012,Asia,Brunei Darussalam,78.3,47651.2599
+2012,Asia,United Arab Emirates,76.5,42112.23565
+2012,Asia,Israel,81.8,32569.59683
+2012,Asia,Cyprus,80,28951.15556
+2012,Europe,Switzerland,82.7,83164.38795
+2012,Europe,Sweden,81.7,57134.777
+2012,Europe,Netherlands,81.1,49474.7561
+2012,Europe,Ireland,85,49231.36254
+2012,Europe,Austria,88,48333.57273
+2012,Europe,Finland,84,47415.55987
+2012,Europe,Iceland,82.5,44333.8518
+2012,Oceania,Australia,82.3,67677.63477
+2012,Oceania,Fiji,69.4,4546.73854
+2012,Oceania,Samoa,73.2,4234.554443
+2012,Oceania,New Zealand,81.1,3997.25624
+2012,Oceania,Vanuatu,71.4,3158.58688
+2012,Oceania,Solomon Islands,68.7,1858.689868
+2012,Oceania,Kiribati,65.7,1763.815497
+2013,Africa,Seychelles,72.9,15687.34795
+2013,Africa,Gabon,64.6,9679.742995
+2013,Africa,Mauritius,74.1,9637.265
+2013,Africa,South Africa,69,6876.953821
+2013,Africa,Namibia,66.1,5488.131712
+2013,Africa,Algeria,75.3,5471.866766
+2013,Africa,Tunisia,74.9,4199.47253
+2013,Americas,Canada,81.8,52413.72116
+2013,Americas,Uruguay,76.8,16881.2568
+2013,Americas,Chile,81,15941.39722
+2013,Americas,Barbados,75.2,15472.7814
+2013,Americas,Argentina,76,12976.63642
+2013,Americas,Antigua and Barbuda,76.1,12224.86416
+2013,Americas,Brazil,74.7,12216.9446
+2013,Asia,Kuwait,74.5,48399.9581
+2013,Asia,Brunei Darussalam,77.1,44597.27968
+2013,Asia,Israel,82.1,36393.66932
+2013,Asia,Saudi Arabia,74.3,24934.38614
+2013,Asia,Oman,76.2,21268.7564
+2013,Asia,Turkey,75.2,12542.93565
+2013,Asia,Qatar,77.9,8834.87958
+2013,Europe,Luxembourg,81.4,113751.85
+2013,Europe,Switzerland,83,84658.88768
+2013,Europe,Denmark,81,61191.19263
+2013,Europe,Netherlands,81.4,51574.48942
+2013,Europe,Finland,87,49638.7713
+2013,Europe,France,82,42554.1225
+2013,Europe,Greece,86,21874.8195
+2013,Oceania,Australia,82.5,67792.3386
+2013,Oceania,New Zealand,81.3,42889.88141
+2013,Oceania,Fiji,69.6,4763.68956
+2013,Oceania,Tonga,73.2,4266.557174
+2013,Oceania,Samoa,73.6,4219.65123
+2013,Oceania,Marshall Islands,,3617.752354
+2013,Oceania,Tuvalu,,3542.13589
+2014,Africa,Gabon,65.5,9692.163874
+2014,Africa,Botswana,65.1,7497.762376
+2014,Africa,South Africa,62,6479.625659
+2014,Africa,Namibia,65.9,5421.343953
+2014,Africa,Tunisia,75.1,4271.68172
+2014,Africa,Cabo Verde,73,3529.61843
+2014,Africa,Nigeria,53.6,3221.678128
+2014,Americas,Trinidad and Tobago,71.1,19325.24283
+2014,Americas,Uruguay,76.8,16737.89827
+2014,Americas,Barbados,75.4,15359.66971
+2014,Americas,Chile,83,14817.37778
+2014,Americas,Antigua and Barbuda,76.2,12888.29667
+2014,Americas,Panama,77.6,12593.7374
+2014,Americas,Argentina,76.2,12245.25645
+2014,Asia,Qatar,78.1,86852.7119
+2014,Asia,Singapore,82.9,56336.7234
+2014,Asia,United Arab Emirates,76.9,44449.7435
+2014,Asia,Kuwait,74.6,42996.4812
+2014,Asia,Israel,82.2,37582.84624
+2014,Asia,Bahrain,76.8,24983.3792
+2014,Asia,Saudi Arabia,74.4,24575.434
+2014,Europe,Luxembourg,81.7,119172.7418
+2014,Europe,Switzerland,83.2,85814.58857
+2014,Europe,Denmark,84,62425.5392
+2014,Europe,Iceland,82.5,52473.11356
+2014,Europe,Netherlands,81.7,52157.4687
+2014,Europe,Austria,81.4,51322.63997
+2014,Europe,Finland,89,49914.61864
+2014,Oceania,Australia,82.7,62214.6912
+2014,Oceania,New Zealand,81.5,4453.24673
+2014,Oceania,Tonga,73.3,4192.349758
+2014,Oceania,Samoa,73.8,4178.973369
+2014,Oceania,Vanuatu,71.7,3148.36513
+2014,Oceania,Papua New Guinea,62.7,2182.716565
+2014,Oceania,Kiribati,66.1,1684.54274
+2015,Africa,Mauritius,74.6,9252.11724
+2015,Africa,Gabon,66,7388.984144
+2015,Africa,Botswana,65.7,6532.651
+2015,Africa,South Africa,62.9,5769.77258
+2015,Africa,Namibia,65.8,4737.66996
+2015,Africa,Algeria,75.6,4132.76292
+2015,Africa,Tunisia,75.3,3828.91589
+2015,Americas,Canada,82.2,43315.744
+2015,Americas,Trinidad and Tobago,71.2,17321.83373
+2015,Americas,Barbados,75.5,15557.8381
+2015,Americas,Uruguay,77,15524.84247
+2015,Americas,Chile,85,13653.2264
+2015,Americas,Antigua and Barbuda,76.4,13566.9541
+2015,Americas,Argentina,76.3,13467.1236
+2015,Asia,Qatar,78.2,66346.52267
+2015,Asia,Singapore,83.1,53629.73746
+2015,Asia,Israel,82.5,35729.37253
+2015,Asia,Japan,83.7,34474.13736
+2015,Asia,Kuwait,74.7,28975.418
+2015,Asia,Bahrain,76.9,22688.87824
+2015,Asia,Oman,76.6,16627.36433
+2015,Europe,Netherlands,81.9,44292.88473
+2015,Europe,Austria,81.5,43665.947
+2015,Europe,Germany,81,41176.88158
+2015,Europe,France,82.4,36526.7711
+2015,Europe,Spain,82.8,25683.84565
+2015,Europe,Malta,81.7,23819.4636
+2015,Europe,Lithuania,73.6,14252.42853
+2015,Oceania,Australia,82.8,56554.3876
+2015,Oceania,Fiji,69.9,4921.89629
+2015,Oceania,Samoa,74,4149.363444
+2015,Oceania,New Zealand,81.6,3821.8937
+2015,Oceania,Solomon Islands,69.2,1922.41388
+2015,Oceania,Kiribati,66.3,1424.483611
 2015,Oceania,Tonga,73.5,493.775387
