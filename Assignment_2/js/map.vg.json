@@ -89,9 +89,10 @@
           "scale": {
             "domain": [
               30,
+              55,
               80
             ],
-            "scheme": "blues"
+            "scheme": "teals"
           },
           "legend": {
             "format": ".2s"
