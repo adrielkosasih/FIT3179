@@ -118,7 +118,7 @@
         ]
       }
     },
-        {
+    {
       "data": {
         "values": [
           {}
@@ -154,22 +154,22 @@
       },
       "encoding": {
         "latitude": {
-          "datum": 60
+          "datum": 36.2048
         },
         "longitude": {
-          "datum": 110
+          "datum": 175
         }
       },
       "layer": [
         {
           "mark": {
             "type": "text",
-            "fill": "white",
+            "fill": "black",
             "fontSize": 10,
             "align": "right",
             "baseline": "bottom",
             "x": "width",
-            "text": "Russia"
+            "text": "Japan"
           }
         }
       ]
@@ -182,22 +182,22 @@
       },
       "encoding": {
         "latitude": {
-          "datum": 37
+          "datum": 43
         },
         "longitude": {
-          "datum": -97
+          "datum": -10
         }
       },
       "layer": [
         {
           "mark": {
             "type": "text",
-            "fill": "white",
+            "fill": "black",
             "fontSize": 10,
             "align": "right",
             "baseline": "bottom",
             "x": "width",
-            "text": "USA"
+            "text": "France"
           }
         }
       ]
@@ -210,22 +210,50 @@
       },
       "encoding": {
         "latitude": {
-          "datum": -15
+          "datum": 35
         },
         "longitude": {
-          "datum": -45
+          "datum": -10
         }
       },
       "layer": [
         {
           "mark": {
             "type": "text",
-            "fill": "white",
-            "fontSize": 8,
+            "fill": "black",
+            "fontSize": 10,
             "align": "right",
             "baseline": "bottom",
             "x": "width",
-            "text": "Brazil"
+            "text": "Spain"
+          }
+        }
+      ]
+    },
+    {
+      "data": {
+        "values": [
+          {}
+        ]
+      },
+      "encoding": {
+        "latitude": {
+          "datum": 60.1282
+        },
+        "longitude": {
+          "datum": 18.6435
+        }
+      },
+      "layer": [
+        {
+          "mark": {
+            "type": "text",
+            "fill": "black",
+            "fontSize": 10,
+            "align": "right",
+            "baseline": "bottom",
+            "x": "width",
+            "text": "Sweden"
           }
         }
       ]
