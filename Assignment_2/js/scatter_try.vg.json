@@ -1,19 +1,14 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "background": "#d6dee3",
-  "description": "An interactive scatter plot of global health statistics by country and year.",
   "data": {
-    "url": "https://raw.githubusercontent.com/adrielkosasih/FIT3179/main/Assignment_2/data/Expectancy_Scatter.csv",
+    "url": "https://raw.githubusercontent.com/adrielkosasih/FIT3179/main/Assignment_2/data/scatter_GDP2.csv",
     "format": {
       "type": "csv",
       "parse": {
         "year": "number",
         "Life_exp": "number",
-        "Alcohol": "number",
-        "bmi": "number",
-        "Hiv": "number",
-        "polio": "number",
-        "fertility": "number"
+        "GDP": "number"
       }
     }
   },
@@ -25,7 +20,7 @@
         {
           "filter": {
             "field": "country",
-            "equal": "New Zealand"
+            "equal": "Australia"
           }
         },
         {
@@ -37,8 +32,8 @@
       "mark": {
         "type": "text",
         "fontSize": 100,
-        "x": 220,
-        "y": 175,
+        "x": 400,
+        "y": 250,
         "opacity": 0.06
       },
       "encoding": {
@@ -50,12 +45,17 @@
     {
       "encoding": {
         "x": {
-          "field": "Alcohol",
+          "field": "GDP",
           "type": "quantitative",
-          "scale": {"domain": [0, 18]},
+          "scale": {
+            "domain": [
+              0,
+              120000
+            ]
+          },
           "axis": {
             "tickCount": 5,
-            "title": "Alcohol"
+            "title": "GDP"
           }
         },
         "y": {
@@ -197,8 +197,8 @@
           ],
           "mark": {
             "type": "text",
-            "yOffset": -5,
-            "fontSize": 9,
+            "yOffset": -12,
+            "fontSize": 12,
             "fontWeight": "bold"
           },
           "encoding": {
@@ -228,14 +228,6 @@
             }
           ],
           "layer": [
-            {
-              "mark": {
-                "type": "text",
-                "yOffset": -5,
-                "fontSize": 9,
-                "color": "gray"
-              }
-            },
             {
               "mark": {
                 "type": "circle",
