@@ -1,7 +1,7 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "background": "#d6dee3",
-  "width": "container",
+  "width": 400,
   "height": 350,
   "data": {
     "url": "https://raw.githubusercontent.com/adrielkosasih/FIT3179/main/Assignment_2/data/life_exp_region.csv",
@@ -22,14 +22,16 @@
           "Africa",
           "Americas",
           "Asia",
-          "Europe"
+          "Europe",
+          "Oceania"
         ],
         "labels": [
           "Show All",
           "Africa",
           "Americas",
           "Asia",
-          "Europe"
+          "Europe",
+          "Oceania"
         ],
         "name": "Region Selection: "
       }
@@ -53,151 +55,37 @@
       "axis": {
         "titleFontSize": 10
       }
-    },
-    "color": {
-      "condition": {
-        "selection": "hover",
-        "field": "region",
-        "type": "nominal",
-        "title": null
-      },
-      "value": "grey"
-    },
-    "opacity": {
-      "condition": {
-        "selection": "hover",
-        "value": 1
-      },
-      "value": 0.075
-    },
-    "tooltip": [
-      {
-        "field": "region",
-        "type": "nominal",
-        "title": "Region"
-      },
-      {
-        "field": "year",
-        "type": "temporal",
-        "title": "Year",
-        "axis": {
-          "format": "%Y"
-        }
-      },
-      {
-        "field": "life_exp",
-        "type": "quantitative",
-        "title": "Average Life Expectancy",
-        "format": ".2f"
-      }
-    ]
+    }
   },
   "layer": [
     {
-      "selection": {
-        "hover": {
-          "type": "single",
-          "on": "mouseover",
-          "empty": "all",
-          "fields": [
-            "region"
-          ],
-          "init": {
-            "region": "Asia"
-          }
-        }
-      },
-      "mark": {
-        "type": "line",
-        "strokeWidth": 8,
-        "stroke": "transparent",
-        "point": {
-          "filled": false,
-          "fill": "white"
-        }
-      }
-    },
-    {
       "mark": {
         "type": "line",
         "point": {
           "filled": false,
           "fill": "white"
         }
-      }
-    },
-    {
-      "mark": {
-        "type": "text",
-        "align": "right",
-        "baseline": "middle",
-        "dx": -12,
-        "fontSize": 11.5,
-        "fontStyle": "italic"
       },
       "encoding": {
-        "text": {
-          "field": "life_exp",
-          "type": "quantitative",
-          "format": ".2f"
-        },
         "color": {
-          "value": "black"
-        },
-        "opacity": {
-          "condition": {
-            "test": "datum['region'] == 'Europe'&& datum['life_exp'] > 80",
-            "value": 1
-          },
-          "value": 0
-        },
-        "tooltip": [
-          {
-            "field": "region",
-            "type": "nominal",
-            "title": "Region"
-          },
-          {
-            "field": "year",
-            "type": "temporal",
-            "title": "Year",
-            "axis": {
-              "format": "%Y"
-            }
-          },
-          {
-            "field": "life_exp",
-            "type": "quantitative",
-            "title": "Average Life Expectancy",
-            "format": ".2f"
+          "field": "region",
+          "type": "nominal",
+          "scale": {
+            "domain": [
+              "Africa",
+              "Americas",
+              "Asia",
+              "Europe",
+              "Oceania"
+            ],
+            "range": [
+              "#d55e00",
+              "#cc79a7",
+              "#0072b2",
+              "#009e73",
+              "#f0e442"
+            ]
           }
-        ]
-      }
-    },
-    {
-      "mark": {
-        "type": "circle",
-        "align": "right",
-        "baseline": "middle",
-        "dx": -12,
-        "fontSize": 10,
-        "fontStyle": "italic"
-      },
-      "encoding": {
-        "text": {
-          "field": "life_exp",
-          "type": "quantitative",
-          "format": ".2f"
-        },
-        "color": {
-          "value": "black"
-        },
-        "opacity": {
-          "condition": {
-            "test": "datum['region'] == 'Europe'&& datum['life_exp'] > 80",
-            "value": 1
-          },
-          "value": 0
         },
         "tooltip": [
           {
@@ -206,52 +94,10 @@
             "title": "Region"
           },
           {
-            "field": "year",
-            "type": "temporal",
-            "title": "Year",
-            "axis": {
-              "format": "%Y"
-            }
-          },
-          {
             "field": "life_exp",
             "type": "quantitative",
-            "title": "Average Life Expectancy",
+            "title": "Life Expectancy",
             "format": ".2f"
-          }
-        ]
-      }
-    },
-    {
-      "mark": {
-        "type": "text",
-        "align": "right",
-        "baseline": "middle",
-        "dx": -15,
-        "fontSize": 11.5,
-        "fontStyle": "italic"
-      },
-      "encoding": {
-        "text": {
-          "field": "life_exp",
-          "type": "quantitative",
-          "format": ".2f"
-        },
-        "color": {
-          "value": "black"
-        },
-        "opacity": {
-          "condition": {
-            "test": "datum['region'] == 'Africa'&& datum['life_exp'] < 55",
-            "value": 1
-          },
-          "value": 0
-        },
-        "tooltip": [
-          {
-            "field": "region",
-            "type": "nominal",
-            "title": "Region"
           },
           {
             "field": "year",
@@ -260,71 +106,9 @@
             "axis": {
               "format": "%Y"
             }
-          },
-          {
-            "field": "life_exp",
-            "type": "quantitative",
-            "title": "Average Life Expectancy",
-            "format": ".2f"
-          }
-        ]
-      }
-    },
-    {
-      "mark": {
-        "type": "circle",
-        "align": "right",
-        "baseline": "middle",
-        "dx": -12,
-        "fontSize": 10,
-        "fontStyle": "italic"
-      },
-      "encoding": {
-        "text": {
-          "field": "life_exp",
-          "type": "quantitative",
-          "format": ".2f"
-        },
-        "color": {
-          "value": "black"
-        },
-        "opacity": {
-          "condition": {
-            "test": "datum['region'] == 'Africa'&& datum['life_exp'] < 55",
-            "value": 1
-          },
-          "value": 0
-        },
-        "tooltip": [
-          {
-            "field": "region",
-            "type": "nominal",
-            "title": "Region"
-          },
-          {
-            "field": "year",
-            "type": "temporal",
-            "title": "Year",
-            "axis": {
-              "format": "%Y"
-            }
-          },
-          {
-            "field": "life_exp",
-            "type": "quantitative",
-            "title": "Average Life Expectancy",
-            "format": ".2f"
           }
         ]
       }
     }
-  ],
-  "config": {
-    "axis": {
-      "grid": false
-    },
-    "view": {
-      "stroke": "transparent"
-    }
-  }
+  ]
 }
