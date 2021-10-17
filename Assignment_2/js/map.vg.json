@@ -102,7 +102,7 @@
           {
             "field": "country",
             "type": "nominal",
-            "title": "Suburb"
+            "title": "Country"
           },
           {
             "field": "Life_exp",
