@@ -1,4 +1,4 @@
-Year of Year,Region,Country,Avg. Life expectancy,Avg. Bmi,Avg. Alcohol,Avg. Hiv/Aids,Avg. Polio,Avg. Fertility Rate,Avg. GDP
+year,region,country,Life_exp,Avg. Bmi,Avg. Alcohol,Avg. Hiv/Aids,Avg. Polio,Avg. Fertility Rate,GDP
 2000,Africa,Uganda,46.6,13,10.47,11.6,55,6.865,257.63369
 2000,Africa,Nigeria,47.1,16.9,9.23,4.9,31,6.106,379.1193264
 2000,Africa,Gabon,61,28.1,8.87,9.5,44,4.539,"4,116.47"
