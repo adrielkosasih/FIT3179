@@ -1,6 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title": "Life Expectancy 2000-2015",
+  "background": "#d6dee3",
   "width": "container",
   "height": 350,
   "projection": {
@@ -67,6 +67,10 @@
         },
         {
           "filter": "datum.year == Year_selection"
+        },
+        {
+          "calculate": "datum.Life_exp",
+          "as": "Life Expectancy"
         }
       ],
       "mark": {
@@ -80,7 +84,7 @@
           "type": "geojson"
         },
         "color": {
-          "field": "Life_exp",
+          "field": "Life Expectancy",
           "type": "quantitative",
           "scale": {
             "domain": [
